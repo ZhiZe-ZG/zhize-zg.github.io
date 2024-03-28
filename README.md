@@ -1,3 +1,3 @@
 # ZhiZe's GitHub Pages
 
-Some tech eassy of ZhiZe.
+Some tech essays of ZhiZe.
