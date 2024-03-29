@@ -1,8 +1,8 @@
 ---
 title:  "Setting Up GitHub Pages"
 date:   2024-03-29 15:16:36 +0800
-category: 
-tags: GitHubPages Jekyll Namecheap
+category: Tech_Note
+tags: GitHub_Pages Jekyll Namecheap
 ---
 
 GitHub Pages is a free personal website hosting provided by GitHub. You can use this service to build your own website for resumes, project presentations, blogs or online documents.
