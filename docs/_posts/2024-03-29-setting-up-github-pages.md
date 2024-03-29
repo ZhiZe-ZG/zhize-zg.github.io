@@ -1,6 +1,8 @@
 ---
 title:  "Setting Up GitHub Pages"
 date:   2024-03-29 15:16:36 +0800
+category: TechNote
+tags: GitHubPages Jekyll NameCheap
 ---
 
 GitHub Pages is a free personal website hosting provided by GitHub. You can use this service to build your own website for resumes, project presentations, blogs or online documents.
@@ -38,12 +40,22 @@ After the repository is built, follow steps in [Creating a GitHub Pages site](ht
 
 In settings, you can directly use the repository root directory to store website configuration and content files. But I prefer to use the `docs` folder in the root directory to store this content. Because it facilitates management. In other folders under the root directory, you can store description files or automated scripts related to website construction that you do not want to display directly on the website.
 
+To verify that the website is running successfully, you can try accessing `<user-name>.github.io` in your browser. There are many reasons why this URL cannot be accessed normally. Here is a special mention of the issue of no default homepage. According to Jekyll's convention, `index.md` or `index.html` under the website file path (root directory or `docs`) will be recognized as the website homepage. If the file does not exist or is blank, the displayed home page may also be blank. At this point the website is running normally, but the homepage looks unresponsive. So please make sure you write some displayable content in `index.md` or `index.html` to facilitate testing the website status. 
+
+For other settings, please refer to the documentation or tutorials. These should be kept as simple as possible, just enough to make sure the website works. Please wait until the website can run normally before trying to organize or standardize them.
+
+## Domain Problem
+
+
+
+
+
 <!--To Be Continue-->
 <!--index.md 或者 index.html 比 README 更优先，确保有一个可以看到的内容以测试网站是否成功运行。更多约定还是参考 Jekyll-->
 <!--使用初始化工具可以，但是理解每一行配置更重要，所以一行一行抄也是一个办法-->
+
 * [Jekyll](https://jekyllrb.com/)
 
-## Domain Problem
 <!--默认域名，域名的购买，设置-->
 
 ## Local Debugging

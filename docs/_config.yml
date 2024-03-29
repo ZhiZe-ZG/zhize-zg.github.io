@@ -276,6 +276,9 @@ compress_html:
     envs: development
 
 # Time format
+# %z present time zone
+# with %z will show the local time
+# without %z will show the UTC time
 date_format: "%Y-%m-%d %H:%M:%S"
 
 # Reading speed (used for show read time)
