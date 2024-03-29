@@ -29,7 +29,7 @@ github_username:  ZhiZe-ZG
 logo: "/assets/images/zhize_logo.png"
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
@@ -52,3 +52,13 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Default settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      layout: default
+      author: ZhiZe
