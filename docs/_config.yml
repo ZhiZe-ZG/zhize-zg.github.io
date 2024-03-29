@@ -29,9 +29,12 @@ github_username:  ZhiZe-ZG
 logo: "/assets/images/zhize_logo.png"
 
 # Build settings
-theme: minima
+# theme: minima
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -54,11 +57,10 @@ plugins:
 #   - vendor/ruby/
 
 # Default settings
+# still not work
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
-      type: "post"
     values:
-      layout: default
+      layout: home
       author: ZhiZe
