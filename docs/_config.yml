@@ -23,12 +23,11 @@ name                     : "ZhiZe"
 description              : "Some tech essays of ZhiZe."
 url                      : "https://www.zhize.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "ZhiZe-ZG/zhize-zg.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/zhize_logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -104,7 +103,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "ZhiZe"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
@@ -276,6 +275,11 @@ compress_html:
   ignore:
     envs: development
 
+# Time format
+date_format: "%Y-%m-%d %H:%M:%S"
+
+# Reading speed (used for show read time)
+words_per_minute: 200
 
 # Defaults
 defaults:
@@ -286,6 +290,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: true    
       read_time: true
       comments: # true
       share: true
