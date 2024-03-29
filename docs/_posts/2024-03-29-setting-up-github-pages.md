@@ -13,6 +13,8 @@ If you want to set up your own GitHub Pages, there is a detailed  official docum
 
 But for me the documentation is not very satisfying. Therefore, I will organize and supplement what I think is important information in this article.
 
+Please note that: **This article is intended primarily as an introduction and supplement to documents. If you have any questions while reading, please refer to the documents listed in this article.**
+
 ## Basic Introduction
 
 Let's start with some basics. Simply put, a website is a program running on a server. When a client accesses the website, the program on the server sends the web page data to the client. So, usually we need a server to start website construction. But the basis of the GitHub Pages service is to use GitHub's server as a server for our website. So the server problem is solved.
@@ -26,16 +28,25 @@ There are two points that need additional explanation:
 1. Although GitHub Pages provides Jekyll build and deployment services by default, you can also customize the build and deployment process. The building and deployment of GitHub Pages is based on GitHub Actions, so customizing this process is actually customizing GitHub Actions.
 2. For simple small websites, the configuration of Jekyll is not complicated. But when you want to implement more functions, the development of configurations becomes more complicated. One solution is to modify or re-develop based on the already developed configuration. In Jekyll, the finished configuration for people to call is called "theme". For most GitHub Pages users, choosing and fine-tuning a theme is also an important part of building a website.
 
-<!--To Be Continue-->
 ## Create GitHub Pages
-<!--仓库的搭建不讲，说一下可以直接把仓库作为站点，也可以创建一个文件夹，嵌入其中更推荐后者-->
+
+The GitHub Pages service is based on GitHub repositories. The configuration and content files used to generate the GitHub Pages site need to be uploaded to a GitHub repository. Each GitHub account can have multiple GitHub repositories, but only one GitHub Pages site. Therefore, the general approach is to create a repository specifically for GitHub Pages and store all configuration and content files in it.
+
+After my personal testing, the name of the repository is not important, but the repository is generally named `<user-name>.github.io` (the `<user-name>` represents your GitHub account username). The content related to repository creation and git usage will not be discussed here.
+
+After the repository is built, follow steps in [Creating a GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) to complete the settings to construct GitHub Pages site.
+
+In settings, you can directly use the repository root directory to store website configuration and content files. But I prefer to use the `docs` folder in the root directory to store this content. Because it facilitates management. In other folders under the root directory, you can store description files or automated scripts related to website construction that you do not want to display directly on the website.
+
+<!--To Be Continue-->
+<!--index.md 或者 index.html 比 README 更优先，确保有一个可以看到的内容以测试网站是否成功运行。更多约定还是参考 Jekyll-->
 <!--使用初始化工具可以，但是理解每一行配置更重要，所以一行一行抄也是一个办法-->
 * [Jekyll](https://jekyllrb.com/)
 
-## Local Debugging
-
 ## Domain Problem
 <!--默认域名，域名的购买，设置-->
+
+## Local Debugging
 
 ## Use Themes
 
