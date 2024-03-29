@@ -13,6 +13,12 @@ If you want to set up your own GitHub Pages, there is a detailed  official docum
 
 But for me the documentation is not very satisfying. Therefore, I will organize and supplement what I think is important information in this article.
 
+Let's start with some basics. Simply put, a website is a program running on a server. When a client accesses the website, the program on the server sends the web page data to the client. So, usually we need a server to start website construction. But the basis of the GitHub Pages service is to use GitHub's server as a server for our website. So the server problem is solved.
+
+After having the hardware, we also face the problem of software. We need a program that listens to network requests and delivers web page data when clients accesses the website.
+
+
+
 * [Jekyll](https://jekyllrb.com/)
 * [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
 
