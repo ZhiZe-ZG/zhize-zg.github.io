@@ -29,7 +29,7 @@ github_username:  ZhiZe-ZG
 logo: "/assets/images/zhize_logo.png"
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
