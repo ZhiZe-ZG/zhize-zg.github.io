@@ -22,10 +22,11 @@ title: ZhiZe's GitHub Pages
 email: x913724685@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Some tech essays of ZhiZe.
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.zhize.xyz" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username:  ZhiZe-ZG
+logo: "/assets/images/zhize_logo.png"
 
 # Build settings
 theme: jekyll-theme-minimal
