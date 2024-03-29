@@ -2,4 +2,8 @@
 
 Some tech essays of ZhiZe.
 
-* [Test File](./TestFile.md)
+In docs folder, run this to test:
+
+```powershell
+bundle exec jekyll server
+```
