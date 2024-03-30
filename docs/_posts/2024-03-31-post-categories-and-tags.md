@@ -5,7 +5,13 @@ category: Tech_Note/Personal_Website
 tags: GitHub_Pages Jekyll Front_Matter Minimal_Mistakes
 ---
 
-## post 分类用数据
+In this post, we will discuss taxonomy of posts.
+
+## Categories
+
+## Tags
+
+## Generating index
 
 后续再讲
 
