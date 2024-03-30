@@ -34,9 +34,11 @@ So Jekyll separates a type called "posts" from the pages. A post is a diary or b
 
 Jekyll will regard the `_post` folder in the website's main directory (the directory where `_config.yml` is located) as the folder where posts are stored.
 
-Each post should be named in the format `<year>-<month>-<day>-<name>.<format>`. In the format, `<year>` is the four-digit year, `<month>` is the two-digit month, and `<day>` is the two-digit day. `<name>` is the name of the article. If the name consists of multiple words, use `-` to separate the words. Finally, `format` can be a Markdown suffix `md` or an HTML suffix `html`.
+Each post should be named in the format `<year>-<month>-<day>-<name>.<format>`. In the format, `<year>` is the four-digit year, `<month>` is the two-digit month, and `<day>` is the two-digit day. `<name>` is the name of the article. If the name consists of multiple words, use `-` to separate the words. It should be noted that `<name>` here is mainly used to distinguish files. The title in the actual generated post page is specified by Front Matter within the file. Finally, `format` can be a Markdown suffix `md` or an HTML suffix `html`. 
 
 According to Jekyll's default settings, these settings in the posts name determine its access path. Posts written at similar times will be merged into similar paths. But the default setting of Minimal Mistakes is not like this. Regarding the issue of post access paths in Minimal Mistakes, we will discuss later. As a temporary access method, you can put the code listed above on the home page. The default homepage style of Minimal Mistakes also automatically lists all recently written posts.
+
+## 
 
 
 <!--To Be Continue-->
