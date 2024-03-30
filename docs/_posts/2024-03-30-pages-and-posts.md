@@ -40,7 +40,7 @@ According to Jekyll's default settings, these settings in the posts name determi
 
 ## Manage Pages with Minimal Mistakes
 
-If you feel that the various pages placed directly in the root directory are too messy, you can use the function provided by Minimal Mistakes to place them into one folder. For configuration methods, please refer to [Working with pages](https://mmistakes.github.io/minimal-mistakes/docs/pages/).
+If you feel that the various pages placed directly in the root directory are too messy, you can use the function provided by Minimal Mistakes to place them into one folder. For configuration methods, please refer to [Working with Pages](https://mmistakes.github.io/minimal-mistakes/docs/pages/).
 
 The main configuration process involves three types of changes: First, create a `_pages` folder and put all functional pages in it. Second, change the Front Matter of each page in `_pages` and specify access paths for them. Third, changing `_config.yml` let Jekyll to include `_pages` in the list of folders that need to be processed (if you have directly copied the default `_config.yml` provided by Minimal Mistakes before, it may already contain a reference to the `_pages` folder.).
 

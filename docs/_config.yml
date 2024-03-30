@@ -283,6 +283,11 @@ date_format: "%Y-%m-%d %H:%M:%S"
 # Reading speed (used for show read time)
 words_per_minute: 200
 
+# Collections test
+collections:
+  book:
+    output: true
+
 # Defaults
 defaults:
   # _posts
@@ -294,6 +299,17 @@ defaults:
       layout: single
       author_profile: true
       show_date: true    
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: book
+    values:
+      layout: home
+      author_profile: true
+      show_date: true
       read_time: true
       comments: # true
       share: true

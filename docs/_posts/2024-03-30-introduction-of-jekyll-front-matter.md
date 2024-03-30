@@ -33,49 +33,46 @@ published: false
 
 This is a Jekyll predefined global variable that can be used to hide unfinished pages.
 
-## Title
+## title
 
-title > <name>
+The variable `title` is not a predefined variable, but many themes or page templates use it. It represents the title of an article, which will appear on the article page or various automatically generated index pages.
 
-`#` is in the page 不会影响其他页面生成的文章列表等
+If this item on the post page is empty, the `<name>` part of the post file name will be used to replace the title.
 
-不是预定义变量，但是使用非常普遍
+Content marked with `#` in Markdown or `h1` in HTML will only be treated as ordinary paragraphs and will not appear as article titles on various automatically generated index pages. However, the display effect of title in most themes is the same as `h1`, so it is recommended that if you want to use `h` tags (or `#` marks in Markdown) in articles, start with `h2` (or `##`).
 
-## 写作时间
+## date
 
-和文件名可以不一样，用于分类或者排序，覆盖文件名
+The variable `date` is one of the variables predefined by Jekyll for posts. It is used to accurately specify the writing time of an article, making it easy to index posts by time. When `date` is set, the writing time specified in the original file name will be ignored by the indexes.
+
+The format of the date value is `YYYY-MM-DD HH:MM:SS ±TTTT`. The letters in front represent the year, month, day, hour, minute and second respectively. It should be explained that `±TTTT` should be replaced by the time zone code. The time zone code consists of a positive or negative sign followed by four digits. A `+` indicates that the time zone is before UTC, and a `-` indicates that it is after UTC. The four-digit number represents the number of hours and minutes from UTC. For example, `+0900` means UTC+09:00.
 
 ## permalink
 
+Jekyll has a set of rules that automatically generate corresponding web page access paths based on file paths and file names. If you want to directly specify an access path to the page, you can use the `permalink` variable.
+
+For example, if I set the following settings for a page in my website, then its access path is <https://www.zhize.xyz/categories/>:
+
+```yaml
+permalink: /categories/
+```
+
+(my website address is `https://www.zhize.xyz`.)
+
 ## layout
 
-## defaults settings in _config.yml
+Jekyll will use some configured page templates when generating page files. The article content you write in the file will be filled into the page template. To specify which template your page is generated from, use the `layout` variable.
 
-## 分类用数据
+If you specify a `layout` but the displayed effect does not have any template style, please check whether the theme you are using provides a template with that name.
 
-后续再讲
+Generally speaking, the page template of the theme will be placed in the `_layout` folder. You can also create this folder in your own root directory and put your own templates in it. If your self-made template has the same name as the template provided by the theme, your self-made template will overwrite the theme template. This logic also applies to other configurations provided by themes or Jekyll.
 
-category tags
+## Setting Default Front Matter Values
 
-category 对于路径的影响小于 permalink 但是高于其他
+Writing a lengthy Front Matter for each page is quite a bit of work. So Jekyll allows you to set default values for the page's Front Matter in `_config.yml`.
 
-<!--Front Matter 简介-->
-<!--可以保存元数据，使用 Liquid 访问-->
-<!--使用defaults 自动填写-->
-<!--Categories and Tags-->
-<!--目录和标签的逻辑分类-->
-<!--目录会影响 post 路径，没有目录的文章路径-->
-<!--目录建议用一个，用分隔划分层次，方便生成索引-->
-<!--标签很多个-->
-<!--索引生成->
-<!--Liquid 的简单语法和 Front Matter 定义元数据-->
-<!--To Be Continue-->
-<!--更多约定还是参考 Jekyll-->
-<!--Jekyll 使用这些自动分类，但是 Minimal Mistake 不是-->
-<!--front 信息-->
-<!--defaults 信息-->
-<!--title 覆盖文件名，路径问题，起名建议-->
-<!--分类管理建议-->
-<!--pages 的处理方式-->
-<!--其他类别，例如写一本书，就可以建立一个新的类别-->
-<!--使用初始化工具可以，但是理解每一行配置更重要，所以一行一行抄也是一个办法-->
+You can refer to [Front Matter Defaults](https://jekyllrb.com/docs/configuration/front-matter-defaults/) to write this type of configuration.
+
+The `defaults` of `_config.yml` consists of multiple items. Each project consists of two parts. The `scope` part indicates the path and page type that the rules can apply. The `values` part represents the variables to be filled and their default values.
+
+It should be noted that the `type` here is not a simple variable name, but the name of the collection. We will discuss Jekyll’s collections later.
