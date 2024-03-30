@@ -17,8 +17,47 @@ In this post I will briefly introduce some of the key points in my opinion.
 
 ## Grammar of Front Matter
 
+Front Matter is a block marked by `---` at the beginning of the file. In the Front Matter block, we can use YAML syntax to record metadata.
 
+You can customize variable names in Front Matter and then reference them through Liquid in the page. But this is a little complicated for us now. We first have to figure out the usage of the variables defined by Jekyll or the theme. For example, setting `published` to false will allow Jekyll to hide the page in the generated website:
 
+```yaml
+---
+title: "Introduction of Jekyll Front Matter"
+date: 2024-03-30 23:38:53 +0800
+category: Tech_Note/Personal_Website
+tags: GitHub_Pages Jekyll Front_Matter
+published: false
+---
+```
+
+This is a Jekyll predefined global variable that can be used to hide unfinished pages.
+
+## Title
+
+title > <name>
+
+`#` is in the page 不会影响其他页面生成的文章列表等
+
+不是预定义变量，但是使用非常普遍
+
+## 写作时间
+
+和文件名可以不一样，用于分类或者排序，覆盖文件名
+
+## permalink
+
+## layout
+
+## defaults settings in _config.yml
+
+## 分类用数据
+
+后续再讲
+
+category tags
+
+category 对于路径的影响小于 permalink 但是高于其他
 
 <!--Front Matter 简介-->
 <!--可以保存元数据，使用 Liquid 访问-->
