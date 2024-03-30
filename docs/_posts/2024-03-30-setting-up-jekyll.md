@@ -99,6 +99,8 @@ A Jekyll theme is a collection of Jekyll configuration files and web page style 
 
 I personally use the Minimal Mistakes theme, and the following introduction will also use this as an example.
 
+You can complete the installation of Minimal Mistakes according to [Minimal Mistakes Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/). The process is basically to add some items to the `Gemfile` and `_config.yml` and then use bundler to install them automatically. If your website doesn’t have a lot of configuration, I recommend just copying the `_config.yml` of Minimal Mistakes and filling in your own information.
+
 <!--To Be Continue-->
 <!--更多约定还是参考 Jekyll-->
 <!--使用初始化工具可以，但是理解每一行配置更重要，所以一行一行抄也是一个办法-->
