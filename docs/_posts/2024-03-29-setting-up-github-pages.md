@@ -1,7 +1,7 @@
 ---
 title:  "Setting Up GitHub Pages"
 date:   2024-03-29 15:16:36 +0800
-category: Tech_Note
+category: Tech_Note/Personal_Website
 tags: GitHub_Pages Jekyll Namecheap
 ---
 
@@ -55,20 +55,3 @@ After completing the purchase of the domain name, you also need to set up the do
 On the domain name registrar side, you should add host records (in the "Advanced DNS" page, if you use Namecheap). The information that needs to be filled in here refers to [Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site). The `A` records or the `AAAA` records here is several GitHub server IP (`A` for IPv4, `AAAA` for IPv6). Because our GitHub Pages site is hosted on GitHub's servers, our domain name needs to point to GitHub's server IP first. Then GitHub identify different users' GitHub Pages site by alias. Actually, the `<user-name>.github.io` is the alia of your GitHub Pages site. The value of `CNAME` record just is the alia of your GitHub Pages site.
 
 One the GitHub side, you should tell GitHub your custom domain name. You can configure this in the repository's settings page (also refer to [Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)). GitHub will test the DNS status of your domain name in this step. However, the newly configured DNS information will take some time to update, so if this step prompts that there is a problem with DNS resolution, please wait patiently for a few minutes and try again.
-
-## Local Debugging
-
-<!--To Be Continue-->
-<!--更多约定还是参考 Jekyll-->
-<!--使用初始化工具可以，但是理解每一行配置更重要，所以一行一行抄也是一个办法-->
-
-* [Jekyll](https://jekyllrb.com/)
-
-<!--默认域名，域名的购买，设置-->
-
-## Use Themes
-
-* [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
-
-
-
