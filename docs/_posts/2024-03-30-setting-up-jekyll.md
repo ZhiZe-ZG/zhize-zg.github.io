@@ -2,7 +2,7 @@
 title:  "Setting Up Jekyll for Develop GitHub Pages"
 date:   2024-03-30 13:42:04 +0800
 category: Tech_Note/Personal_Website
-tags: GitHub_Pages Jekyll Minimal_Mistakes Ruby
+tags: GitHub_Pages Ruby Jekyll Bundler Minimal_Mistakes
 ---
 
 In this post, we will talk about how to set up a local Jekyll environment to  test your site before upload to GitHub Pages. Then we will introduce Minimal Mistakes, a famous Jekyll theme for personal website. Hope you have already known how to deploy a basic GitHub Pages site before reading this.
@@ -60,13 +60,13 @@ jekyll new .
 
 In the `Gemfile` this line specifies where to download packages:
 
-``` Gemfile
+```gemfile
 source "https://rubygems.org"
 ```
 
 On my Windows system, when running Jekyll I get an error message saying `webrick` is missing. So adding this line to the `Gemfile` fixes the issue:
 
-```Gemfile
+```gemfile
 gem "webrick"
 ```
 
@@ -101,6 +101,15 @@ I personally use the Minimal Mistakes theme, and the following introduction will
 
 You can complete the installation of Minimal Mistakes according to [Minimal Mistakes Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/). The process is basically to add some items to the `Gemfile` and `_config.yml` and then use bundler to install them automatically. If your website doesn’t have a lot of configuration, I recommend just copying the `_config.yml` of Minimal Mistakes and filling in your own information.
 
-<!--To Be Continue-->
-<!--更多约定还是参考 Jekyll-->
-<!--使用初始化工具可以，但是理解每一行配置更重要，所以一行一行抄也是一个办法-->
+Finally, you can create a very simple home page with the following code in `index.md`:
+
+```markdown
+---
+layout: home
+title: ZhiZe' GitHub Pages
+---
+
+Some tech essays of ZhiZe.
+```
+
+Remember to replace the title and web page content ("Some tech essays of ZhiZe.") with your own.
