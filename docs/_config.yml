@@ -282,8 +282,9 @@ words_per_minute: 200
 
 # Collections test
 collections:
-  book:
+  knowledge-taxonomy:
     output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -302,9 +303,9 @@ defaults:
       related: true
   - scope:
       path: ""
-      type: book
+      type: knowledge-taxonomy
     values:
-      layout: home
+      layout: single
       author_profile: true
       show_date: true
       read_time: true

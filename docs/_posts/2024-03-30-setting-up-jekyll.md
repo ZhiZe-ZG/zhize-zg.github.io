@@ -1,8 +1,8 @@
 ---
 title:  "Setting Up Jekyll for Develop GitHub Pages"
 date:   2024-03-30 13:42:04 +0800
-category: Tech_Note/Personal_Website
-tags: GitHub_Pages Ruby Jekyll Bundler Minimal_Mistakes
+category: Tech-Note/Personal-Website
+tags: GitHub-Pages Ruby Jekyll Bundler Minimal-Mistakes
 ---
 
 In this post, we will talk about how to set up a local Jekyll environment to  test your site before upload to GitHub Pages. Then we will introduce Minimal Mistakes, a famous Jekyll theme for personal website. Hope you have already known how to deploy a basic GitHub Pages site before reading this.

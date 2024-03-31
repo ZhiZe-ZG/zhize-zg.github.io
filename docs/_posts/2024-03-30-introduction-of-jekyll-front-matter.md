@@ -1,8 +1,8 @@
 ---
 title: "Introduction of Jekyll Front Matter"
 date: 2024-03-30 23:38:53 +0800
-category: Tech_Note/Personal_Website
-tags: GitHub_Pages Jekyll Front_Matter
+category: Tech-Note/Personal-Website
+tags: GitHub-Pages Jekyll Front-Matter
 ---
 
 Both Markdown and HTML are markup languages that tend to represent information on the page that is displayed to humans. The content is either directly displayed on the final page, or a description of the style of the displayed content. However, during the automatic generation of pages, there is some information that helps the program automatically process it, but does not necessarily need to be displayed on the page. For example, the writing time and classification of an article do not necessarily need to be displayed on the final page, but for websites that need to be indexed, this information is necessary for each page. This kind of information that is automatically processed by the program and does not necessarily appear on the final page is called "metadata".
@@ -25,8 +25,8 @@ You can customize variable names in Front Matter and then reference them through
 ---
 title: "Introduction of Jekyll Front Matter"
 date: 2024-03-30 23:38:53 +0800
-category: Tech_Note/Personal_Website
-tags: GitHub_Pages Jekyll Front_Matter
+category: Tech-Note/Personal-Website
+tags: GitHub-Pages Jekyll Front-Matter
 published: false
 ---
 ```
