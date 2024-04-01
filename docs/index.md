@@ -5,15 +5,16 @@ title: ZhiZe' GitHub Pages
 
 Some tech essays of ZhiZe.
 
-Posts:
+## Posts
 
 * [Category Archive](./categories)
 * [Tag Archive](./tags)
 * [Year Archive](./years)
 
-Pages in collections:
+<!-- collections -->
 
-{% for collection in site.collections%}
+{% assign pure_collections = site.collections | where_exp:"item", "item.label != 'posts'"%}
+{% for collection in pure_collections%}
 <h2>{{collection.label}}<h2>
 {% for item in collection.docs %}
   <h2>

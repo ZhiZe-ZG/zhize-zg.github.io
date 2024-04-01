@@ -116,6 +116,26 @@ Pages in collections:
 {% endraw %}
 ```
 
+If you don't want to include the posts collection, use this:
+
+```HTML
+{% raw %}
+Pages in collections:
+
+{% assign pure_collections = site.collections | where_exp:"item", "item.label != 'posts'"%}
+{% for collection in pure_collections%}
+<h2>{{collection.label}}<h2>
+{% for item in collection.docs %}
+  <h2>
+    <a href="{{ item.url }}">
+      {{ item.title }}
+    </a>
+  </h2>
+{% endfor %}
+{% endfor %}
+{% endraw %}
+```
+
 ## Usage Advices of Collections
 
 According the advice from this article [Jekyll Collections: What Collections Are](https://jekyll-one-org.github.io/pages/public/learn/bookshelf/jekyll_collections/), you can use collections to group together articles that are logically related but whose writing time is not important.
@@ -129,7 +149,7 @@ flowchart TD
     UPages[Use pages]
     UPosts[Use Posts]
     UCollection[Use a collections]
-    
+
     QLogic -- No --> UPages
     QLogic -- Yes --> QDate
     QDate -- No --> UCollection
@@ -159,18 +179,4 @@ flowchart TD
     QRelatives -- No --> QUnique
     QUnique -- Yes --> CPage
     QUnique -- No --> UPosts
-
 ```
-
-<!--To Be Continue-->
-<!-- Front Matter 保存元数据和使用 Liquid 访问外加 Liquid 的其他内容-->
-
-<!--索引生成->
-<!--更多约定还是参考 Jekyll-->
-<!--分类管理建议-->
-<!--pages 的处理方式-->
-<!--其他类别，例如写一本书，就可以建立一个新的类别-->
-<!--Collection, pages 不是 collection， collection 也不用加 include， 自带的 collection 有 posts，pages 和 drafts ， pages 一般没有专门路径但是 Minimal Mistakes 需要设置，这个不说也行-->
-<!--404 about 等特殊页面以及主页的设置-->
-<!--其他功能，comments 之类的-->
-<!--素材文件和数据文件-->
