@@ -9,7 +9,7 @@ When configuring and using a personal computer, it is necessary to obtain admini
 
 Recently I stumbled upon a way to launch a program with administrator rights from the command line. It's rather simple, like this:
 
-```pwsh
+```powershell
 Start-Process pwsh -Verb RunAs
 ```
 
@@ -17,13 +17,13 @@ The `Start-Process` is a PowerShell Command to start a new proces. Put the name 
 
 `pwsh` will start PowerShell with its own virtual terminal which is very awful to use. If you want to start your beloved terminal, you can replace the `pwsh` with your terminal, like this:
 
-```pwsh
+```powershell
 Start-Process alacritty -Verb RunAs
 ```
 
 If you use Windows Terminal, the command to launch it is `wt`. So you can use:
 
-```pwsh
+```powershell
 Start-Process wt -Verb RunAs
 ```
 
