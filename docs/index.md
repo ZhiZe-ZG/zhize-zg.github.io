@@ -3,7 +3,9 @@ layout: home
 title: ZhiZe' GitHub Pages
 ---
 
-In nova traditionem intellegere, in vetera innovationem quaerere.
+In nova traditionem intellegere, in vetera mutationem quaerere.
+
+<!-- 在新潮中理解传统，在过往中寻求变革。 -->
 
 Some tech essays of ZhiZe.
 
