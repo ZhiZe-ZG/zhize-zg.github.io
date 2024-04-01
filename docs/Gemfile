@@ -22,3 +22,5 @@ gem "jekyll-include-cache", group: :jekyll_plugins
 
 # fix lack of webrick bug.
 gem "webrick"
+# fix jekyll load bugs on Archlinux
+gem "json"
