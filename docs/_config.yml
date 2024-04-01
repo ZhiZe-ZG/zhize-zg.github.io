@@ -286,19 +286,19 @@ collections:
     output: true
     permalink: /:collection/:path/
     show_name: Knowledge Taxonomy
-  zz-ci:
+  zz1-ci:
     output: true
     permalink: /:collection/:path/
     show_name: Languages
-  zz-shi:
+  zz2-shi:
     output: true
     permalink: /:collection/:path/
     show_name: Histories
-  zz-zi:
+  zz3-zi:
     output: true
     permalink: /:collection/:path/
     show_name: Thoughts
-  zz-yi:
+  zz4-yi:
     output: true
     permalink: /:collection/:path/
     show_name: Sciences
