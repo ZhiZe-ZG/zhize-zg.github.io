@@ -3,6 +3,8 @@ layout: home
 title: ZhiZe' GitHub Pages
 ---
 
+In nova traditionem intellegere, in vetera innovationem quaerere.
+
 Some tech essays of ZhiZe.
 
 ## Posts
