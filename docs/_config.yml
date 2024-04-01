@@ -280,15 +280,27 @@ date_format: "%Y-%m-%d %H:%M:%S"
 # Reading speed (used for show read time)
 words_per_minute: 200
 
-# Collections test
+# Collections
 collections:
   knowledge-taxonomy:
+    output: true
+    permalink: /:collection/:path/
+  zz-ci:
+    output: true
+    permalink: /:collection/:path/
+  zz-shi:
+    output: true
+    permalink: /:collection/:path/
+  zz-zi:
+    output: true
+    permalink: /:collection/:path/
+  zz-yi:
     output: true
     permalink: /:collection/:path/
 
 # Defaults
 defaults:
-  # _posts
+  # posts
   - 
     scope:
       path: ""
@@ -299,9 +311,10 @@ defaults:
       author_profile: true
       show_date: true    
       read_time: true
-      comments: # true
+      # comments: true
       share: true
       related: true
+  # knowledge-taxonomy
   - 
     scope:
       path: ""
@@ -311,6 +324,6 @@ defaults:
       author_profile: true
       show_date: true
       read_time: true
-      comments: # true
+      # comments: true
       share: true
       related: true

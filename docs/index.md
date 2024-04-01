@@ -11,16 +11,23 @@ Posts:
 * [Tag Archive](./tags)
 * [Year Archive](./years)
 
-Collections:
+Pages in collections:
 
-{% for staff_member in site.knowledge-taxonomy %}
+{% for collection in site.collections%}
+<h2>{{collection.label}}<h2>
+{% for item in collection.docs %}
   <h2>
-    <a href="{{ staff_member.url }}">
-      {{ staff_member.title }} - {{ staff_member.position }}
+    <a href="{{ item.url }}">
+      {{ item.title }}
     </a>
   </h2>
-  <p>{{ staff_member.content | markdownify }}</p>
 {% endfor %}
+{% endfor %}
+
+
+ <!-- {{ item.title }} - {{ item.position }} -->
+
+  <!-- <p>{{ item.content | markdownify }}</p> -->
 
 <!--Posts List-->
 <!-- <ul>

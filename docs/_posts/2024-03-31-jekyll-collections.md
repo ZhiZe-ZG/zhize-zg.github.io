@@ -5,24 +5,172 @@ category: Tech-Note/Personal-Website
 tags: GitHub-Pages Jekyll Front-Matter Minimal-Mistakes
 ---
 
-后续再讲
+Collections are units for Jekyll to manage pages. Pages under the same collection are generally stored in the same folder, and Front Matter default values can be set uniformly in `_config.yml`. In addition, Jekyll will also create a traversal list for the pages in the collection to facilitate the writing of index pages, etc.
 
-<!-- Front Matter 可以保存元数据，使用 Liquid 访问-->
-<!--目录和标签的逻辑分类-->
-<!--目录会影响 post 路径，没有目录的文章路径-->
-<!--目录建议用一个，用分隔划分层次，方便生成索引-->
-<!--标签很多个-->
-<!--索引生成->
-<!--Liquid 的简单语法和 Front Matter 定义元数据-->
+`posts` is a collection provided by Jekyll by default. In addition, `pages` that do not belong to other collections can also be regarded as a collection.
+
+Here is some official documentation about collections:
+
+* [Jekyll DOCS: Collections](https://jekyllrb.com/docs/collections/)
+* [Minimal Mistakes DOCS: Working with Collections](https://mmistakes.github.io/minimal-mistakes/docs/collections/)
+
+## Create Collections
+
+Collections need to be defined in `_config.yml`. Collections can be defined by enumerating the names of collections in the variable `collections`. You can also write each definition of a collection into a dictionary, and the key-value pairs in the dictionary will set the properties of the collection.
+
+For example:
+
+```yml
+collections:
+  knowledge-taxonomy:
+    output: true
+    permalink: /:collection/:path/
+  zz-ci:
+    output: true
+    permalink: /:collection/:path/
+  zz-shi:
+    output: true
+    permalink: /:collection/:path/
+  zz-zi:
+    output: true
+    permalink: /:collection/:path/
+  zz-yi:
+    output: true
+    permalink: /:collection/:path/
+```
+
+Here, `knowledge-taxonomy`, `zz-ci` and `zz-shi` etc. are collections. `output: true` make pages in the collection visible. If this item is set to `false`, the corresponding web page will not be generated.
+
+`permalink` set the access path of pages in the collection. The `:collection` means the name of the collection and the `:path` means the relative path of the page in the collection. For more about the grammar of values of `permalink`, refer to [Jekyll DOCS: Permalinks](https://jekyllrb.com/docs/permalinks/).
+
+After setting in the `_config.yml`. You need create a folder for your collection. The folder name is your collection name preceded by `_`. Pages in this folder are regard as the members of the collection.
+
+## Default Front Matter Values
+
+After creating a collection, you can set the default values of Front Matter for pages in the collection. The setting method is similar to posts. The newly created collection needs to correspond to a new `defaults` entry, and the name of the collection is specified in the `scope` item.
+
+A `defaults` with default values for `posts` and `knowledge-taxonomy` would look like this:
+
+```yml
+defaults:
+  # posts
+  - 
+    scope:
+      path: ""
+      type: posts
+    values:
+      category: Uncategorized
+      layout: single
+      author_profile: true
+      show_date: true    
+      read_time: true
+      share: true
+      related: true
+      toc: true
+  # knowledge-taxonomy
+  - 
+    scope:
+      path: ""
+      type: knowledge-taxonomy
+    values:
+      layout: single
+      author_profile: true
+      show_date: true
+      read_time: true
+      share: true
+      related: true
+      toc: true
+```
+
+## Generate Index Pages for Collections
+
+You can also create index page for each collection. Minimal Mistakes provides a dedicated layout `collection` for this purpose. Create a page, use `collection` layout and specify the collection name in the `collection` variable of Front Matter, and you will get the index page of this collection. For example:
+
+```markdown
+---
+layout: collection
+title: "Knowledge Taxonomy"
+collection: knowledge-taxonomy
+permalink: /knowledge-taxonomy/
+---
+
+Documents listing for the collection `_knowledge-taxonomy`.
+```
+
+You can also list all the collections in one page. For example, this is a Liquid fragment to list all the collections and their members.
+
+```HTML
+{% raw %}
+Pages in collections:
+
+{% for collection in site.collections%}
+<h2>{{collection.label}}<h2>
+{% for item in collection.docs %}
+  <h2>
+    <a href="{{ item.url }}">
+      {{ item.title }}
+    </a>
+  </h2>
+{% endfor %}
+{% endfor %}
+{% endraw %}
+```
+
+## Usage Advices of Collections
+
+According the advice from this article [Jekyll Collections: What Collections Are](https://jekyll-one-org.github.io/pages/public/learn/bookshelf/jekyll_collections/), you can use collections to group together articles that are logically related but whose writing time is not important.
+
+There is a very clear illustration in the article, which is reproduced in mermaid syntax as follows:
+
+```mermaid
+flowchart TD
+    QLogic[Can the things be logically grouped?]
+    QDate[Are they grouped by date?]
+    UPages[Use pages]
+    UPosts[Use Posts]
+    UCollection[Use a collections]
+    
+    QLogic -- No --> UPages
+    QLogic -- Yes --> QDate
+    QDate -- No --> UCollection
+    QDate -- Yes --> UPosts
+```
+
+But in my opinion, logical classification is still more important than the writing date, so I recommend following this process to make decisions for a new article:
+
+```mermaid
+flowchart TD
+    QTopic[Can it be subsumed into an existing custom collection?]
+    QRelatives[Are there other articles like this or will you write more on this topic?]
+    QQuantity[Are there many of them or is the topic important enough?]
+    QUnique[Is it so unique that it needs a dedicated display?]
+
+    UTopic[Use this collection]
+    CTopic[Create a new collection and move existing related articles there]
+    UPosts[Post as usual posts]
+    UPostsTaxonomy[Use posts and label categories and tags accurately]
+    CPage[Create as new page and create a unique link]
+
+    QTopic -- Yes --> UTopic
+    QTopic -- No --> QRelatives
+    QRelatives -- Yes --> QQuantity
+    QQuantity -- Yes --> CTopic
+    QQuantity -- No --> UPostsTaxonomy
+    QRelatives -- No --> QUnique
+    QUnique -- Yes --> CPage
+    QUnique -- No --> UPosts
+
+```
+
 <!--To Be Continue-->
+<!-- Front Matter 保存元数据和使用 Liquid 访问外加 Liquid 的其他内容-->
+
+<!--索引生成->
 <!--更多约定还是参考 Jekyll-->
 <!--分类管理建议-->
 <!--pages 的处理方式-->
 <!--其他类别，例如写一本书，就可以建立一个新的类别-->
 <!--Collection, pages 不是 collection， collection 也不用加 include， 自带的 collection 有 posts，pages 和 drafts ， pages 一般没有专门路径但是 Minimal Mistakes 需要设置，这个不说也行-->
-<!--Collection 的索引-->
-https://jekyll-one-org.github.io/pages/public/learn/bookshelf/jekyll_collections/
-https://jekyllrb.com/docs/collections/
 <!--404 about 等特殊页面以及主页的设置-->
 <!--其他功能，comments 之类的-->
 <!--素材文件和数据文件-->

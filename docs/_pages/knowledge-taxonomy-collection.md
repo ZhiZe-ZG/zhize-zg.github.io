@@ -1,9 +1,8 @@
 ---
 layout: collection
-title: "Recipes"
+title: "Knowledge Taxonomy"
 collection: knowledge-taxonomy
-permalink: /recipes/
-author_profile: false
+permalink: /knowledge-taxonomy/
 ---
 
-Sample document listing for the collection `_recipes`.
+Documents listing for the collection `_knowledge-taxonomy`.
