@@ -7,15 +7,15 @@ Some tech essays of ZhiZe.
 
 ## Posts
 
-* [Category Archive](./categories)
-* [Tag Archive](./tags)
-* [Year Archive](./years)
+* [Index by Categories](./categories)
+* [Index by Tags](./tags)
+* [Index by Years](./years)
 
 <!-- collections -->
 
 {% assign pure_collections = site.collections | where_exp:"item", "item.label != 'posts'"%}
 {% for collection in pure_collections%}
-<h2>{{collection.label}}<h2>
+<h2>{{collection.show_name}}<h2>
 {% for item in collection.docs %}
   <h2>
     <a href="{{ item.url }}">
