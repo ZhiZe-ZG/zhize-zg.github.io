@@ -22,7 +22,7 @@ Spaces in `category` are considered separators for different `category` values. 
 category: Tech-Note/Personal-Website
 ```
 
-It should be noted that `category` will change the access path of the page. By default, Jekyll sets the access path of posts to include the writing time and title of the file (Minimal Mistakes omits the writing time by default). When `category` is specified, the post access path consists of `category` and the title in the file name. In addition, if both `category` and `permalink` exist in Front Matter, the access path of the post is determined by `permalink`.
+It should be noted that `category` will change the access path of the page. By default, Jekyll sets the access path of posts to include the writing time and title of the file (Minimal Mistakes omits the writing time by default, you can change it by modifying `permalink` in `_config.yml` refer to [Jekyll DOCS: Permalinks](https://jekyllrb.com/docs/permalinks/)). When `category` is specified, the post access path consists of `category` and the title in the file name. In addition, if both `category` and `permalink` exist in Front Matter, the access path of the post is determined by `permalink`.
 
 For example, the access path to this post is:
 
