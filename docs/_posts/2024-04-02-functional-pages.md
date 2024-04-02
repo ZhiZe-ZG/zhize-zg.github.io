@@ -31,7 +31,7 @@ For collections, create an index page for each collection. If you want to list a
 
 {% assign pure_collections = site.collections | where_exp:"item", "item.label != 'posts'"%}
 {% for collection in pure_collections%}
-<h2>{{collection.show_name}}<h2>
+<h2>{{collection.show_name}}</h2>
   {% for item in collection.docs %}
   <h2>
     <a href="{{ item.url }}">
@@ -55,6 +55,9 @@ layout: search
 author_profile: true
 ---
 ```
+
+If you don't want certain pages to be searchable, add `search: false
+` to the Front Matter of those pages.
 
 ## 404 Page
 

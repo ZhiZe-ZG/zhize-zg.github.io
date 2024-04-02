@@ -104,7 +104,7 @@ You can also list all the collections in one page. For example, this is a Liquid
 Pages in collections:
 
 {% for collection in site.collections%}
-<h2>{{collection.label}}<h2>
+<h2>{{collection.label}}</h2>
 {% for item in collection.docs %}
   <h2>
     <a href="{{ item.url }}">
@@ -124,7 +124,7 @@ Pages in collections:
 
 {% assign pure_collections = site.collections | where_exp:"item", "item.label != 'posts'"%}
 {% for collection in pure_collections%}
-<h2>{{collection.label}}<h2>
+<h2>{{collection.label}}</h2>
 {% for item in collection.docs %}
   <h2>
     <a href="{{ item.url }}">

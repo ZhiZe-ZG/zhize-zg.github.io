@@ -22,7 +22,7 @@ Some tech essays of ZhiZe.
 
 {% assign pure_collections = site.collections | where_exp:"item", "item.label != 'posts'"%}
 {% for collection in pure_collections%}
-<h2>{{collection.show_name}}<h2>
+<h2>{{collection.show_name}}</h2>
   {% for item in collection.docs %}
   <h2>
     <a href="{{ item.url }}">
@@ -31,3 +31,5 @@ Some tech essays of ZhiZe.
   </h2>
   {% endfor %}
 {% endfor %}
+
+<p><a href="/search">Search</a> in this site</p>
