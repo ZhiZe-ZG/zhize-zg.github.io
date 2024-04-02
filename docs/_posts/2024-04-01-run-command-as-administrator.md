@@ -13,7 +13,7 @@ Recently I stumbled upon a way to launch a program with administrator rights fro
 Start-Process pwsh -Verb RunAs
 ```
 
-The `Start-Process` is a PowerShell Command to start a new proces. Put the name or path of the program you want to start after it. Here `pwsh` is the command to start PowerShell. Note that the `powershell` is the command for Windows PowerShell which is a special old version PowerShell embeded in Windows. The `-Verb RunAs` is the key point which means run the program as an administrator.
+The `Start-Process` is a PowerShell Command to start a new proces. Put the name or path of the program you want to start after it. Here `pwsh` is the command to start PowerShell. Note that the `powershell` is the command for Windows PowerShell which is a special old version PowerShell embedded in Windows. The `-Verb RunAs` is the key point which means run the program as an administrator.
 
 `pwsh` will start PowerShell with its own virtual terminal which is very awful to use. If you want to start your beloved terminal, you can replace the `pwsh` with your terminal, like this:
 
