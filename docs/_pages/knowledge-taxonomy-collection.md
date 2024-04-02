@@ -1,8 +1,8 @@
 ---
-layout: collection
 title: "Knowledge Taxonomy"
-collection: knowledge-taxonomy
 permalink: /knowledge-taxonomy/
+layout: collection
+collection: knowledge-taxonomy
 ---
 
 Documents listing for the collection `_knowledge-taxonomy`.
