@@ -70,6 +70,8 @@ Here are some references on Front Matter, YAML or configurations about Jekyll an
 
 Just like the Liquid for generating HTML, there is SCSS (and Sass) for CSS and CoffeeScript for JavaScript. SCSS is a language for generating CSS that simplifies writing CSS. Sass offers similar functionality, but with a different level of simplicity. CoffeeScript is a language that generates JavaScript to simplify the work of writing JavaScript.
 
+Strictly speaking, the function provided by Liquid is called template generation, while SCSS, Sass and CoffeeScript are more like languages that need to be compiled. There are certain differences between the two, but we will not go into details here.
+
 Jekyll supports these languages and provides a concise guide:
 
 * [Jekyll DOCS: Assets](https://jekyllrb.com/docs/assets/)
@@ -78,3 +80,15 @@ To learn more about them, refer to:
 
 * [Sass Official Site](https://sass-lang.com/)
 * [CoffeeScript Official Site](https://coffeescript.org/)
+
+## Data Files and Static Files
+
+HTML is text-centric, so some non-text data is difficult to place directly in HTML. All HTML can do is leave display space for them and then reference them. Jekyll call them "static files". Image files are typical static files. You can directly place the static files in the specified path of the website files and reference them in the HTML. Jekyll also has a guide for static files:
+
+* [Jekyll DOCS: Static Files](https://jekyllrb.com/docs/static-files/)
+
+Due to the limited capacity of the GitHub repository, I do not recommend that you store too many static files in your website project. A few frequently used static files such as website logos and personal avatars can be placed in website projects. As for the accompanying pictures or decorative background pictures for each page, it is better to upload them to the image hosting services and then quote them.
+
+In addition, HTML's grammatical design focuses more on web page layout than general data representation. Therefore, although some data can be represented in text, writing it in HTML syntax will be complex and lengthy. You can write them out using a specialized data representation syntax and store them in the `_data` folder. Use Liquid to access them when you need them. Jekyll also provides a guide for this:
+
+* [Jekyll DOCS: Data Files](https://jekyllrb.com/docs/datafiles/)
