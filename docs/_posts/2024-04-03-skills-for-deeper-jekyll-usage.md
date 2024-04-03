@@ -92,3 +92,16 @@ Due to the limited capacity of the GitHub repository, I do not recommend that yo
 In addition, HTML's grammatical design focuses more on web page layout than general data representation. Therefore, although some data can be represented in text, writing it in HTML syntax will be complex and lengthy. You can write them out using a specialized data representation syntax and store them in the `_data` folder. Use Liquid to access them when you need them. Jekyll also provides a guide for this:
 
 * [Jekyll DOCS: Data Files](https://jekyllrb.com/docs/datafiles/)
+
+## Ruby and Jekyll Plugins
+
+If you think the functionality you need is not provided by Jekyll and cannot be customized through the languages or frameworks introduced above, you can extend the functionality of Jekyll through plug-ins. There are already many Jekyll plug-ins written by others for use. If no one has implemented the function you are looking for, you can also develop it yourself using Ruby.
+
+Here are some documents that may be helpful:
+
+* [Jekyll DOCS: Plugins](https://jekyllrb.com/docs/plugins/)
+* [Ruby Official Site](https://www.ruby-lang.org/en/)
+
+It should be noted that GitHub Pages only provides limited plugin support. If the plugin function you need is not provided by GitHub Pages and this function is very important to you, then I suggest that you use your own server to build the website instead of using GitHub Pages. Here is a list about plugins that GitHub Pages support:
+
+* [GitHub Pages Documentation: Plugins](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#plugins)
