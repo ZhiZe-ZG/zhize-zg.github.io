@@ -3,6 +3,8 @@ title: "Functional Pages"
 date: 2024-04-02 23:24:35 +0800
 category: Tech-Note/Personal-Website
 tags: GitHub-Pages Jekyll Minimal-Mistakes
+header:
+  teaser: https://upload.wikimedia.org/wikipedia/commons/0/00/404_Symbol.png
 ---
 
 In previous posts, we roughly divided pages into three categories: posts arranged by date, pages in collections (classified by content), and pages that do not belong to posts or any collection. Pages that not belong to posts or any collection generally have some functionality, so we call them "functional pages" in this posts.
@@ -58,6 +60,8 @@ author_profile: true
 
 If you don't want certain pages to be searchable, add `search: false
 ` to the Front Matter of those pages.
+
+Full text search can be enabled by setting `search_full_content: true` in `_config.yml`. If you set `search: true` in `_config.yml`, a search button will be added to the upper right corner of all pages, which can be used even if there is no search page.
 
 ## 404 Page
 

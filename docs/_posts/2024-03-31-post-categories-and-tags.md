@@ -3,6 +3,8 @@ title: "Post Categories and Tags"
 date: 2024-03-31 01:34:29 +0800
 category: Tech-Note/Personal-Website
 tags: GitHub-Pages Jekyll Front-Matter Minimal-Mistakes
+header:
+  teaser: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/13-11-02-olb-by-RalfR-03.jpg/640px-13-11-02-olb-by-RalfR-03.jpg
 ---
 
 In this post, we will discuss taxonomy of posts. Jekyll provides two default Front Matter variables for taxonomy of posts. Categoties are used to build tree-like taxonomy, while Tags are used to build multiple-label taxonomy.

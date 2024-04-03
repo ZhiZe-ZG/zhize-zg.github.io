@@ -2,7 +2,9 @@
 title: "Skills For Deeper Jekyll Usage"
 date: 2024-04-03 01:37:56 +0800
 category: Tech-Note/Personal-Website
-tags: GitHub-Pages Jekyll Markdown HTML Liquid Front-Matter YAML CSS SCSS Sass JavaScript CoffeeScript Ruby 
+tags: GitHub-Pages Jekyll Markdown HTML Liquid Front-Matter YAML CSS SCSS Sass JavaScript CoffeeScript Ruby
+header:
+  teaser: https://upload.wikimedia.org/wikipedia/commons/e/ef/Programming_code.jpg
 ---
 
 In this posts we'll talk about some skills you need to learn to use Jekyll in depth.

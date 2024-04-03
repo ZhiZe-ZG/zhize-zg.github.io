@@ -3,6 +3,8 @@ title: "Jekyll Collections"
 date: 2024-03-31 13:38:39 +0800
 category: Tech-Note/Personal-Website
 tags: GitHub-Pages Jekyll Front-Matter Minimal-Mistakes
+header:
+  teaser: https://upload.wikimedia.org/wikipedia/commons/7/72/Vinyl_collection_at_a_record_store_%28Unsplash%29.jpg
 ---
 
 Collections are units for Jekyll to manage pages. Pages under the same collection are generally stored in the same folder, and Front Matter default values can be set uniformly in `_config.yml`. In addition, Jekyll will also create a traversal list for the pages in the collection to facilitate the writing of index pages, etc.

@@ -3,6 +3,8 @@ title: "Run Command as Administrator in PowerShell on Windows"
 date: 2024-04-01 22:48:10 +0800
 category: Tech-Note/Using-Windows
 tags: Windows PowerShell WindowsTerminal
+header:
+  teaser: https://i.pcmag.com/imagery/reviews/00xBy0JjVybodfIwWxeGCkZ-1.fit_scale.size_1028x578.v1679417407.jpg
 ---
 
 When configuring and using a personal computer, it is necessary to obtain administrator rights. On Windows systems, the option to run as administrator can be found in the right-click menu (or shift right-click menu). This is not friendly to virtual terminal users.
