@@ -1,0 +1,36 @@
+overall:
+  - title: Post Indexes
+    children:
+      - title: "Post Index by Years"
+        url: /years/
+      - title: "Post Index by Categories"
+        url: /categories/
+      - title: "Post Index by Tags"
+        url: /tags/
+      
+  - title: Knowledge Taxonomy
+    children:
+      - title: "Knowledge Taxonomy Index"
+        url: /knowledge-taxonomy/
+      - title: "Languages Index"
+        url: /languages/
+      - title: "Histories Index"
+        url: /histories/
+      - title: "Thoughts Index"
+        url: /thoughts/
+      - title: "Sciences Index"
+        url: /sciences/
+
+  - title: Tools
+    children:
+      - title: "Search in This Site"
+        url: /search/
+
+main:
+  - title: "Posts"
+    url: /year/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+

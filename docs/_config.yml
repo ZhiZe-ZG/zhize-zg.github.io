@@ -216,7 +216,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:year/:month/:day/:title/
-paginate: 4 # amount of posts to show
+paginate: 16 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -312,14 +312,15 @@ defaults:
     values:
       category: Uncategorized
       layout: single
-      author_profile: true
       show_date: true    
       read_time: true
-      # comments: true
       share: true
       related: true
       toc: true
       toc_sticky: true
+      author_profile: true
+      sidebar:
+        nav: overall
   # knowledge-taxonomy
   - 
     scope:
@@ -327,11 +328,12 @@ defaults:
       type: knowledge-taxonomy
     values:
       layout: single
-      author_profile: true
       show_date: true
       read_time: true
-      # comments: true
       share: true
       related: true
       toc: true
       toc_sticky: true
+      author_profile: true
+      sidebar:
+        nav: overall
