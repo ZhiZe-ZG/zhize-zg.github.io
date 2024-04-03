@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Taxonomy"
+title: Knowledge Taxonomy
 permalink: /knowledge-taxonomy/
 layout: collection
 entries_layout: grid

@@ -87,3 +87,11 @@ main:
 For more see:
 
 * [Minimal Mistakes: Navigation](https://mmistakes.github.io/minimal-mistakes/docs/navigation/)
+
+## Site Footer
+
+Site footer is not mainly for navigation, but you can also put some links on it by modifying `_config.yml`. I just put the repository link of the website project here. Additionally, Jekyll’s automatically generated feed is linked here.
+
+For more see:
+
+* [Minimal Mistakes: Site Footer](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-footer)

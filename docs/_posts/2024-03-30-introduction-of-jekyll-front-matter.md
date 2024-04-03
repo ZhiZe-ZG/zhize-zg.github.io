@@ -2,7 +2,7 @@
 title: "Introduction of Jekyll Front Matter"
 date: 2024-03-30 23:38:53 +0800
 category: Tech-Note/Personal-Website
-tags: GitHub-Pages Jekyll Front-Matter
+tags: GitHub-Pages Jekyll Front-Matter Minimal-Mistakes
 header:
   teaser: https://jekyllrb.com/img/logo-2x.png
 ---
@@ -78,3 +78,28 @@ You can refer to [Front Matter Defaults](https://jekyllrb.com/docs/configuration
 The `defaults` of `_config.yml` consists of multiple items. Each project consists of two parts. The `scope` part indicates the path and page type that the rules can apply. The `values` part represents the variables to be filled and their default values.
 
 It should be noted that the `type` here is not a simple variable name, but the name of the collection. We will discuss Jekyll’s collections later.
+
+## A Front Matter use case in Minimal Mistakes
+
+You can use Front Matter to specify headers for pages in the Minimal Mistakes theme, for example:
+
+```yaml
+header:
+  image: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-image-4.jpg
+```
+
+This will display the image linked to at the top of the page. Additionally, you can define teasers in headers. The teaser is not displayed directly on the page, but is displayed as an overview in search results or index pages. For example:
+
+```yaml
+header:
+  image: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-image-4.jpg
+  teaser: https://jekyllrb.com/img/logo-2x.png
+```
+
+If you want to display the teaser on the index page, you also need to make the following settings in Front Matter on the index page:
+
+```yaml
+entries_layout: grid
+```
+
+It doesn't matter if you don't know the search page or index pages of Minimal Mistakes. They will be introduced in subsequent articles.

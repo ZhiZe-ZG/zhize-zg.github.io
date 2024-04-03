@@ -1,5 +1,5 @@
 ---
-title: "Search All Posts and Pages in This Site"
+title: Search All Posts and Pages in This Site
 permalink: /search/
 layout: search
 author_profile: true

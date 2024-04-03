@@ -1,10 +1,12 @@
 ---
 title: Thus Spoke ZhiZe
-layout: home
+layout: single
 entries_layout: grid
 author_profile: true
 sidebar:
   nav: overall
+header:
+  image: https://mmistakes.github.io/minimal-mistakes/assets/images/unsplash-image-4.jpg
 ---
 
 <!-- Motto -->
@@ -23,13 +25,6 @@ sidebar:
 <pq>In vetera mutationem quaerere</pq>
 <hr />
 
-<!-- Posts -->
-<h2>Posts</h2>
-<ul>
-  <li><a href="./years">Index by Years</a></li>
-  <li><a href="./categories">Index by Categories</a></li>
-  <li><a href="./tags">Index by Tags</a></li>
-</ul>
 
 <!-- Collections -->
 {% assign pure_collections = site.collections | where_exp:"item", "item.label != 'posts'"%}

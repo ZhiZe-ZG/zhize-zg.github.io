@@ -28,7 +28,7 @@ overall:
 
 main:
   - title: "Posts"
-    url: /year/
+    url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
