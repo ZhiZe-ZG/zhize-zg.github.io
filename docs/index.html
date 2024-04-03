@@ -5,8 +5,8 @@ entries_layout: grid
 author_profile: true
 ---
 
-<link rel="stylesheet"
-          href="https://fonts.googleapis.com/css?family=EB+Garamond">
+<!-- Motto -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=EB+Garamond">
 <style type="text/css" media="screen">
   pq {
     font-family: EB Garamond, serif;
@@ -14,14 +14,14 @@ author_profile: true
     text-transform: capitalize;
   }
 </style>
-
 <!-- 在新潮中理解传统，在过往中寻求变革。 -->
-<hr/>
+<hr />
 <pq>In nova traditionem intellegere</pq>
-<br/>
+<br />
 <pq>In vetera mutationem quaerere</pq>
-<hr/>
+<hr />
 
+<!-- Posts -->
 <h2>Posts</h2>
 <ul>
   <li><a href="./categories">Index by Categories</a></li>
@@ -29,18 +29,17 @@ author_profile: true
   <li><a href="./years">Index by Years</a></li>
 </ul>
 
-<!-- collections -->
-
+<!-- Collections -->
 {% assign pure_collections = site.collections | where_exp:"item", "item.label != 'posts'"%}
 {% for collection in pure_collections%}
 <h2>{{collection.show_name}}</h2>
-  {% for item in collection.docs %}
-  <h2>
-    <a href="{{ item.url }}">
-      {{ item.title }}
-    </a>
-  </h2>
-  {% endfor %}
+{% for item in collection.docs %}
+<h2>
+  <a href="{{ item.url }}">
+    {{ item.title }}
+  </a>
+</h2>
+{% endfor %}
 {% endfor %}
 
 <p><a href="/search">Search</a> in this site</p>
