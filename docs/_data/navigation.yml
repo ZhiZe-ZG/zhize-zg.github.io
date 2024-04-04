@@ -1,5 +1,5 @@
 overall:
-  - title: Post Indexes
+  - title: Article Indexes
     children:
       - title: "Post Index by Years"
         url: /years/
@@ -7,9 +7,6 @@ overall:
         url: /categories/
       - title: "Post Index by Tags"
         url: /tags/
-      
-  - title: Knowledge Taxonomy
-    children:
       - title: "Knowledge Taxonomy Index"
         url: /knowledge-taxonomy/
       - title: "Languages Index"
@@ -21,7 +18,7 @@ overall:
       - title: "Sciences Index"
         url: /sciences/
 
-  - title: Tools
+  - title: Useful Pages
     children:
       - title: "Search in This Site"
         url: /search/
@@ -29,8 +26,7 @@ overall:
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Collections"
+    url: /collections/
+
 

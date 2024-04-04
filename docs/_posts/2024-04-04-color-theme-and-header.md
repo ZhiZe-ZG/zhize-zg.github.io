@@ -17,6 +17,8 @@ The original `dark` skin is very simple and consists of 3 basic color: black bac
 
 The original `dark` skin uses prime color mixed with white or black to generate the various colors of the website. The color obtained by this method is somewhat biased. Therefore, I generated a single color scheme directly in [Color Hexa](https://www.colorhexa.com/7939b4) instead of the original mixing method.
 
+Then I used [Base16 Dracula Shceme](https://github.com/dracula/base16-dracula-scheme) directly for the code highlighting part.
+
 ## Header Image
 
 At first I had no intention of adding a header image to the website pages. However, after completing the color theme, I felt that the layout of Miminal Mistakes was too monotonous, so I decided to add a header image.
