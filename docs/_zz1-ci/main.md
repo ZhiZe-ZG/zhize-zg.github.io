@@ -11,6 +11,10 @@ The classification and relationships of languages refer to ISO 639. Use ISO 639-
 
 ## Indo-European Languages
 
+### Ancient Greek
+
+ISO 639-3 Code: `grc`
+
 ### English
 
 ISO 639-3 Code: `eng`
