@@ -7,16 +7,14 @@ overall:
         url: /categories/
       - title: "Post Index by Tags"
         url: /tags/
-      - title: "Knowledge Taxonomy Index"
-        url: /knowledge-taxonomy/
       - title: "Languages Index"
-        url: /languages/
+        url: /languages-collection/
       - title: "Histories Index"
-        url: /histories/
+        url: /histories-collection/
       - title: "Thoughts Index"
-        url: /thoughts/
+        url: /thoughts-collection/
       - title: "Sciences Index"
-        url: /sciences/
+        url: /sciences-collection/
 
   - title: Useful Pages
     children:
