@@ -40,7 +40,17 @@ Here are some tags I would label these articles:
 
 ## Recommendations
 
-* Terminal Emulator: Alacritty
-* Command Line Shell: PowerShell
-* Text Editor: Visual Studio Code
-* Typesetting: MiKTeX
+🆓📖
+
+* 🪟🍎🐧😈 Alacritty:  Terminal emulator.
+* 🪟🍎🐧 PowerShell: Command line shell. Used both in daily operating and scripting.
+* 🪟🍎🐧 OhMyPosh: Shell display effect configuration tool.
+* 🪟🍎🐧 Visual Studio Code: GUI text editor and development environment front-end framework.
+* 🪟🍎🐧 Neovim: TUI text editor and text editing kernel.
+* 🪟🍎🐧 MiKTeX: Typesetting tool set for TeX ecosystem.
+
+💰📖
+
+🆓📕
+
+💰📕

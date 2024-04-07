@@ -19,6 +19,6 @@ Related Sites:
 
 ## Introduction
 
-A frontend plugin for LaTeX. It works with TeXLive, MiKTeX and TinyTeX. This makes your VSCode a IDE for LaTeX.
+A front-end plugin for LaTeX. It works with TeXLive, MiKTeX and TinyTeX. This makes your VSCode a IDE for LaTeX.
 
 If you use MiKTeX with LaTeX Workshop, you should also install Perl, refer to <https://github.com/James-Yu/LaTeX-Workshop/wiki/Install>.
