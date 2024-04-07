@@ -65,6 +65,8 @@ ISO 639-3 Code: `jpn`
 
 ## Koreanic
 
+### Korean
+
 ISO 639-3 Code: `kor`
 
 ## Sino-Tibetan Languages
