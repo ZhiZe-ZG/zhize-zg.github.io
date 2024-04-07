@@ -2,7 +2,7 @@
 title: "PowerShell"
 date: 2024-03-15 10:45:00 +0800
 category: SoftwareResearch
-tags: Command-Line-Shell CLI
+tags: Command-Line-Shell CLI PowerShell
 header:
   teaser: https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg
 ---
