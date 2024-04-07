@@ -27,3 +27,11 @@ Here are descriptions of the symbols I'll use in the articles:
   * Consumer System
     * 🍏 Apple consumer systems (iOS, iPadOS etc.)
     * 🤖 Android-based consumer systems
+
+Here are some tags I would label these articles:
+
+* Basic Interface
+  * CLI: Command Line Interface. Mainly interact with text commands. Can be run in a virtual terminal, but may also be run in other ways such as voice interaction. After all, text commands are abstract and can be used in various carrier.
+  * TUI: Text-based User Interface. An interface with a graphical layout rendered in a terminal.
+  * GUI: Graphical User Interface. A true flat graphical interface, with keyboard and pointing device as the main control method.
+  * TouchGUI: Graphical User Interface. Finger touch is the main mode of operation.
