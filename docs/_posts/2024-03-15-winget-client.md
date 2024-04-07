@@ -1,7 +1,7 @@
 ---
 title: "Microsoft.WinGet.Client"
 date: 2024-03-15 02:17:00 +0800
-category: SoftwareResearch
+category: SoftwareResearch/PowerShell
 tags: PowerShell
 header:
   teaser: https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg
