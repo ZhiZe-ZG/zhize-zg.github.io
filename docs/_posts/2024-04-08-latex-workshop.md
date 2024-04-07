@@ -2,7 +2,7 @@
 title: "LaTeX Workshop"
 date: 2024-04-08 01:34:36 +0800
 category: SoftwareResearch/VisualStudioCode
-tags: PowerShell
+tags: Typesetting
 header:
   teaser: https://james-yu.gallerycdn.vsassets.io/extensions/james-yu/latex-workshop/9.19.2/1712232605357/Microsoft.VisualStudio.Services.Icons.Default
 ---
