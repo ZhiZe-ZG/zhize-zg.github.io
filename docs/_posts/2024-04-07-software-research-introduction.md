@@ -9,6 +9,8 @@ header:
 
 This is the introduction to the series articles "Software Research". This series introduces basic information about the software that I am concerned about.
 
+## Symbols and Tags
+
 Here are descriptions of the symbols I'll use in the articles:
 
 * Openness
@@ -35,3 +37,10 @@ Here are some tags I would label these articles:
   * TUI: Text-based User Interface. An interface with a graphical layout rendered in a terminal.
   * GUI: Graphical User Interface. A true flat graphical interface, with keyboard and pointing device as the main control method.
   * TouchGUI: Graphical User Interface. Finger touch is the main mode of operation.
+
+## Recommendations
+
+* Terminal Emulator: Alacritty
+* Command Line Shell: PowerShell
+* Text Editor: Visual Studio Code
+* Typesetting: MiKTeX
