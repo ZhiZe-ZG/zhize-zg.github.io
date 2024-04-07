@@ -9,6 +9,8 @@ header:
 
 ## Basic Information
 
+Extension ID: `vscode.latex`
+
 Openness: 🆓📖
 
 Related Sites:
@@ -17,6 +19,6 @@ Related Sites:
 
 ## Introduction
 
-A built in plugin. Extension ID: `vscode.latex`.
+A built in plugin.
 
 It provides syntax highlighting and bracket matching for TeX, LaTeX and BibTeX. If you use LaTeX Workshop, you can disable this.
