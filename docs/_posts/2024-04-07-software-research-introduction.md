@@ -40,6 +40,8 @@ Here are some tags I would label these articles:
 
 ## Recommendations
 
+### Mainstream
+
 🆓📖
 
 * 🪟🍎🐧😈 Alacritty:  Terminal emulator.
@@ -48,6 +50,28 @@ Here are some tags I would label these articles:
 * 🪟🍎🐧 Visual Studio Code: GUI text editor and development environment front-end framework.
 * 🪟🍎🐧 Neovim: TUI text editor and text editing kernel.
 * 🪟🍎🐧 MiKTeX: Typesetting tool set for TeX ecosystem.
+
+💰📖
+
+🆓📕
+
+💰📕
+
+### Alternative
+
+🆓📖
+
+💰📖
+
+🆓📕
+
+💰📕
+
+### For Fun
+
+🆓📖
+
+* 🪟🍎🐧😈 GNU Emacs: A complex system disguised as a text editor.
 
 💰📖
 
