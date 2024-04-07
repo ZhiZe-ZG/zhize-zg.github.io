@@ -19,4 +19,4 @@ Related Sites:
 
 ## Introduction
 
-The Xfce desktop environment comes with the Terminal Emulator. It has basic functions and is pretty good to use.
+The terminal emulator that comes with the Xfce desktop environment. It has basic functions and is pretty good to use.
