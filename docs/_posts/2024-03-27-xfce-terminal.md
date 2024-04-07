@@ -2,7 +2,7 @@
 title: "Xfce Terminal Emulator"
 date: 2024-03-27 11:31:00 +0800
 category: SoftwareResearch
-tags: Terminal GUI
+tags: Terminal-Emulator GUI
 header:
   teaser: https://upload.wikimedia.org/wikipedia/commons/f/f8/XFCE_Terminal--February_2007.png
 ---

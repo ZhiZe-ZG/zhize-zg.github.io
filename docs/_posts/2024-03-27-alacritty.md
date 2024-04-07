@@ -2,7 +2,7 @@
 title: "Alacritty"
 date: 2024-03-27 12:12:00 +0800
 category: SoftwareResearch
-tags: Terminal GUI
+tags: Terminal-Emulator GUI
 header:
   teaser: https://upload.wikimedia.org/wikipedia/commons/9/90/Alacritty_logo.svg
 ---

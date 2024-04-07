@@ -2,7 +2,7 @@
 title: "Windows Terminal"
 date: 2024-03-14 16:56:00 +0800
 category: SoftwareResearch
-tags: Terminal GUI
+tags: Terminal-Emulator  GUI
 header:
   teaser: https://upload.wikimedia.org/wikipedia/commons/9/93/Windows_Terminal_v1.0_1138x624.png
 ---
