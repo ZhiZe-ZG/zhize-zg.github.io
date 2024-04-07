@@ -25,3 +25,5 @@ A shell developed by Microsoft based on .NET. Although primarily used on Windows
 PowerShell can use packages from a variety of sources. It itself uses PowerShellGet as PackageProvider and PSGallery as PackageSource. At the same time, it can also call the dotnet package on NuGet, but you need to install the corresponding PackageProvider first. In PowerShell, NuGet's PackageProvider and PackageSource are both called "NuGet". In addition, PowerShell can also use some other PackageProvider or PackageSource.
 
 But when recording packages, only PSGallery packages are recorded. NuGet packages are documented by dotnet.
+
+Windows systems integrate an older version of PowerShell called "Windows PowerShell". It does not affect new versions of PowerShell. Generally speaking, just ignore it.
