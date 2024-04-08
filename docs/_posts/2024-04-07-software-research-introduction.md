@@ -39,6 +39,8 @@ Here are some tags I would label these articles:
   * GUI: Graphical User Interface. A true flat graphical interface, with keyboard and pointing device as the main control method.
   * TouchGUI: Graphical User Interface. Finger touch is the main mode of operation.
 
+In addition, I will add at least one tag describing the functional positioning of each software. The number of such tags is variable.
+
 ## Recommendations
 
 ### Mainstream

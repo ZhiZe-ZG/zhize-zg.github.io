@@ -10,6 +10,8 @@ header:
 
 File Format Research is a series of introductory articles about file formats.
 
+## Symbols and Tags
+
 Here are descriptions of the symbols I'll use in this series of articles:
 
 * Openness
@@ -19,3 +21,15 @@ Here are descriptions of the symbols I'll use in this series of articles:
   * Charge?
     * 🆓 Free
     * 💰 Charge
+
+I also add at least one tag describing the usage of each format. The number of such tags is variable.
+
+## Recommendations
+
+* Plain Text File: Basic text file format.
+* Portable Network Graphics: Lossless pixel image format.
+* Animated PNG: Lossless animated pixel image format.
+
+### Read and Write
+
+### Only Read
