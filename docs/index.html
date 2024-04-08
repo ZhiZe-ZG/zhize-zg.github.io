@@ -4,9 +4,9 @@ layout: single
 entries_layout: grid
 author_profile: true
 sidebar:
-  nav: overall
+nav: overall
 header:
-  image: /assets/images/header.jpg
+image: /assets/images/header.jpg
 ---
 
 <!-- Motto -->
@@ -25,6 +25,16 @@ header:
 <pq>In vetera mutationem quaerere</pq>
 <hr />
 
+<!-- Categories Introductions -->
+Some of my posts categories:
+
+<ul>
+  <li><a href="/SoftwareResearch/Introduction">Software Research</a>: A simple summary for softwares I am using or
+    interested in.</li>
+  <li><a href="/FileFormatResearch/Introduction">File Format Research</a>: A summary about usually used file formats.
+  </li>
+</ul>
+
 <!-- Recenet articles-->
 <h2>Recent Articles</h2>
 <!-- Concat all articles -->
@@ -39,6 +49,6 @@ header:
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
   {% for post in sorted_list limit: 16 %}
-    {% include archive-single.html type=entries_layout %}
+  {% include archive-single.html type=entries_layout %}
   {% endfor %}
 </div>

@@ -1,5 +1,6 @@
 ---
 title: "Software Research Introduction"
+permalink: /SoftwareResearch/Introduction
 date: 2024-04-07 11:25:47 +0800
 category: SoftwareResearch
 tags: 

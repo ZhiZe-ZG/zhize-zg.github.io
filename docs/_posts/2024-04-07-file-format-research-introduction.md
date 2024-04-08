@@ -1,5 +1,6 @@
 ---
 title: "File Format Research Introduction"
+permalink: /FileFormatResearch/Introduction
 date: 2024-04-07 16:22:29 +0800
 category: FileFormatResearch
 tags: 
