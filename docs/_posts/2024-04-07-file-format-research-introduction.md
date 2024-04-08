@@ -37,3 +37,5 @@ I also add at least one tag describing the usage of each format. The number of s
 * 🆓📖 Portable Document Format: Mainly used as document format for both scanned and rendered, sometimes used as vector image format.
 
 ### Only Read
+
+* Graphics Interchange Format: Lossless animated pixel image format.
