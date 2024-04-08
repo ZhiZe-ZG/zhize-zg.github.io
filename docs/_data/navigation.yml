@@ -20,6 +20,8 @@ overall:
     children:
       - title: "Search in This Site"
         url: /search/
+      - title: "Principles of This Site"
+        url: /principles/
 
 main:
   - title: "Posts"
