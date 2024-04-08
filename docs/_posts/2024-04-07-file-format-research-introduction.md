@@ -28,6 +28,7 @@ I also add at least one tag describing the usage of each format. The number of s
 
 * 🆓📖 Plain Text File: Basic text file format.
 * 🆓📖 Extensible Markup Language: A common data representation format.
+* 🆓📖 Scalable Vector Graphics: Vector image format.
 * 🆓📖 Portable Network Graphics: Lossless pixel image format.
 * 🆓📖 Animated PNG: Lossless animated pixel image format.
 
