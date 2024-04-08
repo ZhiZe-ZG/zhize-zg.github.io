@@ -26,13 +26,14 @@ I also add at least one tag describing the usage of each format. The number of s
 
 ## Recommendations
 
+### Read and Write
+
 * 🆓📖 Plain Text File: Basic text file format.
 * 🆓📖 Extensible Markup Language: A common data representation format.
 * 🆓📖 Scalable Vector Graphics: Vector image format.
 * 🆓📖 Portable Network Graphics: Lossless pixel image format.
 * 🆓📖 Animated PNG: Lossless animated pixel image format.
 * 🆓📖 JPEG Format: Lossy pixel image format.
-
-### Read and Write
+* 🆓📖 Portable Document Format: Mainly used as document format for both scanned and rendered, sometimes used as vector image format.
 
 ### Only Read
