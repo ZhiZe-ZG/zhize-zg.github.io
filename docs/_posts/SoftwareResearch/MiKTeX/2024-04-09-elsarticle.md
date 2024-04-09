@@ -13,7 +13,7 @@ Openness: 🆓📖
 
 Related Sites:
 
-* [Visual Studio Code](https://code.visualstudio.com/)
+* [elsarticle](https://miktex.org/packages/elsarticle)
 
 ## Introduction
 
