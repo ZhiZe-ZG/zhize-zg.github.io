@@ -182,3 +182,5 @@ flowchart TD
     QUnique -- Yes --> CPage
     QUnique -- No --> UPosts
 ```
+
+In terms of source code management, posts placed in subfolders of the `_posts` will also be recognized. Moreover, if you do not use `:path` in permalink, the actual storage path of the source code will not affect the access address of the generated page.
