@@ -40,4 +40,4 @@ I also add at least one tag describing the usage of each format. The number of s
 
 ### Only Read
 
-* [Graphics Interchange Format](/fileformatresearch/2024/04/09/gif): Lossless animated pixel image format.
+* 🆓📖 [Graphics Interchange Format](/fileformatresearch/2024/04/09/gif): Lossless animated pixel image format.
