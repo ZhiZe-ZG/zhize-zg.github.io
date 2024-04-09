@@ -56,6 +56,7 @@ In addition, I will add at least one tag describing the functional positioning o
 * 🪟🍎🐧 Neovim: TUI text editor and text editing kernel.
 * 🪟🍎🐧 MiKTeX: Typesetting tool set for TeX ecosystem.
 * 🪟: ImageGlass: Image viewer and gallery browser.
+* 🪟: Sumatra PDF: Document viewer.
 
 💰📖
 
