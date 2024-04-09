@@ -30,14 +30,14 @@ I also add at least one tag describing the usage of each format. The number of s
 
 ### Read and Write
 
-* 🆓📖 Plain Text File: Basic text file format.
-* 🆓📖 Extensible Markup Language: A common data representation format.
-* 🆓📖 Scalable Vector Graphics: Vector image format.
-* 🆓📖 Portable Network Graphics: Lossless pixel image format.
-* 🆓📖 Animated PNG: Lossless animated pixel image format.
-* 🆓📖 JPEG Format: Lossy pixel image format.
-* 🆓📖 Portable Document Format: Mainly used as document format for both scanned and rendered, sometimes used as vector image format.
+* 🆓📖 [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
+* 🆓📖 [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
+* 🆓📖 [Scalable Vector Graphics](/fileformatresearch/2024/04/09/svg): Vector image format.
+* 🆓📖 [Portable Network Graphics](/fileformatresearch/2024/04/09/pdf): Lossless pixel image format.
+* 🆓📖 [Animated PNG](/fileformatresearch/2024/04/09/apng): Lossless animated pixel image format.
+* 🆓📖 [JPEG Format](/fileformatresearch/2024/04/09/jpeg): Lossy pixel image format.
+* 🆓📖 [Portable Document Format](/fileformatresearch/2024/04/09/png): Mainly used as document format for both scanned and rendered, sometimes used as vector image format.
 
 ### Only Read
 
-* Graphics Interchange Format: Lossless animated pixel image format.
+* [Graphics Interchange Format](/fileformatresearch/2024/04/09/gif): Lossless animated pixel image format.

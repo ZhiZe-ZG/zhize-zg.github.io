@@ -47,44 +47,21 @@ In addition, I will add at least one tag describing the functional positioning o
 
 ### Mainstream
 
-🆓📖
-
-* 🪟🍎🐧😈 Alacritty:  Terminal emulator.
-* 🪟🍎🐧 PowerShell: Command line shell. Used both in daily operating and scripting.
-* 🪟🍎🐧 OhMyPosh: Shell display effect configuration tool.
-* 🪟🍎🐧 Visual Studio Code: GUI text editor and development environment front-end framework.
-* 🪟🍎🐧 Neovim: TUI text editor and text editing kernel.
-* 🪟🍎🐧 MiKTeX: Typesetting tool set for TeX ecosystem.
-* 🪟: ImageGlass: Image viewer and gallery browser.
-* 🪟: Sumatra PDF: Document viewer.
-
-💰📖
-
-🆓📕
-
-💰📕
+* 🆓📖-🪟🍎🐧😈 [Alacritty](/softwareresearch/2024/03/27/alacritty):  Terminal emulator.
+* 🆓📖-🪟🍎🐧 [PowerShell](/softwareresearch/2024/03/15/powershell): Command line shell. Used both in daily operating and scripting.
+* 🆓📖-🪟🍎🐧 [OhMyPosh](/softwareresearch/2024/03/15/oh-my-posh): Shell display effect configuration tool.
+* 🆓📖-🪟🍎🐧 [Visual Studio Code](/softwareresearch/2024/04/07/vs-code): GUI text editor and development environment front-end framework.
+  * 🆓📖 [LaTeX Workshop](/softwareresearch/visualstudiocode/2024/04/08/latex-workshop): Front-end plugin for TeX-based typesetting softwares.
+* 🆓📖-🪟🍎🐧 [Neovim](/softwareresearch/2024/04/07/neovim): TUI text editor and text editing kernel.
+* 🆓📖-🪟🍎🐧 [MiKTeX](/softwareresearch/2024/04/08/miktex): Typesetting tool set for TeX ecosystem.
+* 🆓📖-🪟: [ImageGlass](/softwareresearch/2024/04/09/imageglass): Image viewer and gallery browser.
+* 🆓📖-🪟: [Sumatra PDF](/softwareresearch/2024/04/09/sumatra-pdf): Document viewer.
 
 ### Alternative
 
-🆓📖
-
-* 🪟 Windows Terminal: Terminal emulator.
-* 🪟🐧 nomacs: Image viewer, not support APNG for now.
-
-💰📖
-
-🆓📕
-
-💰📕
+* 🆓📖-🪟 [Windows Terminal](/softwareresearch/2024/03/14/windows-terminal): Terminal emulator.
+* 🆓📖-🪟🐧 [nomacs](/softwareresearch/2024/04/09/nomacs): Image viewer, not support APNG for now.
 
 ### For Fun
 
-🆓📖
-
-* 🪟🍎🐧😈 GNU Emacs: A complex system disguised as a text editor.
-
-💰📖
-
-🆓📕
-
-💰📕
+* 🆓📖-🪟🍎🐧😈 [GNU Emacs](/softwareresearch/2024/04/07/emacs): A complex system disguised as a text editor.
