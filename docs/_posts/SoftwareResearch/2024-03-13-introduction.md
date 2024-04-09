@@ -48,6 +48,8 @@ In addition, I will add at least one tag describing the functional positioning o
 * 🆓📖-🪟🍎🐧😈 [Alacritty](/softwareresearch/2024/03/27/alacritty):  Terminal emulator.
 * 🆓📖-🪟🍎🐧 [PowerShell](/softwareresearch/2024/03/15/powershell): Command line shell. Used both in daily operating and scripting.
 * 🆓📖-🪟🍎🐧 [OhMyPosh](/softwareresearch/2024/03/15/oh-my-posh): Shell display effect configuration tool.
+* 🆓📖-🪟🍎🐧 [Git](/softwareresearch/2024/04/09/git): Distributed version control system.
+* 🆓📖-🪟🍎🐧 [Git Large File Storage](/softwareresearch/2024/04/09/git-lfs): Git large file management expansion.
 * 🆓📖-🪟🍎🐧 [Visual Studio Code](/softwareresearch/2024/04/07/vs-code): GUI text editor and development environment front-end framework.
   * 🆓📖 [LaTeX Workshop](/softwareresearch/visualstudiocode/2024/04/08/latex-workshop): Front-end plugin for TeX-based typesetting softwares.
 * 🆓📖-🪟🍎🐧 [Neovim](/softwareresearch/2024/04/07/neovim): TUI text editor and text editing kernel.
