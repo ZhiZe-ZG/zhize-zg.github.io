@@ -1,14 +1,11 @@
 ---
 title: "Software Research Introduction"
 permalink: /SoftwareResearch/Introduction
-layout: single
-author_profile: true
-sidebar:
-  nav: overall
-toc: true
-toc_sticky: true
+date: 2024-03-13 18:44:51 +0800
+category: SoftwareResearch
+tags:
 header:
-  image: /assets/images/header.jpg
+  teaser: https://upload.wikimedia.org/wikipedia/commons/1/14/Window_%28windowing_system%29.svg
 ---
 
 This is the introduction to the series articles "Software Research". This series introduces basic information about the software that I am concerned about.
