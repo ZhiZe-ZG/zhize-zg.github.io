@@ -85,6 +85,12 @@ I also add at least one tag describing the usage of each format. The number of s
 * 🆓📖 [JPEG Format](/fileformatresearch/2024/04/09/jpeg): Lossy pixel image format.
 * 🆓📖 [Portable Document Format](/fileformatresearch/2024/04/09/png): Mainly used as document format for both scanned and rendered, sometimes used as vector image format.
 
+#### Rust Development Related
+
+#### .NET Development Related
+
+#### PowerShell Development Related
+
 ### Only Read
 
 * 🆓📖 [Graphics Interchange Format](/fileformatresearch/2024/04/09/gif): Lossless animated pixel image format.
