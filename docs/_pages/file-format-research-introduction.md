@@ -1,11 +1,13 @@
 ---
 title: "File Format Research Introduction"
 permalink: /FileFormatResearch/Introduction
-date: 2024-04-07 16:22:29 +0800
-category: FileFormatResearch
-tags: 
+layout: single
+author_profile: true
+sidebar:
+  nav: overall
+toc: true
 header:
-  teaser: https://upload.wikimedia.org/wikipedia/commons/6/6f/File-text-dynamic-color.png
+  image: /assets/images/header.jpg
 ---
 
 File Format Research is a series of introductory articles about file formats.

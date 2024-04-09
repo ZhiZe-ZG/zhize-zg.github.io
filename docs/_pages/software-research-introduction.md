@@ -1,11 +1,13 @@
 ---
 title: "Software Research Introduction"
 permalink: /SoftwareResearch/Introduction
-date: 2024-04-07 11:25:47 +0800
-category: SoftwareResearch
-tags: 
+layout: single
+author_profile: true
+sidebar:
+  nav: overall
+toc: true
 header:
-  teaser: https://upload.wikimedia.org/wikipedia/commons/f/f4/20060513_toolbox.jpg
+  image: /assets/images/header.jpg
 ---
 
 This is the introduction to the series articles "Software Research". This series introduces basic information about the software that I am concerned about.
@@ -64,6 +66,9 @@ In addition, I will add at least one tag describing the functional positioning o
 ### Alternative
 
 🆓📖
+
+* 🪟 Windows Terminal: Terminal emulator.
+* 🪟🐧 nomacs: Image viewer, not support APNG for now.
 
 💰📖
 
