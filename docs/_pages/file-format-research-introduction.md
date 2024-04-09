@@ -6,6 +6,7 @@ author_profile: true
 sidebar:
   nav: overall
 toc: true
+toc_sticky: true
 header:
   image: /assets/images/header.jpg
 ---
