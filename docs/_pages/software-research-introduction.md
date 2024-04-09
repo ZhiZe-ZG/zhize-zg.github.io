@@ -53,6 +53,7 @@ In addition, I will add at least one tag describing the functional positioning o
 * 🪟🍎🐧 Visual Studio Code: GUI text editor and development environment front-end framework.
 * 🪟🍎🐧 Neovim: TUI text editor and text editing kernel.
 * 🪟🍎🐧 MiKTeX: Typesetting tool set for TeX ecosystem.
+* 🪟: ImageGlass: Image viewer and gallery browser.
 
 💰📖
 
