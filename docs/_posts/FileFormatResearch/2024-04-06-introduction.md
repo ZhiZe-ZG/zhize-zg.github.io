@@ -74,20 +74,22 @@ I also add at least one tag describing the usage of each format. The number of s
 
 ### Read and Write
 
-* 🆓📖 [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
-* 🆓📖 [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
-* 🆓📖 [Scalable Vector Graphics](/fileformatresearch/2024/04/09/svg): Vector image format.
-* 🆓📖 [Portable Network Graphics](/fileformatresearch/2024/04/09/pdf): Lossless pixel image format.
+* 🆓📖 [7Z](/fileformatresearch/2024/04/10/7z): Archive and compression format with more function and better compression ratio.
 * 🆓📖 [Animated PNG](/fileformatresearch/2024/04/09/apng): Lossless animated pixel image format.
-* 🆓📖 [JPEG Format](/fileformatresearch/2024/04/09/jpeg): Lossy pixel image format.
+* 🆓📖 [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
+* 🆓📖 [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
 * 🆓📖 [Portable Document Format](/fileformatresearch/2024/04/09/png): Mainly used as document format for both scanned and rendered, sometimes used as vector image format.
+* 🆓📖 [Portable Network Graphics](/fileformatresearch/2024/04/09/pdf): Lossless pixel image format.
+* 🆓📖 [JPEG Format](/fileformatresearch/2024/04/09/jpeg): Lossy pixel image format.
+* 🆓📖 [Scalable Vector Graphics](/fileformatresearch/2024/04/09/svg): Vector image format.
+* 🆓📖 [ZIP](/fileformatresearch/2024/04/10/zip): Archive and compression format, also as the basis for many other file formats.
 
 ### Only Read
 
-* 🆓📖 [Tar](/fileformatresearch/2024/04/10/tar): Archive file format.
-* 🆓📖 [Gzip](/fileformatresearch/2024/04/10/gzip): Single file compression format.
 * 🆓📖 [Bzip2](/fileformatresearch/2024/04/10/bzip2): Single file compression format.
-* 🆓📖 [XZ](/fileformatresearch/2024/04/10/xz): Single file compression format.
-* 💰📕 [RAR](/fileformatresearch/2024/04/10/rar): Archive and compression format.
-* 🆓📖 [Graphics Interchange Format](/fileformatresearch/2024/04/09/gif): Lossless animated pixel image format.
 * 🆓📖 [DjVu](/fileformatresearch/2024/04/10/djvu): Document format or pixel image format for scanned documents.
+* 🆓📖 [Graphics Interchange Format](/fileformatresearch/2024/04/09/gif): Lossless animated pixel image format.
+* 🆓📖 [Gzip](/fileformatresearch/2024/04/10/gzip): Single file compression format.
+* 💰📕 [RAR](/fileformatresearch/2024/04/10/rar): Archive and compression format.
+* 🆓📖 [Tar](/fileformatresearch/2024/04/10/tar): Archive file format.
+* 🆓📖 [XZ](/fileformatresearch/2024/04/10/xz): Single file compression format.
