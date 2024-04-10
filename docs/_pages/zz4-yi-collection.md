@@ -9,4 +9,4 @@ sidebar:
   nav: overall
 ---
 
-Documents listing for the collection `_zz4-yi`.
+Documents listing for the sciences collection.

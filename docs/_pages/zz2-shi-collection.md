@@ -9,4 +9,4 @@ sidebar:
   nav: overall
 ---
 
-Documents listing for the collection `_zz2-shi`.
+Documents listing for the histories collection.

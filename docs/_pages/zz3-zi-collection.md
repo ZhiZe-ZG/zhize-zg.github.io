@@ -9,4 +9,4 @@ sidebar:
   nav: overall
 ---
 
-Documents listing for the collection `_zz3-zi`.
+Documents listing for the thoughts collection.

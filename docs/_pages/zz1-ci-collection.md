@@ -9,4 +9,4 @@ sidebar:
   nav: overall
 ---
 
-Documents listing for the collection `_zz1-ci`.
+Documents listing for the languages collection.
