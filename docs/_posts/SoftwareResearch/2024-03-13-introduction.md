@@ -67,6 +67,7 @@ In addition, I will add at least one tag describing the functional positioning o
 #### Unix-like System Archive and Compression
 
 * 🆓📖-🐧 [GNU Tar](/softwareresearch/2024/04/10/gnu-tar): Archive tool.
+* 🆓📖-🐧 [GNU Gzip](/softwareresearch/2024/04/10/gnu-gzip): Compressing and decompressing GZ format files.
 
 ### For Fun
 

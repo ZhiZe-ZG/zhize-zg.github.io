@@ -46,7 +46,7 @@ The suffix name is mainly determined based on the recommendation of the file for
 
 In addition, a file format generally has only one suffix name. When the letters in the suffix name can be uppercase or lowercase, the lowercase form is generally used. When a file format has multiple suffixes, choose the most commonly used or standardized one. It is possible that a file format have multiple suffix names. Generally speaking, a file format can identify its different variants through the meta information inside the file. It is not necessary to distinguish the variant of file format by suffix name, so currently do not give multiple suffix names to a file format. If must, sperate them into different file format types.
 
-The suffix name will also be used as the abbreviation of the file format. When used as a file abbreviation, all capital letters are used unless otherwise agreed.
+The suffix name will also be used as the abbreviation of the file format. When used as a file abbreviation, all capital letters (and without `.`)are used unless otherwise agreed.
 
 ## File format type inheritance
 
