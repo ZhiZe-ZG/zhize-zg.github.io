@@ -2,7 +2,7 @@
 title: "Sumatra PDF"
 date: 2024-04-09 12:34:35 +0800
 category: SoftwareResearch
-tags: DocumentViewer GUI
+tags: Document-Viewer GUI
 header:
   teaser: https://www.sumatrapdfreader.org/docs/img/homepage.png
 ---
