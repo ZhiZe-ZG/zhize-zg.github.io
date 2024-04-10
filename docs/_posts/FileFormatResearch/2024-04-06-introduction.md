@@ -76,6 +76,7 @@ I also add at least one tag describing the usage of each format. The number of s
 
 * 🆓📖 [7Z](/fileformatresearch/2024/04/10/7z): Archive and compression format with more function and better compression ratio.
 * 🆓📖 [Animated PNG](/fileformatresearch/2024/04/09/apng): Lossless animated pixel image format.
+* 🆓📖 [EPUB](/fileformatresearch/2024/04/10/epub): E-book format based on web related technologies.
 * 🆓📖 [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
 * 🆓📖 [Markdown](/fileformatresearch/2024/04/10/markdown-format): A simple markup format used to write documents without complex style or structure.
 * 🆓📖 [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
