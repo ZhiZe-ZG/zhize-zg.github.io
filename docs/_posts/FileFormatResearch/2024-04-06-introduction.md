@@ -110,4 +110,5 @@ I also add at least one tag describing the usage of each format. The number of s
 ### Only Read
 
 * 🆓📖 [Graphics Interchange Format](/fileformatresearch/2024/04/09/gif): Lossless animated pixel image format.
-* 🆓📖 [GNU Tar](/fileformatresearch/2024/04/10/tar): Archive file format.
+* 🆓📖 [Tar](/fileformatresearch/2024/04/10/tar): Archive file format.
+* 🆓📖 [Gzip](/fileformatresearch/2024/04/10/gzip): Single file compression format.
