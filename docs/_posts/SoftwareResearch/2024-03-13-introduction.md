@@ -62,14 +62,6 @@ In addition, I will add at least one tag describing the functional positioning o
 * 🆓📖-🪟 [Windows Terminal](/softwareresearch/2024/03/14/windows-terminal): Terminal emulator.
 * 🆓📖-🪟🐧 [nomacs](/softwareresearch/2024/04/09/nomacs): Image viewer, not support APNG for now.
 
-### Specific Purpose
-
-#### Unix-like System Archive and Compression
-
-* 🆓📖-🐧 [GNU Tar](/softwareresearch/2024/04/10/gnu-tar): Archive tool.
-* 🆓📖-🐧 [GNU Gzip](/softwareresearch/2024/04/10/gnu-gzip): Compressing and decompressing GZ format files.
-* 🆓📖-🐧 [Bzip2](/softwareresearch/2024/04/10/bzip2): Compressing and decompressing BZ2 format files.
-
 ### For Fun
 
 * 🆓📖-🪟🍎🐧😈 [GNU Emacs](/softwareresearch/2024/04/07/emacs): A complex system disguised as a text editor.

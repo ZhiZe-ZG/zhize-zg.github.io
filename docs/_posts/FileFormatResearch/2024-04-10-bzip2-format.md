@@ -11,7 +11,7 @@ header:
 
 Parent Format: Byte
 
-MIME Name: application/x-bzip2
+MIME Name: application/x-bzip2 (non-standard)
 
 Suffix： `.bz2`
 

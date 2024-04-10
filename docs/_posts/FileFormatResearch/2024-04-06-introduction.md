@@ -87,5 +87,6 @@ I also add at least one tag describing the usage of each format. The number of s
 * 🆓📖 [Tar](/fileformatresearch/2024/04/10/tar): Archive file format.
 * 🆓📖 [Gzip](/fileformatresearch/2024/04/10/gzip): Single file compression format.
 * 🆓📖 [Bzip2](/fileformatresearch/2024/04/10/bzip2): Single file compression format.
+* 🆓📖 [XZ](/fileformatresearch/2024/04/10/xz): Single file compression format.
 * 🆓📖 [Graphics Interchange Format](/fileformatresearch/2024/04/09/gif): Lossless animated pixel image format.
 * 🆓📖 [DjVu](/fileformatresearch/2024/04/10/djvu): Document format or pixel image format for scanned documents.
