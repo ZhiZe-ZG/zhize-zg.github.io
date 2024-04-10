@@ -82,32 +82,6 @@ I also add at least one tag describing the usage of each format. The number of s
 * 🆓📖 [JPEG Format](/fileformatresearch/2024/04/09/jpeg): Lossy pixel image format.
 * 🆓📖 [Portable Document Format](/fileformatresearch/2024/04/09/png): Mainly used as document format for both scanned and rendered, sometimes used as vector image format.
 
-
-<!-- 以下分类仅仅列举专用的源码或者项目配置文件格式，使用通用数据文件格式的不包括在内 -->
-
-<!-- 可以考虑线对类型分类（应该有一个无分类或者不分类项目），然后再定是否读写，是否读写不作为标题，仅仅是分隔一下 -->
-
-<!-- 
-
-编程相关文件的特殊之处主要在于编程是一件抽象的事情，但是这件事先要选择编程框架，编程框架之间又有相互取代性
-
-不想图像格式，像素图和矢量图不相互取代，同为像素图才有可能有取代关系
-
-编程语言之间的转换又非常复杂
-
-可以设立群组，一个群组的几个文件是搭配使用的，如果弃用是整体弃用
-另外数据表示格式也作为一种分类
-
-#### TeX Related
-
-#### Rust Development Related
-
-#### .NET Development Related
-
-#### PowerShell Development Related 
-
--->
-
 ### Only Read
 
 * 🆓📖 [Tar](/fileformatresearch/2024/04/10/tar): Archive file format.
