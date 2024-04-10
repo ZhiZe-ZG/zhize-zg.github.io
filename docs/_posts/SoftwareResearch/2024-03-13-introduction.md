@@ -68,6 +68,7 @@ In addition, I will add at least one tag describing the functional positioning o
 
 * 🆓📖-🐧 [GNU Tar](/softwareresearch/2024/04/10/gnu-tar): Archive tool.
 * 🆓📖-🐧 [GNU Gzip](/softwareresearch/2024/04/10/gnu-gzip): Compressing and decompressing GZ format files.
+* 🆓📖-🐧 [Bzip2](/softwareresearch/2024/04/10/bzip2): Compressing and decompressing BZ2 format files.
 
 ### For Fun
 
