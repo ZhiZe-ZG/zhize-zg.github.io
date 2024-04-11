@@ -21,4 +21,4 @@ Related Sites:
 
 Yet another One Dark theme imitator. It provides several One Dark variant. I used it for a time, until I found One Dark Darker.
 
-I'm not a person who particularly likes to change appearance themes. Stable display of important information, comfort plus a bit of aesthetics is good enough for me.
+I'm not a person who particularly likes to change appearance themes. Stable display of important information, comfort plus a bit of aesthetics is good enough for me. I only kept the set of themes I used and didn't install any other themes. I even disabled all the themes that come with VS Code.

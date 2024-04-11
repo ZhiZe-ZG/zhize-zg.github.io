@@ -68,6 +68,8 @@ In addition, I will add at least one tag describing the functional positioning o
   * 🆓📖 [Markdown Preview Mermaid Support](/softwareresearch/visualstudiocode/2024/04/12/markdown-preview-mermaid): Preview for Mermaid embedded in Markdown.
   * 🆓📖 [Markdownlint](/softwareresearch/visualstudiocode/2024/04/12/markdownlint): Linter for Markdown.
   * 🆓📖 [Mermaid Markdown Syntax Highlighting](/softwareresearch/visualstudiocode/2024/04/12/mermaid-markdown-syntax): Syntax highlighting for Mermaid embedded in Markdown.
+  * 🆓📖 [Material Icon Theme](/softwareresearch/visualstudiocode/2024/04/12/material-icon): File icon theme.
+  * 🆓📖 [Material Product Icons](/softwareresearch/visualstudiocode/2024/04/12/material-product): UI icon theme.
   * 🆓📖 [One Dark Darker](/softwareresearch/visualstudiocode/2024/04/12/one-dark-darker): A color theme.
 
 ### Alternative
