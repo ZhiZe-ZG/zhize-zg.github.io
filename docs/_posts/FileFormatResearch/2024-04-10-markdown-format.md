@@ -2,7 +2,7 @@
 title: "Markdown"
 date: 2024-04-10 21:45:57 +0800
 category: FileFormatResearch
-tags: Text-File
+tags: Text-File Markdown
 header:
   teaser: https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg
 ---
