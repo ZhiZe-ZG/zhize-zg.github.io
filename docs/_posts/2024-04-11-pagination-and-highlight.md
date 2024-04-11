@@ -4,7 +4,7 @@ date: 2024-04-11 22:53:59 +0800
 category: Tech-Note/Personal-Website
 tags: Jekyll Minimal-Mistakes
 header:
-  teaser: https://upload.wikimedia.org/wikipedia/commons/d/d1/Sanzio_01_cropped.png
+  teaser: https://upload.wikimedia.org/wikipedia/commons/0/06/App-printer-icon.png
 ---
 
 In the past few days, I have been mainly writing about file format research and software research. However, some adjustments have been made to the website.
