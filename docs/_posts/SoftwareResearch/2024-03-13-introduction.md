@@ -64,8 +64,10 @@ In addition, I will add at least one tag describing the functional positioning o
   * 🆓📖 [Markdown Extended](/softwareresearch/visualstudiocode/2024/04/12/markdown-extended): More extended syntax for Markdown.
   * 🆓📖 [Markdown Language Basics](/softwareresearch/visualstudiocode/2024/04/12/vscode-markdown): Markdown syntax support.
   * 🆓📖 [Markdown Language Features](/softwareresearch/visualstudiocode/2024/04/12/vscode-markdown-features): Markdown preview.
-  * 🆓📖 [Markdownlint](/softwareresearch/visualstudiocode/2024/04/12/markdownlint): Linter for Markdown.
   * 🆓📖 [Markdown Math](/softwareresearch/visualstudiocode/2024/04/12/vscode-markdown-math): Math extension to Markdown preview.
+  * 🆓📖 [Markdown Preview Mermaid Support](/softwareresearch/visualstudiocode/2024/04/12/markdown-preview-mermaid): Preview for Mermaid embedded in Markdown.
+  * 🆓📖 [Markdownlint](/softwareresearch/visualstudiocode/2024/04/12/markdownlint): Linter for Markdown.
+  * 🆓📖 [Mermaid Markdown Syntax Highlighting](/softwareresearch/visualstudiocode/2024/04/12/mermaid-markdown-syntax): Syntax highlighting for Mermaid embedded in Markdown.
   * 🆓📖 [One Dark Darker](/softwareresearch/visualstudiocode/2024/04/12/one-dark-darker): A color theme.
 
 ### Alternative
