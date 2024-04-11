@@ -215,9 +215,9 @@ sass:
 
 
 # Outputting
-# permalink: /:categories/:year/:month/:day/:title/
-# paginate: 16 # amount of posts to show
-# paginate_path: /page:num/
+permalink: /:categories/:year/:month/:day/:title/
+paginate: 16 # amount of posts to show
+paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -280,23 +280,23 @@ date_format: "%Y-%m-%d %H:%M:%S"
 words_per_minute: 200
 
 # Collections
-collections:
-  zz1-ci:
-    output: true
-    permalink: /languages/:path/
-    show_name: Languages
-  zz2-shi:
-    output: true
-    permalink: /histories/:path/
-    show_name: Histories
-  zz3-zi:
-    output: true
-    permalink: /thoughts/:path/
-    show_name: Thoughts
-  zz4-yi:
-    output: true
-    permalink: /sciences/:path/
-    show_name: Sciences
+# collections:
+#   zz1-ci:
+#     output: true
+#     permalink: /languages/:path/
+#     show_name: Languages
+#   zz2-shi:
+#     output: true
+#     permalink: /histories/:path/
+#     show_name: Histories
+#   zz3-zi:
+#     output: true
+#     permalink: /thoughts/:path/
+#     show_name: Thoughts
+#   zz4-yi:
+#     output: true
+#     permalink: /sciences/:path/
+#     show_name: Sciences
 
 # Defaults
 defaults:
@@ -309,78 +309,6 @@ defaults:
       category: Uncategorized
       layout: single
       show_date: true    
-      read_time: true
-      share: true
-      related: true
-      toc: true
-      toc_sticky: true
-      author_profile: true
-      sidebar:
-        nav: overall
-      header:
-        image: /assets/images/header.jpg
-  # zz1-ci
-  - 
-    scope:
-      path: ""
-      type: zz1-ci
-    values:
-      layout: single
-      show_date: true
-      read_time: true
-      share: true
-      related: true
-      toc: true
-      toc_sticky: true
-      author_profile: true
-      sidebar:
-        nav: overall
-      header:
-        image: /assets/images/header.jpg
-  # zz2-shi
-  - 
-    scope:
-      path: ""
-      type: zz2-shi
-    values:
-      layout: single
-      show_date: true
-      read_time: true
-      share: true
-      related: true
-      toc: true
-      toc_sticky: true
-      author_profile: true
-      sidebar:
-        nav: overall
-      header:
-        image: /assets/images/header.jpg
-  # zz3-zi
-  - 
-    scope:
-      path: ""
-      type: zz3-zi
-    values:
-      layout: single
-      show_date: true
-      read_time: true
-      share: true
-      related: true
-      toc: true
-      toc_sticky: true
-      author_profile: true
-      sidebar:
-        nav: overall
-      header:
-        image: /assets/images/header.jpg
-  # zz4-yi
-  - 
-    scope:
-      path: ""
-      type: zz4-yi
-    values:
-      layout: single
-      show_date: true
       read_time: true
       share: true
       related: true

@@ -1,6 +1,6 @@
 ---
 title: Thus Spoke ZhiZe
-layout: single
+layout: home
 entries_layout: grid
 author_profile: true
 sidebar:
@@ -34,21 +34,3 @@ Some introductions of my posts categories:
   <li><a href="/SoftwareResearch/Introduction">Software Research</a>: A simple summary for softwares I am using or
     interested in.</li>
 </ul>
-
-<!-- Recenet articles-->
-<h2>Recent Articles</h2>
-<!-- Concat all articles -->
-{% assign total_list = site.posts %}
-{% assign pure_collections = site.collections | where_exp:"item", "item.label != 'posts'"%}
-{% for collection in pure_collections%}
-{% assign total_list = total_list | concat: collection.docs %}
-{% endfor %}
-<!-- Sort by datetime and take first n -->
-{% assign sorted_list = total_list | sort: 'date' | reverse %}
-<!-- Display all titles in sorted_list -->
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in sorted_list limit: 16 %}
-  {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>

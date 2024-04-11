@@ -14,7 +14,7 @@ Introduction and index of each collection. The posts are not included in the col
 
 ## Languages
 
-Languages learning, rhetoric and logics without math. See the [main page of Languages](/languages/main).
+Languages learning, rhetoric and logics without math. See the [main page of Languages](/zz/ci/2024/04/06/zz-ci).
 
 ## Histories
 
