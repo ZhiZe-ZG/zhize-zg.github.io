@@ -20,17 +20,18 @@ header:
 </style>
 <!-- 在新潮中理解传统，在过往中寻求变革。 -->
 <hr />
-<pq>In nova traditionem intellegere</pq>
+<pq>
+In nova traditionem intellegere
 <br />
-<pq>In vetera mutationem quaerere</pq>
+In vetera mutationem quaerere
+</pq>
 <hr />
 
 <!-- Categories Introductions -->
 Some introductions of my posts categories:
 
-<ul>
-  <li><a href="/FileFormatResearch/Introduction">File Format Research</a>: A summary about usually used file formats.
-  </li>
-  <li><a href="/SoftwareResearch/Introduction">Software Research</a>: A simple summary for softwares I am using or
-    interested in.</li>
-</ul>
+* [File Format Research](/FileFormatResearch/Introduction): A summary about usually used file formats.
+* [Software Research](/SoftwareResearch/Introduction): A simple summary for softwares I am using or
+    interested in.
+* ZhiZe Knowledge Taxonomy
+  * [Languages](/zz/ci/2024/04/06/zz-ci): Languages learning.
