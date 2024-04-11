@@ -34,4 +34,7 @@ Some introductions of my posts categories:
 * [Software Research](/SoftwareResearch/Introduction): A simple summary for softwares I am using or
     interested in.
 * ZhiZe Knowledge Taxonomy
-  * [Languages](/zz/ci/2024/04/06/zz-ci): Languages learning.
+  * [Languages](/zz/ci/2024/04/06/zz-ci) <!-- Ci 辞 -->
+  * Histories <!-- Shi 史 -->
+  * Thoughts <!-- Zi 子 -->
+  * Sciences <!-- Yi 易 -->
