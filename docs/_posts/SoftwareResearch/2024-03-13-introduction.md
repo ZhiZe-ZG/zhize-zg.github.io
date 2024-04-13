@@ -106,8 +106,13 @@ Currently this category mainly includes package managers and GUI environments.
 ### Alternative Applications
 
 * 🆓📖-🪟🐧 [Nomacs](/softwareresearch/2024/04/09/nomacs): Image viewer, not support APNG for now.
+* 💰📕-🪟🍎🐧 [Typora](/softwareresearch/2024/04/14/typora): Markdown viewer and editor.
 * 🆓📖-🪟 [Windows Terminal](/softwareresearch/2024/03/14/windows-terminal): Terminal emulator.
 
 ### For Fun
 
 * 🆓📖-🪟🍎🐧😈 [GNU Emacs](/softwareresearch/2024/04/07/emacs): A complex system disguised as a text editor.
+
+## Trend
+
+Trends in software recommendation changes.

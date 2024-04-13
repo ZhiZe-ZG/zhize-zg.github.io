@@ -96,3 +96,7 @@ I also add at least one tag describing the usage of each format. The number of s
 * 💰📕 [RAR](/fileformatresearch/2024/04/10/rar): Archive and compression format.
 * 🆓📖 [Tar](/fileformatresearch/2024/04/10/tar): Archive file format.
 * 🆓📖 [XZ](/fileformatresearch/2024/04/10/xz): Single file compression format.
+
+## Trend
+
+Trends in file format recommendation changes.
