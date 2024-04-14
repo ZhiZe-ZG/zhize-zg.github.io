@@ -106,5 +106,3 @@ I also add at least one tag describing the usage of each format. The number of s
 ## Trend
 
 Trends in file format recommendation changes.
-
-* Mainly use TTF and TTC for now.
