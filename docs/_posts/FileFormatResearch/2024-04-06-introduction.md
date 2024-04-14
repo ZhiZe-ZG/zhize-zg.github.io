@@ -87,6 +87,7 @@ I also add at least one tag describing the usage of each format. The number of s
 * 🆓📖 [Portable Network Graphics](/fileformatresearch/2024/04/09/pdf): Lossless pixel image format.
 * 🆓📖 [JPEG Format](/fileformatresearch/2024/04/09/jpeg): Lossy pixel image format.
 * 🆓📖 [Scalable Vector Graphics](/fileformatresearch/2024/04/09/svg): Vector image format.
+* 🆓📖 [WOFF2](/fileformatresearch/2024/04/14/woff2): Vector font file for web.
 * 🆓📖 [ZIP](/fileformatresearch/2024/04/10/zip): Archive and compression format, also as the basis for many other file formats.
 
 ### Only Read
@@ -99,6 +100,7 @@ I also add at least one tag describing the usage of each format. The number of s
 * 🆓📖 [Tar](/fileformatresearch/2024/04/10/tar): Archive file format.
 * 🆓📖 [TrueType-flavored OpenType](/fileformatresearch/2024/04/14/truetype): Vector font file format.
 * 🆓📖 [TrueType-flavored OpenType Collection](/fileformatresearch/2024/04/14/truetype-collection): Vector font collection file format.
+* 🆓📖 [WOFF](/fileformatresearch/2024/04/14/woff): Vector font file for web.
 * 🆓📖 [XZ](/fileformatresearch/2024/04/10/xz): Single file compression format.
 
 ## Trend
