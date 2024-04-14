@@ -80,6 +80,8 @@ I also add at least one tag describing the usage of each format. The number of s
 * 🆓📖 [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
 * 🆓📖 [ISO](/fileformatresearch/2024/04/11/iso): An optical disc file system image file format.
 * 🆓📖 [Markdown](/fileformatresearch/2024/04/10/markdown-format): A simple markup format used to write documents without complex style or structure.
+* 🆓📖 [PostScript-flavored OpenType](/fileformatresearch/2024/04/14/opentype): Vector font file format.
+* 🆓📖 [PostScript-flavored OpenType Collection](/fileformatresearch/2024/04/14/opentype-collection): Vector font collection file format.
 * 🆓📖 [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
 * 🆓📖 [Portable Document Format](/fileformatresearch/2024/04/09/png): Mainly used as document format for both scanned and rendered, sometimes used as vector image format.
 * 🆓📖 [Portable Network Graphics](/fileformatresearch/2024/04/09/pdf): Lossless pixel image format.
@@ -95,8 +97,12 @@ I also add at least one tag describing the usage of each format. The number of s
 * 🆓📖 [Gzip](/fileformatresearch/2024/04/10/gzip): Single file compression format.
 * 💰📕 [RAR](/fileformatresearch/2024/04/10/rar): Archive and compression format.
 * 🆓📖 [Tar](/fileformatresearch/2024/04/10/tar): Archive file format.
+* 🆓📖 [TrueType-flavored OpenType](/fileformatresearch/2024/04/14/truetype): Vector font file format.
+* 🆓📖 [TrueType-flavored OpenType Collection](/fileformatresearch/2024/04/14/truetype-collection): Vector font collection file format.
 * 🆓📖 [XZ](/fileformatresearch/2024/04/10/xz): Single file compression format.
 
 ## Trend
 
 Trends in file format recommendation changes.
+
+* Mainly use TTF and TTC for now.
