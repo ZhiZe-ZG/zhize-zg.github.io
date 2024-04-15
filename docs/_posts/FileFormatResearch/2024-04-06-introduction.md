@@ -97,7 +97,7 @@ I also add at least one tag describing the usage of each format. The number of s
 * 🆓📖 [WOFF2](/fileformatresearch/2024/04/14/woff2): Vector font file for web.
 * 🆓📖 [ZIP](/fileformatresearch/2024/04/10/zip): Archive and compression format, also as the basis for many other file formats.
 
-### Domain Specific
+### Domain Specific Read and Write
 
 #### Unix-like System Archive and Compression
 
