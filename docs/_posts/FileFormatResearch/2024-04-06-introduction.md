@@ -56,6 +56,12 @@ When file format B inherits A, every qualified B file is required to be a qualif
 
 If a file format inherits directly from the 8-bit binary byte format, enter "Byte" in the "Parent Format" column.
 
+## About Programming-related Languages
+
+Programming languages that have corresponding file formats record corresponding file formats.
+
+Programming languages that do not have corresponding formats are mentioned as language extensions in their main dependent languages and supplemented with reference materials and tags.
+
 ## Symbols and Tags
 
 Here are descriptions of the symbols I'll use in this series of articles:
