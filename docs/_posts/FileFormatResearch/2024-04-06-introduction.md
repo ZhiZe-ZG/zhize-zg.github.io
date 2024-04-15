@@ -74,7 +74,12 @@ I also add at least one tag describing the usage of each format. The number of s
 
 ### Read and Write
 
+#### Future
+
 * 🆓📖 [7Z](/fileformatresearch/2024/04/10/7z): Archive and compression format with more function and better compression ratio.
+  
+#### Main Stream
+
 * 🆓📖 [Animated PNG](/fileformatresearch/2024/04/09/apng): Lossless animated pixel image format.
 * 🆓📖 [BibTeX](/fileformatresearch/2024/04/15/bib): A data format for recording citation sources.
 * 🆓📖 [EPUB](/fileformatresearch/2024/04/10/epub): E-book format based on web related technologies.
