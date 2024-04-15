@@ -72,7 +72,7 @@ I also add at least one tag describing the usage of each format. The number of s
 
 ## Recommendations
 
-### Read and Write
+### Common Read and Write
 
 #### Future
 
