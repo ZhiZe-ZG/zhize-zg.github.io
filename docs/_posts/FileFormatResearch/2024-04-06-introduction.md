@@ -92,18 +92,23 @@ I also add at least one tag describing the usage of each format. The number of s
 * 🆓📖 [WOFF2](/fileformatresearch/2024/04/14/woff2): Vector font file for web.
 * 🆓📖 [ZIP](/fileformatresearch/2024/04/10/zip): Archive and compression format, also as the basis for many other file formats.
 
-### Only Read
+### Domain Specific
+
+#### Unix-like System Archive and Compression
 
 * 🆓📖 [Bzip2](/fileformatresearch/2024/04/10/bzip2): Single file compression format.
+* 🆓📖 [Gzip](/fileformatresearch/2024/04/10/gzip): Single file compression format.
+* 🆓📖 [Tar](/fileformatresearch/2024/04/10/tar): Archive file format.
+* 🆓📖 [XZ](/fileformatresearch/2024/04/10/xz): Single file compression format.
+
+### Only Read
+
 * 🆓📖 [DjVu](/fileformatresearch/2024/04/10/djvu): Document format or pixel image format for scanned documents.
 * 🆓📖 [Graphics Interchange Format](/fileformatresearch/2024/04/09/gif): Lossless animated pixel image format.
-* 🆓📖 [Gzip](/fileformatresearch/2024/04/10/gzip): Single file compression format.
 * 💰📕 [RAR](/fileformatresearch/2024/04/10/rar): Archive and compression format.
-* 🆓📖 [Tar](/fileformatresearch/2024/04/10/tar): Archive file format.
 * 🆓📖 [TrueType-flavored OpenType](/fileformatresearch/2024/04/14/truetype): Vector font file format.
 * 🆓📖 [TrueType-flavored OpenType Collection](/fileformatresearch/2024/04/14/truetype-collection): Vector font collection file format.
 * 🆓📖 [WOFF](/fileformatresearch/2024/04/14/woff): Vector font file for web.
-* 🆓📖 [XZ](/fileformatresearch/2024/04/10/xz): Single file compression format.
 
 ## Trend
 
