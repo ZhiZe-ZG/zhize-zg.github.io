@@ -62,6 +62,8 @@ Programming languages that have corresponding file formats record corresponding 
 
 Programming languages that do not have corresponding formats are mentioned as language extensions in their main dependent languages and supplemented with reference materials and tags.
 
+Languages that do not have independent file formats or dependent formats such as BNF are not documented in this series of articles.
+
 ## Symbols and Tags
 
 Here are descriptions of the symbols I'll use in this series of articles:
