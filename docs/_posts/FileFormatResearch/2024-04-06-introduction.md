@@ -76,6 +76,7 @@ I also add at least one tag describing the usage of each format. The number of s
 
 * 🆓📖 [7Z](/fileformatresearch/2024/04/10/7z): Archive and compression format with more function and better compression ratio.
 * 🆓📖 [Animated PNG](/fileformatresearch/2024/04/09/apng): Lossless animated pixel image format.
+* 🆓📖 [BibTeX](/fileformatresearch/2024/04/15/bib): A data format for recording citation sources.
 * 🆓📖 [EPUB](/fileformatresearch/2024/04/10/epub): E-book format based on web related technologies.
 * 🆓📖 [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
 * 🆓📖 [ISO](/fileformatresearch/2024/04/11/iso): An optical disc file system image file format.
@@ -87,6 +88,7 @@ I also add at least one tag describing the usage of each format. The number of s
 * 🆓📖 [Portable Network Graphics](/fileformatresearch/2024/04/09/pdf): Lossless pixel image format.
 * 🆓📖 [JPEG Format](/fileformatresearch/2024/04/09/jpeg): Lossy pixel image format.
 * 🆓📖 [Scalable Vector Graphics](/fileformatresearch/2024/04/09/svg): Vector image format.
+* 🆓📖 [TeX](/fileformatresearch/2024/04/15/tex): Markup language format for TeX typesetting system.
 * 🆓📖 [WOFF2](/fileformatresearch/2024/04/14/woff2): Vector font file for web.
 * 🆓📖 [ZIP](/fileformatresearch/2024/04/10/zip): Archive and compression format, also as the basis for many other file formats.
 
