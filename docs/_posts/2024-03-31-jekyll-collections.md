@@ -5,6 +5,7 @@ category: Tech-Note/Personal-Website
 tags: GitHub-Pages Jekyll Front-Matter Minimal-Mistakes
 header:
   teaser: https://upload.wikimedia.org/wikipedia/commons/7/72/Vinyl_collection_at_a_record_store_%28Unsplash%29.jpg
+mermaid: true
 ---
 
 Collections are units for Jekyll to manage pages. Pages under the same collection are generally stored in the same folder, and Front Matter default values can be set uniformly in `_config.yml`. In addition, Jekyll will also create a traversal list for the pages in the collection to facilitate the writing of index pages, etc.
@@ -142,9 +143,9 @@ Pages in collections:
 
 According the advice from this article [Jekyll Collections: What Collections Are](https://jekyll-one-org.github.io/pages/public/learn/bookshelf/jekyll_collections/), you can use collections to group together articles that are logically related but whose writing time is not important.
 
-There is a very clear illustration in the article, which is reproduced in mermaid syntax as follows:
+There is a very clear illustration in the article, which is reproduced in mermaid as follows:
 
-```mermaid
+<pre class="mermaid">
 flowchart TD
     QLogic[Can the things be logically grouped?]
     QDate[Are they grouped by date?]
@@ -156,11 +157,11 @@ flowchart TD
     QLogic -- Yes --> QDate
     QDate -- No --> UCollection
     QDate -- Yes --> UPosts
-```
+</pre>
 
 But in my opinion, logical classification is still more important than the writing date, so I recommend following this process to make decisions for a new article:
 
-```mermaid
+<pre class="mermaid">
 flowchart TD
     QTopic[Can it be subsumed into an existing custom collection?]
     QRelatives[Are there other articles like this or will you write more on this topic?]
@@ -181,6 +182,6 @@ flowchart TD
     QRelatives -- No --> QUnique
     QUnique -- Yes --> CPage
     QUnique -- No --> UPosts
-```
+</pre>
 
 In terms of source code management, posts placed in subfolders of the `_posts` will also be recognized. Moreover, if you do not use `:path` in permalink, the actual storage path of the source code will not affect the access address of the generated page.

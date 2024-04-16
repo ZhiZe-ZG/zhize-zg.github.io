@@ -35,4 +35,4 @@ Also refer to:
 
 * [Jekyll DOCS: Tags Filters - Code snippet highlighting](https://jekyllrb.com/docs/liquid/tags/#code-snippet-highlighting)
 
-There are some differences between highlighters. For example, both `powershell` and `pwsh` can refer to PowerShell in VS Code but rogue only support `powershell`. 
+There are some differences between highlighters. For example, both `powershell` and `pwsh` can refer to PowerShell in VS Code but rogue only support `powershell`.
