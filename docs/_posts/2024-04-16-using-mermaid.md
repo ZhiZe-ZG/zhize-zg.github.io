@@ -76,6 +76,8 @@ Generally I use `single` as the layout for posts. So the first step is to go to 
 
 The second step is to add the following code at the front of our `single.html` (before the text content):
 
+{% raw %}
+
 ```liquid
 {% if page.mermaid %}
 <!-- Mermaid Support -->
@@ -88,6 +90,8 @@ The second step is to add the following code at the front of our `single.html` (
 </script>
 {% endif %}
 ```
+
+{% endraw %}
 
 The `if` determines whether to add the content included in `if` based on the value of the `mermaid` variable in the page's Front Matter. Inside the `if` statement is the code to load Mermaid. This is a piece of JavaScript code embedded in HTML that will go to Mermaid's distribution website to download the Mermaid script and run it on the current page. You can also modify this if you can read JavaScript.
 
