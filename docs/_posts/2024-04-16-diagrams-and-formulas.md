@@ -2,7 +2,7 @@
 title: "Show Diagrams and Formulas in GitHub Pages"
 date: 2024-04-16 15:43:45 +0800
 category: Tech-Note/Personal-Website
-tags: Jekyll GitHub-Pages Mermaid Front-Matter Minimal-Mistakes Liquid MathJax
+tags: Jekyll GitHub-Pages Mermaid Front-Matter Minimal-Mistakes Liquid MathJax LaTeX
 header:
   teaser: http://mermaid.js.org/mermaid-logo.svg
 mathjax: true
