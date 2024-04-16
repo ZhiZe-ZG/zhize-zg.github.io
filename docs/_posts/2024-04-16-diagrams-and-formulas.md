@@ -1,10 +1,11 @@
 ---
-title: "Using Mermaid in GitHub Pages"
+title: "Show Diagrams and Formulas in GitHub Pages"
 date: 2024-04-16 15:43:45 +0800
 category: Tech-Note/Personal-Website
-tags: Jekyll GitHub-Pages Mermaid Front-Matter Minimal-Mistakes Liquid
+tags: Jekyll GitHub-Pages Mermaid Front-Matter Minimal-Mistakes Liquid MathJax
 header:
   teaser: http://mermaid.js.org/mermaid-logo.svg
+mathjax: true
 mermaid: true
 ---
 
@@ -108,3 +109,58 @@ header:
 mermaid: true
 ---
 ```
+
+## Math Formula
+
+Markdown has many math formula extensions. Most of them support LaTeX-style markup for mathematical formulas. For example:
+
+```latex
+$$ S = \sum_{i=0}^{100} x_i \times y_i $$
+```
+
+But Jekyll itself does not support the rendering of mathematical formulas. We can load [MathJax](https://www.mathjax.org/) in a similar way to loading the Mermaid script to achieve mathematical formula rendering.
+
+First add the loading code and judgment conditions to the code template:
+
+{% raw %}
+
+```liquid
+{% if page.mathjax %}
+<!-- MathJax Support -->
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+{% endif %}
+```
+
+{% endraw %}
+
+Then, open math formula rendering in the Front Matter of posts that you want to write math formula in:
+
+```yaml
+---
+title: "Show Diagrams and Formulas in GitHub Pages"
+date: 2024-04-16 15:43:45 +0800
+category: Tech-Note/Personal-Website
+tags: Jekyll GitHub-Pages Mermaid Front-Matter Minimal-Mistakes Liquid MathJax
+header:
+  teaser: http://mermaid.js.org/mermaid-logo.svg
+mathjax: true
+mermaid: true
+---
+```
+
+Then write math between a pair of `$$`:
+
+```latex
+$$ S = \sum_{i=0}^{100} x_i \times y_i $$
+
+The value of $$x \times y$$.
+```
+
+If everything is ok, you will see:
+
+> $$ S = \sum_{i=0}^{100} x_i \times y_i $$
+>
+> The value of $$x \times y$$.
