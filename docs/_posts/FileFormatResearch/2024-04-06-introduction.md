@@ -123,6 +123,7 @@ I also add at least one tag describing the usage of each format. The number of s
 
 * 🆓📖 [DjVu](/fileformatresearch/2024/04/10/djvu): Document format or pixel image format for scanned documents.
 * 🆓📖 [Graphics Interchange Format](/fileformatresearch/2024/04/09/gif): Lossless animated pixel image format.
+* 🆓📕 [Microsoft Compiled HTML Help](/fileformatresearch/2024/04/17/chm): Compiled HTML documents.
 * 💰📕 [RAR](/fileformatresearch/2024/04/10/rar): Archive and compression format.
 * 🆓📖 [WOFF](/fileformatresearch/2024/04/14/woff): Vector font file for web.
 
