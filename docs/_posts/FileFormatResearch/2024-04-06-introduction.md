@@ -84,9 +84,9 @@ I also add at least one tag describing the usage of each format. The number of s
 
 #### Future
 
-* 🆓📖 [7Z](/fileformatresearch/2024/04/10/7z): Archive and compression format with more function and better compression ratio.
+
   
-#### Main Stream
+#### Base
 
 * 🆓📖 [Animated PNG](/fileformatresearch/2024/04/09/apng): Lossless animated pixel image format.
 * 🆓📖 [BibTeX](/fileformatresearch/2024/04/15/bib): A data format for recording citation sources.
@@ -94,20 +94,32 @@ I also add at least one tag describing the usage of each format. The number of s
 * 🆓📖 [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
 * 🆓📖 [ISO](/fileformatresearch/2024/04/11/iso): An optical disc file system image file format.
 * 🆓📖 [Markdown](/fileformatresearch/2024/04/10/markdown-format): A simple markup format used to write documents without complex style or structure.
-* 🆓📖 [PostScript-flavored OpenType](/fileformatresearch/2024/04/14/opentype): Vector font file format.
-* 🆓📖 [PostScript-flavored OpenType Collection](/fileformatresearch/2024/04/14/opentype-collection): Vector font collection file format.
 * 🆓📖 [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
 * 🆓📖 [Portable Document Format](/fileformatresearch/2024/04/09/png): Mainly used as document format for both scanned and rendered, sometimes used as vector image format.
 * 🆓📖 [Portable Network Graphics](/fileformatresearch/2024/04/09/pdf): Lossless pixel image format.
 * 🆓📖 [JPEG Format](/fileformatresearch/2024/04/09/jpeg): Lossy pixel image format.
 * 🆓📖 [Scalable Vector Graphics](/fileformatresearch/2024/04/09/svg): Vector image format.
 * 🆓📖 [TeX](/fileformatresearch/2024/04/15/tex): Markup language format for TeX typesetting system.
+
+
+#### Fonts
+
+* 🆓📖 [PostScript-flavored OpenType](/fileformatresearch/2024/04/14/opentype): Vector font file format.
+* 🆓📖 [PostScript-flavored OpenType Collection](/fileformatresearch/2024/04/14/opentype-collection): Vector font collection file format.
 * 🆓📖 [WOFF2](/fileformatresearch/2024/04/14/woff2): Vector font file for web.
+
+#### Archive and Compression
+
+* 🆓📖 [7Z](/fileformatresearch/2024/04/10/7z): Archive and compression format with more function and better compression ratio.
 * 🆓📖 [ZIP](/fileformatresearch/2024/04/10/zip): Archive and compression format, also as the basis for many other file formats.
 
 ### Domain Specific Read and Write
 
 #### Unix-like System Archive and Compression
+
+On Unix-like systems, archiving and compression are treated as two operations. Tar is responsible for archiving, and other softwares is responsible for compressing. This is a relatively complex process to use.
+
+One advantage of these software is that Tar can save file permission information on file systems of Unix-like systems. But I personally think it's better to include a shell script with the archive to set the file permissions. This eliminates the need to use a tar archive.
 
 * 🆓📖 [Bzip2](/fileformatresearch/2024/04/10/bzip2): Single file compression format.
 * 🆓📖 [Gzip](/fileformatresearch/2024/04/10/gzip): Single file compression format.
@@ -115,6 +127,8 @@ I also add at least one tag describing the usage of each format. The number of s
 * 🆓📖 [XZ](/fileformatresearch/2024/04/10/xz): Single file compression format.
 
 #### TrueType Compatible System Font
+
+These are mainly used for systems that don't have good support for `.otf`. Such systems should be gradually reduced in the future. At that time, TrueType-flavored fonts will also use the `.otf` suffix.
 
 * 🆓📖 [TrueType-flavored OpenType](/fileformatresearch/2024/04/14/truetype): Vector font file format.
 * 🆓📖 [TrueType-flavored OpenType Collection](/fileformatresearch/2024/04/14/truetype-collection): Vector font collection file format.
