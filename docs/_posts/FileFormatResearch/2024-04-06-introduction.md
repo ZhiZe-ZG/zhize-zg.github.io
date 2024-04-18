@@ -149,8 +149,6 @@ Read only:
 
 #### Video Containers
 
-### Other Domain Specific
-
 ### System Compatible
 
 #### Unix-like System Archive and Compression
