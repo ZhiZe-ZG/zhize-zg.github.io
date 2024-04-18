@@ -116,6 +116,10 @@ Read only:
 
 * 🆓📖 [WOFF](/fileformatresearch/2024/04/14/woff): Vector font file for web.
 
+#### Markup Document
+
+* 🆓📖 [Markdown](/fileformatresearch/2024/04/10/markdown-format): A simple markup format used to write documents without complex style or structure.
+
 #### Plain Text Data
 
 * 🆓📖 [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
@@ -123,7 +127,6 @@ Read only:
 
 #### Typesetting
 
-* 🆓📖 [Markdown](/fileformatresearch/2024/04/10/markdown-format): A simple markup format used to write documents without complex style or structure.
 * 🆓📖 [TeX](/fileformatresearch/2024/04/15/tex): Markup language format for TeX typesetting system.
 
 #### Vector Image
