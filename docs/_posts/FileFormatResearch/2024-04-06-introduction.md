@@ -80,40 +80,75 @@ I also add at least one tag describing the usage of each format. The number of s
 
 ## Recommendations
 
-### Common Read and Write
+### Common Use
 
-#### Future
+#### Archive and Compression
 
-
-  
-#### Base
-
-* 🆓📖 [Animated PNG](/fileformatresearch/2024/04/09/apng): Lossless animated pixel image format.
-* 🆓📖 [BibTeX](/fileformatresearch/2024/04/15/bib): A data format for recording citation sources.
-* 🆓📖 [EPUB](/fileformatresearch/2024/04/10/epub): E-book format based on web related technologies.
-* 🆓📖 [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
+* 🆓📖 [7Z](/fileformatresearch/2024/04/10/7z): General archive and compression format with more function and better compression ratio than ZIP. But not many file formats use 7Z as the base format.
 * 🆓📖 [ISO](/fileformatresearch/2024/04/11/iso): An optical disc file system image file format.
-* 🆓📖 [Markdown](/fileformatresearch/2024/04/10/markdown-format): A simple markup format used to write documents without complex style or structure.
-* 🆓📖 [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
+* 🆓📖 [ZIP](/fileformatresearch/2024/04/10/zip): General archive and compression format, also as the basis for many other file formats.
+
+Read only:
+
+* 💰📕 [RAR](/fileformatresearch/2024/04/10/rar): Archive and compression format.
+
+#### Bibliography Data
+
+* 🆓📖 [BibTeX](/fileformatresearch/2024/04/15/bib): A data format for recording citation sources.
+
+#### Document Release
+
+* 🆓📖 [EPUB](/fileformatresearch/2024/04/10/epub): E-book format based on web related technologies.
 * 🆓📖 [Portable Document Format](/fileformatresearch/2024/04/09/png): Mainly used as document format for both scanned and rendered, sometimes used as vector image format.
-* 🆓📖 [Portable Network Graphics](/fileformatresearch/2024/04/09/pdf): Lossless pixel image format.
-* 🆓📖 [JPEG Format](/fileformatresearch/2024/04/09/jpeg): Lossy pixel image format.
-* 🆓📖 [Scalable Vector Graphics](/fileformatresearch/2024/04/09/svg): Vector image format.
-* 🆓📖 [TeX](/fileformatresearch/2024/04/15/tex): Markup language format for TeX typesetting system.
 
+Read only:
 
-#### Fonts
+* 🆓📖 [DjVu](/fileformatresearch/2024/04/10/djvu): Document format or pixel image format for scanned documents.
+* 🆓📕 [Microsoft Compiled HTML Help](/fileformatresearch/2024/04/17/chm): Compiled HTML documents.
+
+#### Font
 
 * 🆓📖 [PostScript-flavored OpenType](/fileformatresearch/2024/04/14/opentype): Vector font file format.
 * 🆓📖 [PostScript-flavored OpenType Collection](/fileformatresearch/2024/04/14/opentype-collection): Vector font collection file format.
 * 🆓📖 [WOFF2](/fileformatresearch/2024/04/14/woff2): Vector font file for web.
 
-#### Archive and Compression
+Read only:
 
-* 🆓📖 [7Z](/fileformatresearch/2024/04/10/7z): Archive and compression format with more function and better compression ratio.
-* 🆓📖 [ZIP](/fileformatresearch/2024/04/10/zip): Archive and compression format, also as the basis for many other file formats.
+* 🆓📖 [WOFF](/fileformatresearch/2024/04/14/woff): Vector font file for web.
 
-### Domain Specific Read and Write
+#### Plain Text Data
+
+* 🆓📖 [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
+* 🆓📖 [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
+
+#### Typesetting
+
+* 🆓📖 [Markdown](/fileformatresearch/2024/04/10/markdown-format): A simple markup format used to write documents without complex style or structure.
+* 🆓📖 [TeX](/fileformatresearch/2024/04/15/tex): Markup language format for TeX typesetting system.
+
+#### Vector Image
+
+* 🆓📖 [Scalable Vector Graphics](/fileformatresearch/2024/04/09/svg): Vector image format.
+
+### Human Perceptual Media
+
+#### Audio Sampling
+
+#### Pixel Image
+
+* 🆓📖 [Animated PNG](/fileformatresearch/2024/04/09/apng): Lossless animated pixel image format.
+* 🆓📖 [Portable Network Graphics](/fileformatresearch/2024/04/09/pdf): Lossless pixel image format.
+* 🆓📖 [JPEG Format](/fileformatresearch/2024/04/09/jpeg): Lossy pixel image format.
+
+Read only:
+
+* 🆓📖 [Graphics Interchange Format](/fileformatresearch/2024/04/09/gif): Lossless animated pixel image format.
+
+#### Video Containers
+
+### Other Domain Specific
+
+### System Compatible
 
 #### Unix-like System Archive and Compression
 
@@ -132,14 +167,6 @@ These are mainly used for systems that don't have good support for `.otf`. Such 
 
 * 🆓📖 [TrueType-flavored OpenType](/fileformatresearch/2024/04/14/truetype): Vector font file format.
 * 🆓📖 [TrueType-flavored OpenType Collection](/fileformatresearch/2024/04/14/truetype-collection): Vector font collection file format.
-
-### Only Read
-
-* 🆓📖 [DjVu](/fileformatresearch/2024/04/10/djvu): Document format or pixel image format for scanned documents.
-* 🆓📖 [Graphics Interchange Format](/fileformatresearch/2024/04/09/gif): Lossless animated pixel image format.
-* 🆓📕 [Microsoft Compiled HTML Help](/fileformatresearch/2024/04/17/chm): Compiled HTML documents.
-* 💰📕 [RAR](/fileformatresearch/2024/04/10/rar): Archive and compression format.
-* 🆓📖 [WOFF](/fileformatresearch/2024/04/14/woff): Vector font file for web.
 
 ## Trend
 
