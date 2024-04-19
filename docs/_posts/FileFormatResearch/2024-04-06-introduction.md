@@ -154,9 +154,11 @@ I also add at least one tag describing the usage of each format. The number of s
 
 ##### Rust
 
-#### Software Runtime Environment
+#### PowerShell Runtime Environment
 
-##### Python
+* `.ps1` [PowerShell](/fileformatresearch/2024/04/19/pwsh-format): PowerShell script file.
+
+#### Python Runtime Environment
 
 * `.py` [Python](/fileformatresearch/2024/04/19/python-source): A general programming language.
 
@@ -164,7 +166,6 @@ I also add at least one tag describing the usage of each format. The number of s
 
 ##### .NET
 
-##### PowerShell
 
 ##### Ruby
 
