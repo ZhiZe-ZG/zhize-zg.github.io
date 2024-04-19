@@ -92,26 +92,12 @@ Read only:
 
 * 💰📕 [RAR](/fileformatresearch/2024/04/10/rar): Archive and compression format.
 
-#### Font
-
-* 🆓📖 [PostScript-flavored OpenType](/fileformatresearch/2024/04/14/opentype): Vector font file format. Mainly used for GUI operating systems.
-* 🆓📖 [PostScript-flavored OpenType Collection](/fileformatresearch/2024/04/14/opentype-collection): Vector font collection file format. Mainly used for GUI operating systems.
-* 🆓📖 [WOFF2](/fileformatresearch/2024/04/14/woff2): Vector font file for web.
-
-Read only:
-
-* 🆓📖 [WOFF](/fileformatresearch/2024/04/14/woff): Vector font file for web.
-
 #### Plain Text Data
 
 * 🆓📖 [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
 * 🆓📖 [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
 
-#### Vector Image
-
-* 🆓📖 [Scalable Vector Graphics](/fileformatresearch/2024/04/09/svg): Vector image format.
-
-### Human Perceptual Media
+### Human Perceptual Media and Related
 
 #### Audio Sampling
 
@@ -124,6 +110,8 @@ Read only:
 Read only:
 
 * 🆓📖 [Graphics Interchange Format](/fileformatresearch/2024/04/09/gif): Lossless animated pixel image format.
+
+#### Timed Text
 
 #### Video Containers
 
@@ -143,8 +131,6 @@ Read only:
 * 🆓📖 [DjVu](/fileformatresearch/2024/04/10/djvu): Document format or pixel image format for scanned documents.
 * 🆓📕 [Microsoft Compiled HTML Help](/fileformatresearch/2024/04/17/chm): Compiled HTML documents.
 
-#### Editable Integrated Document
-
 #### Style Sheet
 
 * 🆓📖 [Cascading Style Sheets](/fileformatresearch/2024/04/19/css): A markup language used to describe the styles of HTML elements.
@@ -154,11 +140,59 @@ Read only:
 
 * 🆓📖 [Sass](/fileformatresearch/2024/04/19/sass): A markup language that generates CSS.It uses indentation to indicate code levels.
 
-#### Typesetting Markup
+#### Typesetting Description
 
 * 🆓📖 [HyperText Markup Language](/fileformatresearch/2024/04/19/html): Markup language for Web typesetting.
 * 🆓📖 [Markdown](/fileformatresearch/2024/04/10/markdown-format): A simple markup format used to write documents without complex style or structure.
 * 🆓📖 [TeX](/fileformatresearch/2024/04/15/tex): Markup language format for TeX typesetting system.
+
+### Vector Graphics
+
+#### Font
+
+* 🆓📖 [PostScript-flavored OpenType](/fileformatresearch/2024/04/14/opentype): Vector font file format. Mainly used for GUI operating systems.
+* 🆓📖 [PostScript-flavored OpenType Collection](/fileformatresearch/2024/04/14/opentype-collection): Vector font collection file format. Mainly used for GUI operating systems.
+* 🆓📖 [WOFF2](/fileformatresearch/2024/04/14/woff2): Vector font file for web.
+
+Read only:
+
+* 🆓📖 [WOFF](/fileformatresearch/2024/04/14/woff): Vector font file for web.
+
+#### Vector Image
+
+* 🆓📖 [Scalable Vector Graphics](/fileformatresearch/2024/04/09/svg): Vector image format.
+
+### Programming
+
+#### Hardware Level
+
+#### System Level
+
+##### C
+
+##### C++
+
+##### Rust
+
+#### Software Runtime Environment
+
+##### Python
+
+* [Python](/fileformatresearch/2024/04/19/python): A general programming language.
+
+##### Haskell
+
+##### .NET
+
+##### PowerShell
+
+##### Ruby
+
+##### JavaScript
+
+##### Java
+
+##### Unix-like Shell
 
 ### System Compatible
 
