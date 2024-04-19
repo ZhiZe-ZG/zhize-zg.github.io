@@ -80,9 +80,9 @@ I also add at least one tag describing the usage of each format. The number of s
 
 ## Recommendations File Format
 
-### Common Use
+### Common Use and Uncategorized
 
-#### Archive and Compression
+#### Archive
 
 * 🆓📖 `.7z` [7Z](/fileformatresearch/2024/04/10/7z): General archive and compression format with more function and better compression ratio than ZIP. But not many file formats use 7Z as the base format.
 * 🆓📖 `.iso` [ISO](/fileformatresearch/2024/04/11/iso): An optical disc file system image file format.
@@ -90,8 +90,9 @@ I also add at least one tag describing the usage of each format. The number of s
 
 #### Plain Text Data
 
-* 🆓📖 `.xml` [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
 * 🆓📖 `.txt` [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
+* 🆓📖 `.xml` [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
+* 🆓📖 `.yml` [YAML](/fileformatresearch/2024/04/19/yaml): An easy-to-read data file format.
 
 ### Human Perceptual Media and Related
 
@@ -100,8 +101,8 @@ I also add at least one tag describing the usage of each format. The number of s
 #### Pixel Image
 
 * 🆓📖 `.apng` [Animated PNG](/fileformatresearch/2024/04/09/apng): Lossless animated pixel image format.
-* 🆓📖 `.png` [Portable Network Graphics](/fileformatresearch/2024/04/09/pdf): Lossless pixel image format.
 * 🆓📖 `.jpg` [JPEG Format](/fileformatresearch/2024/04/09/jpeg): Lossy pixel image format.
+* 🆓📖 `.png` [Portable Network Graphics](/fileformatresearch/2024/04/09/pdf): Lossless pixel image format.
 
 #### Timed Text
 
@@ -133,8 +134,8 @@ I also add at least one tag describing the usage of each format. The number of s
 
 #### Font
 
-* 🆓📖 `.otf` [PostScript-flavored OpenType](/fileformatresearch/2024/04/14/opentype): Vector font file format. Mainly used for GUI operating systems.
 * 🆓📖 `.otc` [PostScript-flavored OpenType Collection](/fileformatresearch/2024/04/14/opentype-collection): Vector font collection file format. Mainly used for GUI operating systems.
+* 🆓📖 `.otf` [PostScript-flavored OpenType](/fileformatresearch/2024/04/14/opentype): Vector font file format. Mainly used for GUI operating systems.
 * 🆓📖 `.woff2` [WOFF2](/fileformatresearch/2024/04/14/woff2): Vector font file for web.
 
 #### Vector Image
@@ -171,8 +172,6 @@ I also add at least one tag describing the usage of each format. The number of s
 
 ##### Java
 
-##### Unix-like Shell
-
 ## System Compatible File Format
 
 ### Unix-like System Archive and Compression
@@ -186,12 +185,14 @@ One advantage of these software is that Tar can save file permission information
 * 🆓📖 `.tar` [Tar](/fileformatresearch/2024/04/10/tar): Archive file format.
 * 🆓📖 `.xz` [XZ](/fileformatresearch/2024/04/10/xz): Single file compression format.
 
+### Unix-like System Shell Script
+
 ### TrueType Compatible System Font
 
 These are mainly used for systems that don't have good support for `.otf`. Such systems should be gradually reduced in the future. At that time, TrueType-flavored fonts will also use the `.otf` suffix.
 
-* 🆓📖 `.ttf` [TrueType-flavored OpenType](/fileformatresearch/2024/04/14/truetype): Vector font file format.
 * 🆓📖 `.ttc` [TrueType-flavored OpenType Collection](/fileformatresearch/2024/04/14/truetype-collection): Vector font collection file format.
+* 🆓📖 `.ttf` [TrueType-flavored OpenType](/fileformatresearch/2024/04/14/truetype): Vector font file format.
 
 ## Read Only File Format
 
@@ -201,8 +202,8 @@ These are mainly used for systems that don't have good support for `.otf`. Such 
 
 ### Not Recommended Document File Format
 
-* 🆓📖 `.djvu` [DjVu](/fileformatresearch/2024/04/10/djvu): Document format or pixel image format for scanned documents.
 * 🆓📕 `.chm` [Microsoft Compiled HTML Help](/fileformatresearch/2024/04/17/chm): Compiled HTML documents.
+* 🆓📖 `.djvu` [DjVu](/fileformatresearch/2024/04/10/djvu): Document format or pixel image format for scanned documents.
 
 ### Not Recommended Font File Format
 

@@ -2,7 +2,7 @@
 title: "Python (File Format)"
 date: 2024-04-19 14:45:38 +0800
 category: FileFormatResearch
-tags: General-Programming-Language Python
+tags: Text-File General-Programming-Language Python
 header:
   teaser: https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg
 ---
