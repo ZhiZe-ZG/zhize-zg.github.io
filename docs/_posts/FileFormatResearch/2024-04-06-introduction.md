@@ -92,20 +92,6 @@ Read only:
 
 * 💰📕 [RAR](/fileformatresearch/2024/04/10/rar): Archive and compression format.
 
-#### Bibliography Data
-
-* 🆓📖 [BibTeX](/fileformatresearch/2024/04/15/bib): A data format for recording citation sources.
-
-#### Document Release
-
-* 🆓📖 [EPUB](/fileformatresearch/2024/04/10/epub): E-book format based on web related technologies.
-* 🆓📖 [Portable Document Format](/fileformatresearch/2024/04/09/png): Mainly used as document format for both scanned and rendered, sometimes used as vector image format.
-
-Read only:
-
-* 🆓📖 [DjVu](/fileformatresearch/2024/04/10/djvu): Document format or pixel image format for scanned documents.
-* 🆓📕 [Microsoft Compiled HTML Help](/fileformatresearch/2024/04/17/chm): Compiled HTML documents.
-
 #### Font
 
 * 🆓📖 [PostScript-flavored OpenType](/fileformatresearch/2024/04/14/opentype): Vector font file format. Mainly used for GUI operating systems.
@@ -116,18 +102,10 @@ Read only:
 
 * 🆓📖 [WOFF](/fileformatresearch/2024/04/14/woff): Vector font file for web.
 
-#### Markup Document
-
-* 🆓📖 [Markdown](/fileformatresearch/2024/04/10/markdown-format): A simple markup format used to write documents without complex style or structure.
-
 #### Plain Text Data
 
 * 🆓📖 [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
 * 🆓📖 [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
-
-#### Typesetting
-
-* 🆓📖 [TeX](/fileformatresearch/2024/04/15/tex): Markup language format for TeX typesetting system.
 
 #### Vector Image
 
@@ -148,6 +126,39 @@ Read only:
 * 🆓📖 [Graphics Interchange Format](/fileformatresearch/2024/04/09/gif): Lossless animated pixel image format.
 
 #### Video Containers
+
+### Document
+
+#### Bibliography Data
+
+* 🆓📖 [BibTeX](/fileformatresearch/2024/04/15/bib): A data format for recording citation sources.
+
+#### Document Release
+
+* 🆓📖 [EPUB](/fileformatresearch/2024/04/10/epub): E-book format based on web related technologies.
+* 🆓📖 [Portable Document Format](/fileformatresearch/2024/04/09/png): Mainly used as document format for both scanned and rendered, sometimes used as vector image format.
+
+Read only:
+
+* 🆓📖 [DjVu](/fileformatresearch/2024/04/10/djvu): Document format or pixel image format for scanned documents.
+* 🆓📕 [Microsoft Compiled HTML Help](/fileformatresearch/2024/04/17/chm): Compiled HTML documents.
+
+#### Editable Integrated Document
+
+#### Style Sheet
+
+* 🆓📖 [Cascading Style Sheets](/fileformatresearch/2024/04/19/css): A markup language used to describe the styles of HTML elements.
+* 🆓📖 [SCSS](/fileformatresearch/2024/04/19/scss): A markup language that generates CSS. It's like an extension to SCSS.
+
+Read only:
+
+* 🆓📖 [Sass](/fileformatresearch/2024/04/19/sass): A markup language that generates CSS.It uses indentation to indicate code levels.
+
+#### Typesetting Markup
+
+* 🆓📖 [HyperText Markup Language](/fileformatresearch/2024/04/19/html): Markup language for Web typesetting.
+* 🆓📖 [Markdown](/fileformatresearch/2024/04/10/markdown-format): A simple markup format used to write documents without complex style or structure.
+* 🆓📖 [TeX](/fileformatresearch/2024/04/15/tex): Markup language format for TeX typesetting system.
 
 ### System Compatible
 
