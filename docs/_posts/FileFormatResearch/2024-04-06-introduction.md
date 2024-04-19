@@ -142,17 +142,17 @@ I also add at least one tag describing the usage of each format. The number of s
 
 * 🆓📖 `.svg` [Scalable Vector Graphics](/fileformatresearch/2024/04/09/svg): Vector image format.
 
-### Programming
+### Programming in Hardware Environment
 
-#### Hardware Level
+### Programming in System Environment
 
-#### System Level
+#### C
 
-##### C
+#### C++
 
-##### C++
+#### Rust
 
-##### Rust
+### Programming in Runtime Environment
 
 #### PowerShell Runtime Environment
 
@@ -162,16 +162,15 @@ I also add at least one tag describing the usage of each format. The number of s
 
 * `.py` [Python](/fileformatresearch/2024/04/19/python-source): A general programming language.
 
-##### Haskell
+#### Haskell
 
-##### .NET
+#### .NET
 
+#### Ruby
 
-##### Ruby
+#### JavaScript
 
-##### JavaScript
-
-##### Java
+#### Java
 
 ## System Compatible File Format
 
