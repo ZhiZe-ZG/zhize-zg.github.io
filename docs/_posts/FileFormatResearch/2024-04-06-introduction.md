@@ -187,6 +187,11 @@ One advantage of these software is that Tar can save file permission information
 
 ### Unix-like System Shell Script
 
+A type of shell script mainly used on Unix systems. Overall the syntax is archaic and strange. Sometimes adding an extra space before or after an operator can cause errors.
+
+* 🆓📖 `.sh` [Bourne Shell](/fileformatresearch/2024/04/19/sh-format): Universal system management script for Unix.
+* 🆓📖 `.bashrc` [Bash Config](/fileformatresearch/2024/04/19/bash-config): Script for setting up Bash.
+
 ### TrueType Compatible System Font
 
 These are mainly used for systems that don't have good support for `.otf`. Such systems should be gradually reduced in the future. At that time, TrueType-flavored fonts will also use the `.otf` suffix.
