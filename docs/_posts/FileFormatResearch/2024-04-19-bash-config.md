@@ -11,7 +11,7 @@ header:
 
 Parent Format: Plain Text File
 
-MIME Name: text/bash-config
+MIME Name: text/bash-config (non-standard)
 
 Suffix： `.bashrc`
 
