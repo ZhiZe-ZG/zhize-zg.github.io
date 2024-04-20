@@ -105,6 +105,7 @@ Currently this category mainly includes package managers and GUI environments.
   * 🆓📖 [Material Icon Theme](/softwareresearch/visualstudiocode/2024/04/12/material-icon): File icon theme.
   * 🆓📖 [Material Product Icons](/softwareresearch/visualstudiocode/2024/04/12/material-product): UI icon theme.
   * 🆓📖 [One Dark Darker](/softwareresearch/visualstudiocode/2024/04/12/one-dark-darker): A color theme.
+  * 🆓📖 [PowerShell](/softwareresearch/visualstudiocode/2024/04/20/powershell-vscode): PowerShell language support for VS Code.
 
 ### Alternative Applications
 
