@@ -157,6 +157,8 @@ I also add at least one tag describing the usage of each format. The number of s
 #### PowerShell Runtime Environment
 
 * `.ps1` [PowerShell](/fileformatresearch/2024/04/19/pwsh-format): PowerShell script file.
+* `.psm1` [PowerShell Module](/fileformatresearch/2024/04/20/pwsh-module): PowerShell module file.
+* `.psd1` [PowerShell Manifest](/fileformatresearch/2024/04/20/pwsh-manifest): Manifest for generate PowerShell Module.
 
 #### Python Runtime Environment
 
