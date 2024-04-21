@@ -73,6 +73,7 @@ In addition, I will add at least one tag describing the functional positioning o
 Currently this category mainly includes package managers and GUI environments.
 
 * 🆓📖-🪟🍎🐧 [Conda](/softwareresearch/2024/04/21/conda): Development environment manager.
+  * 🆓📖 [Conda-Pack](/softwareresearch/conda/2024/04/21/conda-pack): Archive Conda environment.
 * 🆓📖-🪟 [WinGet](/softwareresearch/2024/03/27/winget): Windows application softwares manager.
 
 ### Mainstream Applications
