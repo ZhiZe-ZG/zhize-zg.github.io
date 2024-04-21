@@ -119,6 +119,10 @@ Main used stand alone softwares.
 * 🆓📖 [One Dark Darker](/softwareresearch/visualstudiocode/2024/04/12/one-dark-darker): A color theme.
 * 🆓📖 [PowerShell](/softwareresearch/visualstudiocode/2024/04/20/powershell-vscode): PowerShell language support for VS Code.
 * 🆓📖 [PowerShell Language Basics](/softwareresearch/visualstudiocode/2024/04/21/powershell-basic): Basic PowerShell language support.
+* 🆓📖 [Pylance](/softwareresearch/visualstudiocode/2024/04/21/pylance): Python Intellisense serve.
+* 🆓📖 [Python](/softwareresearch/visualstudiocode/2024/04/21/python-vscode): Python language support.
+* 🆓📖 [Python Debugger](/softwareresearch/visualstudiocode/2024/04/21/python-debugger): Python debuging tool.
+* 🆓📖 [Python Language Basics](/softwareresearch/visualstudiocode/2024/04/21/python-basic): This plugin offer basic support for Python Language.
 
 ### Alternative Applications
 
