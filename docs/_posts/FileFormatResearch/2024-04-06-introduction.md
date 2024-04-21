@@ -90,6 +90,8 @@ I also add at least one tag describing the usage of each format. The number of s
 
 #### Plain Text Data
 
+* 🆓📖 `.csv` [Comma-Separated values](/fileformatresearch/2024/04/21/csv): A simple markup language for representing tabular data.
+* 🆓📖 `.json` [JavaScript Object Notation](/fileformatresearch/2024/04/21/json): A lightweight data markup language.
 * 🆓📖 `.txt` [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
 * 🆓📖 `.xml` [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
 * 🆓📖 `.yml` [YAML](/fileformatresearch/2024/04/19/yaml): An easy-to-read data file format.
