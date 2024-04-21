@@ -88,9 +88,8 @@ I also add at least one tag describing the usage of each format. The number of s
 * 🆓📖 `.iso` [ISO](/fileformatresearch/2024/04/11/iso): An optical disc file system image file format.
 * 🆓📖 `.zip` [ZIP](/fileformatresearch/2024/04/10/zip): General archive and compression format, also as the basis for many other file formats.
 
-#### Plain Text Data
+#### Universal Plain Text Data
 
-* 🆓📖 `.csv` [Comma-Separated values](/fileformatresearch/2024/04/21/csv): A simple markup language for representing tabular data.
 * 🆓📖 `.json` [JavaScript Object Notation](/fileformatresearch/2024/04/21/json): A lightweight data markup language.
 * 🆓📖 `.toml` [Tom's Obvious Minimal Language](/fileformatresearch/2024/04/21/toml): A simple config file format.
 * 🆓📖 `.txt` [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
@@ -178,6 +177,15 @@ I also add at least one tag describing the usage of each format. The number of s
 #### Java
 
 ## System Compatible File Format
+
+### Delimiter-separated Values
+
+These formats primarily use delimiter separation to represent tabular data. The readability of this type of data source code is very poor when there is a lot of data.
+
+If you do not use a plain text editor to directly edit the table content, but use software to operate it, you do not necessarily need to use this type of format. Delimiter-seperated values are not as good as binary files in terms of compression rate, and are not as good as XML, JSON, etc. in terms of scalability and data type richness.
+
+* 🆓📖 `.csv` [Comma-Separated values](/fileformatresearch/2024/04/21/csv): A simple markup language for representing tabular data.
+* 🆓📖 `.tsv` [Tab-Separated Values](/fileformatresearch/2024/04/21/tsv): A simple markup language for representing tabular data. Use horizontal tabs as delimiters.
 
 ### Unix-like System Archive and Compression
 
