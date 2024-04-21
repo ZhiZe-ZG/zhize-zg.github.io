@@ -88,14 +88,11 @@ I also add at least one tag describing the usage of each format. The number of s
 * 🆓📖 `.iso` [ISO](/fileformatresearch/2024/04/11/iso): An optical disc file system image file format.
 * 🆓📖 `.zip` [ZIP](/fileformatresearch/2024/04/10/zip): General archive and compression format, also as the basis for many other file formats.
 
-#### Plain Text File
-
-* 🆓📖 `.txt` [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
-
-#### Universal Markup Data Files
+#### Plain Text and Universal Markup Data Files
 
 * 🆓📖 `.json` [JavaScript Object Notation](/fileformatresearch/2024/04/21/json): A lightweight data markup language.
 * 🆓📖 `.toml` [Tom's Obvious Minimal Language](/fileformatresearch/2024/04/21/toml): A simple config file format.
+* 🆓📖 `.txt` [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
 * 🆓📖 `.xml` [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
 * 🆓📖 `.yml` [YAML](/fileformatresearch/2024/04/19/yaml): An easy-to-read data file format.
 
