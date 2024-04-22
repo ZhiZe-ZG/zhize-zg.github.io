@@ -99,6 +99,7 @@ Main used stand alone softwares.
 
 ##### Visual Studio Code Plugins
 
+* 🆓📖 [Black Formatter](/softwareresearch/visualstudiocode/2024/04/22/black-formatter): Python formatter, based on black.
 * 🆓📖 [Insert Date String](/softwareresearch/visualstudiocode/2024/04/11/insert-date-string): Insert format date string.
 * 🆓📖 [Git](/softwareresearch/visualstudiocode/2024/04/16/vscode-git): Git support. It provides the ability to manipulate Git in VS Code.
 * 🆓📖 [Git Base](/softwareresearch/visualstudiocode/2024/04/16/vscode-git-base): Base for git support.
