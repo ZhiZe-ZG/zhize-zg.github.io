@@ -2,7 +2,7 @@
 title: "Git (VS Code Plugin)"
 date: 2024-04-16 10:27:08 +0800
 category: SoftwareResearch/VisualStudioCode
-tags: Version-Control-System
+tags: Version-Control-System Git
 header:
   teaser: https://git-scm.com/images/branching-illustration@2x.png
 ---

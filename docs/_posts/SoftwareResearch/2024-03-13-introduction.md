@@ -103,6 +103,7 @@ Main used stand alone softwares.
 * 🆓📖 [Insert Date String](/softwareresearch/visualstudiocode/2024/04/11/insert-date-string): Insert format date string.
 * 🆓📖 [Git](/softwareresearch/visualstudiocode/2024/04/16/vscode-git): Git support. It provides the ability to manipulate Git in VS Code.
 * 🆓📖 [Git Base](/softwareresearch/visualstudiocode/2024/04/16/vscode-git-base): Base for git support.
+* 🆓📖 [Git Graph](/softwareresearch/visualstudiocode/2024/04/23/git-graph): Show Git branch relations.
 * 💰📕 [GitHub Copilot](/softwareresearch/visualstudiocode/2024/04/11/github-copilot): GitHub Copilot plugin.
 * 💰📕 [GitHub Copilot Chat](/softwareresearch/visualstudiocode/2024/04/11/github-copilot-chat): GitHub Copilot chat box plugin.
 * 🆓📖 [LaTeX Workshop](/softwareresearch/visualstudiocode/2024/04/08/latex-workshop): Front-end plugin for TeX-based typesetting softwares.
