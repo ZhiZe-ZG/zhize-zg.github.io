@@ -116,8 +116,9 @@ I also add at least one tag describing the usage of each format. The number of s
 
 * 🆓📖 `.bib` [BibTeX](/fileformatresearch/2024/04/15/bib): A data format for recording citation sources.
 
-#### Document Release
+#### Document Container
 
+* 🆓📖 `.docx` [Office Open XML Document](/fileformatresearch/2024/04/24/docx): Editable document container for Microsoft Office Word etc.
 * 🆓📖 `.epub` [EPUB](/fileformatresearch/2024/04/10/epub): E-book format based on web related technologies.
 * 🆓📖 `.pdf` [Portable Document Format](/fileformatresearch/2024/04/09/png): Mainly used as document format for both scanned and rendered, sometimes used as vector image format.
 
@@ -219,10 +220,11 @@ These are mainly used for systems that don't have good support for `.otf`. Such 
 
 * 💰📕 `.rar` [RAR](/fileformatresearch/2024/04/10/rar): Archive and compression format.
 
-### Not Recommended Document File Format
+### Not Recommended Document Container File Format
 
 * 🆓📕 `.chm` [Microsoft Compiled HTML Help](/fileformatresearch/2024/04/17/chm): Compiled HTML documents.
 * 🆓📖 `.djvu` [DjVu](/fileformatresearch/2024/04/10/djvu): Document format or pixel image format for scanned documents.
+* 💰📖 `.doc` [Word Document](/fileformatresearch/2024/04/24/doc): Editable document file format.
 
 ### Not Recommended Font File Format
 
