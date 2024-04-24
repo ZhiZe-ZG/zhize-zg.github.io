@@ -225,6 +225,7 @@ These are mainly used for systems that don't have good support for `.otf`. Such 
 * 🆓📕 `.chm` [Microsoft Compiled HTML Help](/fileformatresearch/2024/04/17/chm): Compiled HTML documents.
 * 🆓📖 `.djvu` [DjVu](/fileformatresearch/2024/04/10/djvu): Document format or pixel image format for scanned documents.
 * 💰📖 `.doc` [Word Document](/fileformatresearch/2024/04/24/doc): Editable document file format.
+* 🆓📖 `.odt` [OpenDocument Text](/fileformatresearch/2024/04/24/odt): An editable document file container format.
 
 ### Not Recommended Font File Format
 
@@ -234,8 +235,9 @@ These are mainly used for systems that don't have good support for `.otf`. Such 
 
 * 🆓📖 `.gif` [Graphics Interchange Format](/fileformatresearch/2024/04/09/gif): Lossless animated pixel image format.
 
-### Not Recommended Style Sheet
+### Not Recommended Typesetting File Format
 
+* 🆓📖 `.odf` [OpenDocument Formula](/fileformatresearch/2024/04/24/odf): A format to save math formula typesetting.
 * 🆓📖 `.sass` [Sass](/fileformatresearch/2024/04/19/sass): A markup language that generates CSS.It uses indentation to indicate code levels.
 
 ## Trend
