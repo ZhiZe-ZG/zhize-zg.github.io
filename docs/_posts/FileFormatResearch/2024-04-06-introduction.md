@@ -196,6 +196,14 @@ If you do not use a plain text editor to directly edit the table content, but us
 * 🆓📖 `.csv` [Comma-Separated values](/fileformatresearch/2024/04/21/csv): A simple markup language for representing tabular data.
 * 🆓📖 `.tsv` [Tab-Separated Values](/fileformatresearch/2024/04/21/tsv): A simple markup language for representing tabular data. Use horizontal tabs as delimiters.
 
+### OpenDocument File Formats
+
+These are open source office document formats. But its model is modeled after Microsoft Office. If you disregard the needs and patterns defined by Microsoft Office, there are many better alternatives available. But if you must imitate Microsoft Office and be completely open source, this is currently the best option.
+
+* 🆓📖 `.odf` [OpenDocument Formula](/fileformatresearch/2024/04/24/odf): A format to save math formula typesetting.
+* 🆓📖 `.odp` [OpenDocument Presentation](/fileformatresearch/2024/04/28/odp): An interactive graphic file format.
+* 🆓📖 `.odt` [OpenDocument Text](/fileformatresearch/2024/04/24/odt): An editable document file container format.
+
 ### Unix-like System Archive and Compression
 
 On Unix-like systems, archiving and compression are treated as two operations. Tar is responsible for archiving, and other softwares is responsible for compressing. This is a relatively complex process to use.
@@ -232,8 +240,6 @@ These are mainly used for systems that don't have good support for `.otf`. Such 
 
 * 🆓📕 `.chm` [Microsoft Compiled HTML Help](/fileformatresearch/2024/04/17/chm): Compiled HTML documents.
 * 🆓📖 `.djvu` [DjVu](/fileformatresearch/2024/04/10/djvu): Document format or pixel image format for scanned documents.
-* 🆓📖 `.odp` [OpenDocument Presentation](/fileformatresearch/2024/04/28/odp): An interactive graphic file format.
-* 🆓📖 `.odt` [OpenDocument Text](/fileformatresearch/2024/04/24/odt): An editable document file container format.
 
 ### Not Recommended Font File Format
 
@@ -245,7 +251,6 @@ These are mainly used for systems that don't have good support for `.otf`. Such 
 
 ### Not Recommended Typesetting File Format
 
-* 🆓📖 `.odf` [OpenDocument Formula](/fileformatresearch/2024/04/24/odf): A format to save math formula typesetting.
 * 🆓📖 `.sass` [Sass](/fileformatresearch/2024/04/19/sass): A markup language that generates CSS.It uses indentation to indicate code levels.
 
 ## Trend
