@@ -121,6 +121,7 @@ I also add at least one tag describing the usage of each format. The number of s
 * 🆓📖 `.docx` [Office Open XML Document](/fileformatresearch/2024/04/24/docx): Editable document container for Microsoft Office Word etc.
 * 🆓📖 `.epub` [EPUB](/fileformatresearch/2024/04/10/epub): E-book format based on web related technologies.
 * 🆓📖 `.pdf` [Portable Document Format](/fileformatresearch/2024/04/09/png): Mainly used as document format for both scanned and rendered, sometimes used as vector image format.
+* 🆓📖 `.pptx` [Office Open XML Presentation](/fileformatresearch/2024/04/28/pptx): An interactive graphic file format.
 
 #### Style Sheet
 
@@ -179,6 +180,13 @@ I also add at least one tag describing the usage of each format. The number of s
 
 ## System Compatible File Format
 
+### Binary File Formats for Old Version Microsoft Office
+
+These file formats have different purposes, but are all file formats from older versions of Microsoft Office.
+
+* 💰📖 `.doc` [Word Document](/fileformatresearch/2024/04/24/doc): Editable document file format.
+* 💰📖 `.ppt` [PowerPoint Binary File Format](/fileformatresearch/2024/04/28/ppt): An interactive graphic file.
+
 ### Delimiter-separated Values
 
 These formats primarily use delimiter separation to represent tabular data. The readability of this type of data source code is very poor when there is a lot of data.
@@ -224,7 +232,6 @@ These are mainly used for systems that don't have good support for `.otf`. Such 
 
 * 🆓📕 `.chm` [Microsoft Compiled HTML Help](/fileformatresearch/2024/04/17/chm): Compiled HTML documents.
 * 🆓📖 `.djvu` [DjVu](/fileformatresearch/2024/04/10/djvu): Document format or pixel image format for scanned documents.
-* 💰📖 `.doc` [Word Document](/fileformatresearch/2024/04/24/doc): Editable document file format.
 * 🆓📖 `.odt` [OpenDocument Text](/fileformatresearch/2024/04/24/odt): An editable document file container format.
 
 ### Not Recommended Font File Format
