@@ -122,6 +122,7 @@ I also add at least one tag describing the usage of each format. The number of s
 * 🆓📖 `.epub` [EPUB](/fileformatresearch/2024/04/10/epub): E-book format based on web related technologies.
 * 🆓📖 `.pdf` [Portable Document Format](/fileformatresearch/2024/04/09/png): Mainly used as document format for both scanned and rendered, sometimes used as vector image format.
 * 🆓📖 `.pptx` [Office Open XML Presentation](/fileformatresearch/2024/04/28/pptx): An interactive graphic file format.
+* 💰📕 `.vsdx` [Visio XML Format](/fileformatresearch/2024/04/28/vsdx): A diagram file format based on XML and ZIP.
 * 🆓📖 `.xlsx` [Office Open XML Workbook](/fileformatresearch/2024/04/28/xlsx): Spreadsheet file format, used for display tables or simple data tables, with some data processing functions.
 
 #### Style Sheet
@@ -187,6 +188,7 @@ These file formats have different purposes, but are all file formats from older 
 
 * 💰📖 `.doc` [Word Document](/fileformatresearch/2024/04/24/doc): Editable document file format.
 * 💰📖 `.ppt` [PowerPoint Binary File Format](/fileformatresearch/2024/04/28/ppt): An interactive graphic file.
+* 💰📕 `.vsd` [Visio Binary File Format](/fileformatresearch/2024/04/28/vsd): A diagram file format.
 * 💰📖 `.xls` [Excel Binary File Format](/fileformatresearch/2024/04/28/xls): A data sheet file format.
 
 ### Delimiter-separated Values
