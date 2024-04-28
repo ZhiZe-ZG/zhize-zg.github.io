@@ -135,6 +135,7 @@ Main used stand alone softwares.
 ### For Fun
 
 * 🆓📖-🪟🍎🐧😈 [GNU Emacs](/softwareresearch/2024/04/07/emacs): A complex system disguised as a text editor.
+* 💰📕-🪟 [Age of Empires II: Definitive Edition](/softwareresearch/2024/04/28/aoe2): A historical RTS game.
 
 ## Trend
 
