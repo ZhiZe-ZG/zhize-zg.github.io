@@ -186,10 +186,10 @@ I also add at least one tag describing the usage of each format. The number of s
 
 These file formats have different purposes, but are all file formats from older versions of Microsoft Office.
 
-* 💰📖 `.doc` [Word Document](/fileformatresearch/2024/04/24/doc): Editable document file format.
-* 💰📖 `.ppt` [PowerPoint Binary File Format](/fileformatresearch/2024/04/28/ppt): An interactive graphic file.
-* 💰📕 `.vsd` [Visio Binary File Format](/fileformatresearch/2024/04/28/vsd): A diagram file format.
-* 💰📖 `.xls` [Excel Binary File Format](/fileformatresearch/2024/04/28/xls): A data sheet file format.
+* 💰📖 `.doc` [Microsoft Office Word Binary File Format](/fileformatresearch/2024/04/24/doc): Editable document file format.
+* 💰📖 `.ppt` [Microsoft Office PowerPoint Binary File Format](/fileformatresearch/2024/04/28/ppt): An interactive graphic file.
+* 💰📕 `.vsd` [Microsoft Office Visio Binary File Format](/fileformatresearch/2024/04/28/vsd): A diagram file format.
+* 💰📖 `.xls` [Microsoft Office Excel Binary File Format](/fileformatresearch/2024/04/28/xls): A data sheet file format.
 
 ### Delimiter-separated Values
 
@@ -205,6 +205,7 @@ If you do not use a plain text editor to directly edit the table content, but us
 These are open source office document formats. But its model is modeled after Microsoft Office. If you disregard the needs and patterns defined by Microsoft Office, there are many better alternatives available. But if you must imitate Microsoft Office and be completely open source, this is currently the best option.
 
 * 🆓📖 `.odf` [OpenDocument Formula](/fileformatresearch/2024/04/24/odf): A format to save math formula typesetting.
+* 🆓📖 `.odg` [OpenDocument Graphics](/fileformatresearch/2024/04/28/odg): A vector image and diagram file format.
 * 🆓📖 `.odp` [OpenDocument Presentation](/fileformatresearch/2024/04/28/odp): An interactive graphic file format.
 * 🆓📖 `.ods` [OpenDocument Spreadsheet](/fileformatresearch/2024/04/28/ods): A spreadsheet file format.
 * 🆓📖 `.odt` [OpenDocument Text](/fileformatresearch/2024/04/24/odt): An editable document file container format.
