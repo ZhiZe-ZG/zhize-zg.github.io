@@ -82,32 +82,43 @@ I also add at least one tag describing the usage of each format. The number of s
 
 ### Common Use
 
-#### Archive and Compression Files
+#### Archive
 
-##### Optical Disc Archive Files
+##### Optical Disc Archive
 
 * 🆓📖 `.iso` [ISO](/fileformatresearch/2024/04/11/iso): An optical disc file system image file format.
 
-##### Universal File System Archive Files
+##### Universal File System Archive
 
 * 🆓📖 `.7z` [7Z](/fileformatresearch/2024/04/10/7z): General archive and compression format with more function and better compression ratio than ZIP. But not many file formats use 7Z as the base format.
-* 🆓📖 `.zip` [ZIP](/fileformatresearch/2024/04/10/zip): General archive and compression format, also as the basis for many other file formats.
 
 Read only:
 
 * 💰📕 `.rar` [RAR](/fileformatresearch/2024/04/10/rar): Archive and compression format.
+* 🆓📖 `.zip` [ZIP](/fileformatresearch/2024/04/10/zip): General archive and compression format, also as the basis for many other file formats.
 
-#### Text Files
+#### Plain Text
 
-##### Bibliography Data
-
-* 🆓📖 `.bib` [BibTeX](/fileformatresearch/2024/04/15/bib): A data format for recording citation sources.
-
-##### Plain Text Files
+Files without extensions will be treated as plain text files by default.
 
 * 🆓📖 `.txt` [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
 
-##### Style Sheet
+#### Universal Markup Data
+
+Although these file formats can theoretically replace each other, their different syntax designs cause them to have different adaptability to different scenarios. Generally, one or more of them are selected according to the needs or framework requirements. So there are multiple alternatives juxtaposed.
+
+* 🆓📖 `.json` [JavaScript Object Notation](/fileformatresearch/2024/04/21/json): A lightweight data markup language.
+* 🆓📖 `.toml` [Tom's Obvious Minimal Language](/fileformatresearch/2024/04/21/toml): A simple config file format.
+* 🆓📖 `.xml` [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
+* 🆓📖 `.yml` [YAML](/fileformatresearch/2024/04/19/yaml): An easy-to-read data file format.
+
+### Domian-specific
+
+#### Bibliography Data
+
+* 🆓📖 `.bib` [BibTeX](/fileformatresearch/2024/04/15/bib): A data format for recording citation sources.
+
+#### Web Page Style Sheet
 
 * 🆓📖 `.css` [Cascading Style Sheets](/fileformatresearch/2024/04/19/css): A markup language used to describe the styles of HTML elements.
 * 🆓📖 `.scss` [SCSS](/fileformatresearch/2024/04/19/scss): A markup language that generates CSS. It's like an extension to SCSS.
@@ -116,12 +127,9 @@ Read only:
 
 * 🆓📖 `.sass` [Sass](/fileformatresearch/2024/04/19/sass): A markup language that generates CSS.It uses indentation to indicate code levels.
 
-##### Universal Markup Data Files
+#### Web Page Typesetting
 
-* 🆓📖 `.json` [JavaScript Object Notation](/fileformatresearch/2024/04/21/json): A lightweight data markup language.
-* 🆓📖 `.toml` [Tom's Obvious Minimal Language](/fileformatresearch/2024/04/21/toml): A simple config file format.
-* 🆓📖 `.xml` [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
-* 🆓📖 `.yml` [YAML](/fileformatresearch/2024/04/19/yaml): An easy-to-read data file format.
+* 🆓📖 `.html` [HyperText Markup Language](/fileformatresearch/2024/04/19/html): Markup language for Web typesetting.
 
 ### Human Perceptual Media and Related
 
@@ -157,7 +165,6 @@ Read only:
 
 #### Typesetting Description
 
-* 🆓📖 `.html` [HyperText Markup Language](/fileformatresearch/2024/04/19/html): Markup language for Web typesetting.
 * 🆓📖 `.md` [Markdown](/fileformatresearch/2024/04/10/markdown-format): A simple markup format used to write documents without complex style or structure.
 * 🆓📖 `.tex` [TeX](/fileformatresearch/2024/04/15/tex): Markup language format for TeX typesetting system.
 
