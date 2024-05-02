@@ -80,19 +80,46 @@ I also add at least one tag describing the usage of each format. The number of s
 
 ## Recommendations File Format
 
-### Common Use and Uncategorized
+### Common Use
 
 #### Archive and Compression Files
 
-* 🆓📖 `.7z` [7Z](/fileformatresearch/2024/04/10/7z): General archive and compression format with more function and better compression ratio than ZIP. But not many file formats use 7Z as the base format.
+##### Optical Disc Archive Files
+
 * 🆓📖 `.iso` [ISO](/fileformatresearch/2024/04/11/iso): An optical disc file system image file format.
+
+##### Universal File System Archive Files
+
+* 🆓📖 `.7z` [7Z](/fileformatresearch/2024/04/10/7z): General archive and compression format with more function and better compression ratio than ZIP. But not many file formats use 7Z as the base format.
 * 🆓📖 `.zip` [ZIP](/fileformatresearch/2024/04/10/zip): General archive and compression format, also as the basis for many other file formats.
 
-#### Plain Text and Universal Markup Data Files
+Read only:
+
+* 💰📕 `.rar` [RAR](/fileformatresearch/2024/04/10/rar): Archive and compression format.
+
+#### Text Files
+
+##### Bibliography Data
+
+* 🆓📖 `.bib` [BibTeX](/fileformatresearch/2024/04/15/bib): A data format for recording citation sources.
+
+##### Plain Text Files
+
+* 🆓📖 `.txt` [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
+
+##### Style Sheet
+
+* 🆓📖 `.css` [Cascading Style Sheets](/fileformatresearch/2024/04/19/css): A markup language used to describe the styles of HTML elements.
+* 🆓📖 `.scss` [SCSS](/fileformatresearch/2024/04/19/scss): A markup language that generates CSS. It's like an extension to SCSS.
+
+Read only:
+
+* 🆓📖 `.sass` [Sass](/fileformatresearch/2024/04/19/sass): A markup language that generates CSS.It uses indentation to indicate code levels.
+
+##### Universal Markup Data Files
 
 * 🆓📖 `.json` [JavaScript Object Notation](/fileformatresearch/2024/04/21/json): A lightweight data markup language.
 * 🆓📖 `.toml` [Tom's Obvious Minimal Language](/fileformatresearch/2024/04/21/toml): A simple config file format.
-* 🆓📖 `.txt` [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
 * 🆓📖 `.xml` [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
 * 🆓📖 `.yml` [YAML](/fileformatresearch/2024/04/19/yaml): An easy-to-read data file format.
 
@@ -119,10 +146,6 @@ Read only:
 
 ### Document
 
-#### Bibliography Data
-
-* 🆓📖 `.bib` [BibTeX](/fileformatresearch/2024/04/15/bib): A data format for recording citation sources.
-
 #### Document Container
 
 * 🆓📖 `.docx` [Office Open XML Document](/fileformatresearch/2024/04/24/docx): Editable document container for Microsoft Office Word etc.
@@ -131,11 +154,6 @@ Read only:
 * 🆓📖 `.pptx` [Office Open XML Presentation](/fileformatresearch/2024/04/28/pptx): An interactive graphic file format.
 * 💰📕 `.vsdx` [Visio XML Format](/fileformatresearch/2024/04/28/vsdx): A diagram file format based on XML and ZIP.
 * 🆓📖 `.xlsx` [Office Open XML Workbook](/fileformatresearch/2024/04/28/xlsx): Spreadsheet file format, used for display tables or simple data tables, with some data processing functions.
-
-#### Style Sheet
-
-* 🆓📖 `.css` [Cascading Style Sheets](/fileformatresearch/2024/04/19/css): A markup language used to describe the styles of HTML elements.
-* 🆓📖 `.scss` [SCSS](/fileformatresearch/2024/04/19/scss): A markup language that generates CSS. It's like an extension to SCSS.
 
 #### Typesetting Description
 
@@ -154,6 +172,8 @@ Read only:
 #### Vector Image
 
 * 🆓📖 `.svg` [Scalable Vector Graphics](/fileformatresearch/2024/04/09/svg): Vector image format.
+
+## Domain Specific File Formats
 
 ### Programming in Hardware Environment
 
@@ -187,7 +207,9 @@ Read only:
 
 #### Java
 
-## System Compatible File Format
+### Typesetting Development
+
+## System Compatible File Formats
 
 ### Binary File Formats for Old Version Microsoft Office
 
@@ -245,10 +267,6 @@ These are mainly used for systems that don't have good support for `.otf`. Such 
 
 ## Read Only File Format
 
-### Not Recommended Archive File Format
-
-* 💰📕 `.rar` [RAR](/fileformatresearch/2024/04/10/rar): Archive and compression format.
-
 ### Not Recommended Document Container File Format
 
 * 🆓📕 `.chm` [Microsoft Compiled HTML Help](/fileformatresearch/2024/04/17/chm): Compiled HTML documents.
@@ -261,10 +279,6 @@ These are mainly used for systems that don't have good support for `.otf`. Such 
 ### Not Recommended Image File Format
 
 * 🆓📖 `.gif` [Graphics Interchange Format](/fileformatresearch/2024/04/09/gif): Lossless animated pixel image format.
-
-### Not Recommended Typesetting File Format
-
-* 🆓📖 `.sass` [Sass](/fileformatresearch/2024/04/19/sass): A markup language that generates CSS.It uses indentation to indicate code levels.
 
 ## Trend
 
