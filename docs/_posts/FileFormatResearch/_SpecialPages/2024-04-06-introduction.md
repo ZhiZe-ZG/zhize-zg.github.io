@@ -222,7 +222,6 @@ Read only:
 
 #### Haskell
 
-
 #### Ruby
 
 #### JavaScript
