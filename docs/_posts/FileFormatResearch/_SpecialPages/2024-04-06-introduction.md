@@ -120,6 +120,7 @@ Although these file formats can theoretically replace each other, their differen
 * 🆓📖 `.csproj` [C# Project Description File](/fileformatresearch/2024/05/05/cs-project): The description file of C# project.
 * 🆓📖 `fs` [F# Programming Language Source File](/fileformatresearch/2024/05/05/fs-source): Source code file format of the F# programming language.
 * 🆓📖 `.fsproj` [F# Project Description File](/fileformatresearch/2024/05/05/fs-project): The description file of F# project.
+* 🆓📖 `.sln` [Dotnet Solution File](/fileformatresearch/2024/05/05/sln): The description file of dotnet solution.
 
 #### Bibliography Data
 
