@@ -130,17 +130,17 @@ Although these file formats can theoretically replace each other, their differen
 
 #### PowerShell Runtime Environment
 
-* `.ps1` [PowerShell](/fileformatresearch/2024/04/19/pwsh-format): PowerShell script file.
-* `.psm1` [PowerShell Module](/fileformatresearch/2024/04/20/pwsh-module): PowerShell module file.
-* `.psd1` [PowerShell Manifest](/fileformatresearch/2024/04/20/pwsh-manifest): Manifest for generate PowerShell Module.
+* 🆓📖 `.ps1` [PowerShell](/fileformatresearch/2024/04/19/pwsh-format): PowerShell script file.
+* 🆓📖 `.psm1` [PowerShell Module](/fileformatresearch/2024/04/20/pwsh-module): PowerShell module file.
+* 🆓📖 `.psd1` [PowerShell Manifest](/fileformatresearch/2024/04/20/pwsh-manifest): Manifest for generate PowerShell Module.
 
 #### Python Runtime Environment
 
-* `.py` [Python](/fileformatresearch/2024/04/19/python-source): A general programming language.
+* 🆓📖 `.py` [Python](/fileformatresearch/2024/04/19/python-source): A general programming language.
 
 #### Rust Compiler Source Files
 
-* 
+* 🆓📖 `.rs` [Rust Programming Language Source File](/fileformatresearch/2024/05/05/rust-source): Source code file format of the Rust programming language.
 
 #### Web Page Style Sheet
 
