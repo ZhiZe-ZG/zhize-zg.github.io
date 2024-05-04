@@ -114,6 +114,13 @@ Although these file formats can theoretically replace each other, their differen
 
 ### Domian-specific
 
+#### .NET Runtime Environment
+
+* 🆓📖 `.cs` [C# Programming Language Source File](/fileformatresearch/2024/05/05/cs-source): Source code file format of the C# programming language.
+* 🆓📖 `.csproj` [C# Project Description File](/fileformatresearch/2024/05/05/cs-project): The description file of C# project.
+* 🆓📖 `fs` [F# Programming Language Source File](/fileformatresearch/2024/05/05/fs-source): Source code file format of the F# programming language.
+* 🆓📖 `.fsproj` [F# Project Description File](/fileformatresearch/2024/05/05/fs-project): The description file of F# project.
+
 #### Bibliography Data
 
 * 🆓📖 `.bib` [BibTeX](/fileformatresearch/2024/04/15/bib): A data format for recording citation sources.
@@ -210,17 +217,10 @@ Read only:
 
 ### Programming in System Environment
 
-#### C
-
-#### C++
-
-#### Rust
-
 ### Programming in Runtime Environment
 
 #### Haskell
 
-#### .NET
 
 #### Ruby
 
