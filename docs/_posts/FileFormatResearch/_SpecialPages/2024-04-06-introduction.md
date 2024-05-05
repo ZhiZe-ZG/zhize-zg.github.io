@@ -183,6 +183,7 @@ Read only:
 
 #### Timed Text
 
+* 🆓📖 `.lrc` [LRC](/fileformatresearch/2024/05/05/lrc): A simple lyric file format.
 * 🆓📖 `.mks` [Matroska Subtitle](/fileformatresearch/2024/05/05/mks): Matroska subtitle. Used to encapsulate complex subtitle files or as components of other Matroska formats.
 
 #### Vector Image
