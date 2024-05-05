@@ -122,6 +122,15 @@ Although these file formats can theoretically replace each other, their differen
 * 🆓📖 `.fsproj` [F# Project Description File](/fileformatresearch/2024/05/05/fs-project): The description file of F# project.
 * 🆓📖 `.sln` [Dotnet Solution File](/fileformatresearch/2024/05/05/sln): The description file of dotnet solution.
 
+#### Audio Sampling
+
+* 🆓📖 `.aac` [AAC](/fileformatresearch/2024/05/02/aac): Lossy audio sample format, but better than mp3.
+* 🆓📖 `.flac` [FLAC](/fileformatresearch/2024/05/02/flac): Lossless audio sample format.
+
+Read only:
+
+* 🆓📖 `.mp3` [MP3](/fileformatresearch/2024/05/02/mp3): Lossy audio sample format.
+
 #### Bibliography Data
 
 * 🆓📖 `.bib` [BibTeX](/fileformatresearch/2024/04/15/bib): A data format for recording citation sources.
@@ -135,6 +144,18 @@ Although these file formats can theoretically replace each other, their differen
 
 * 🆓📖 `.cpp` [C++ Programming Language Source File](/fileformatresearch/2024/05/05/cpp-source): Source code file format of the C++ programming language.
 * 🆓📖 `.hpp` [C++ Programming Language Header File](/fileformatresearch/2024/05/05/cpp-header): Header file format of the C++ programming language.
+
+#### Font
+
+* 🆓📖 `.otc` [PostScript-flavored OpenType Collection](/fileformatresearch/2024/04/14/opentype-collection): Vector font collection file format. Mainly used for GUI operating systems.
+* 🆓📖 `.otf` [PostScript-flavored OpenType](/fileformatresearch/2024/04/14/opentype): Vector font file format. Mainly used for GUI operating systems.
+* 🆓📖 `.woff2` [WOFF2](/fileformatresearch/2024/04/14/woff2): Vector font file for web.
+
+#### Pixel Image
+
+* 🆓📖 `.apng` [Animated PNG](/fileformatresearch/2024/04/09/apng): Lossless animated pixel image format.
+* 🆓📖 `.jpg` [JPEG Format](/fileformatresearch/2024/04/09/jpeg): Lossy pixel image format.
+* 🆓📖 `.png` [Portable Network Graphics](/fileformatresearch/2024/04/09/pdf): Lossless pixel image format.
 
 #### PowerShell Runtime Environment
 
@@ -150,6 +171,10 @@ Although these file formats can theoretically replace each other, their differen
 
 * 🆓📖 `.rs` [Rust Programming Language Source File](/fileformatresearch/2024/05/05/rust-source): Source code file format of the Rust programming language.
 
+#### Vector Image
+
+* 🆓📖 `.svg` [Scalable Vector Graphics](/fileformatresearch/2024/04/09/svg): Vector image format.
+
 #### Web Page Style Sheet
 
 * 🆓📖 `.css` [Cascading Style Sheets](/fileformatresearch/2024/04/19/css): A markup language used to describe the styles of HTML elements.
@@ -164,21 +189,6 @@ Read only:
 * 🆓📖 `.html` [HyperText Markup Language](/fileformatresearch/2024/04/19/html): Markup language for Web typesetting.
 
 ### Human Perceptual Media and Related
-
-#### Audio Sampling
-
-* 🆓📖 `.aac` [AAC](/fileformatresearch/2024/05/02/aac): Lossy audio sample format, but better than mp3.
-* 🆓📖 `.flac` [FLAC](/fileformatresearch/2024/05/02/flac): Lossless audio sample format.
-
-Read only:
-
-* 🆓📖 `.mp3` [MP3](/fileformatresearch/2024/05/02/mp3): Lossy audio sample format.
-
-#### Pixel Image
-
-* 🆓📖 `.apng` [Animated PNG](/fileformatresearch/2024/04/09/apng): Lossless animated pixel image format.
-* 🆓📖 `.jpg` [JPEG Format](/fileformatresearch/2024/04/09/jpeg): Lossy pixel image format.
-* 🆓📖 `.png` [Portable Network Graphics](/fileformatresearch/2024/04/09/pdf): Lossless pixel image format.
 
 #### Timed Text
 
@@ -200,25 +210,7 @@ Read only:
 * 🆓📖 `.md` [Markdown](/fileformatresearch/2024/04/10/markdown-format): A simple markup format used to write documents without complex style or structure.
 * 🆓📖 `.tex` [TeX](/fileformatresearch/2024/04/15/tex): Markup language format for TeX typesetting system.
 
-### Vector Graphics
-
-#### Font
-
-* 🆓📖 `.otc` [PostScript-flavored OpenType Collection](/fileformatresearch/2024/04/14/opentype-collection): Vector font collection file format. Mainly used for GUI operating systems.
-* 🆓📖 `.otf` [PostScript-flavored OpenType](/fileformatresearch/2024/04/14/opentype): Vector font file format. Mainly used for GUI operating systems.
-* 🆓📖 `.woff2` [WOFF2](/fileformatresearch/2024/04/14/woff2): Vector font file for web.
-
-#### Vector Image
-
-* 🆓📖 `.svg` [Scalable Vector Graphics](/fileformatresearch/2024/04/09/svg): Vector image format.
-
 ## Domain Specific File Formats
-
-### Programming in Hardware Environment
-
-### Programming in System Environment
-
-### Programming in Runtime Environment
 
 #### Haskell
 
