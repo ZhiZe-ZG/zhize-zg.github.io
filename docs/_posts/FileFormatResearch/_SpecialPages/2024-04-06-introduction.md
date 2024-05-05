@@ -197,6 +197,7 @@ Read only:
 
 Read only:
 
+* 🆓📖 `.avi` [Audio Video Interleave](/fileformatresearch/2024/05/05/avi): An audio and video file format dominated by Microsoft.
 * 🆓📖 `.flv` [Flash Video](/fileformatresearch/2024/05/05/flv): An audio and video container for Adobe Flash.
 
 #### Web Page Style Sheet
