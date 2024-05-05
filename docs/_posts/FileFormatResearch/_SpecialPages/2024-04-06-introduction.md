@@ -201,12 +201,6 @@ Read only:
 
 * 🆓📖 `.html` [HyperText Markup Language](/fileformatresearch/2024/04/19/html): Markup language for Web typesetting.
 
-### Human Perceptual Media and Related
-
-#### Timed Text
-
-#### Video Containers
-
 ### Document
 
 #### Document Container
