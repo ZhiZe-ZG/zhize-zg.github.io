@@ -130,6 +130,7 @@ Although these file formats can theoretically replace each other, their differen
 Read only:
 
 * 🆓📖 `.mp3` [MP3](/fileformatresearch/2024/05/02/mp3): Lossy audio sample format.
+* 🆓📖 `.wav` [Waveform Audio File Format](/fileformatresearch/2024/05/05/wav): An audio file format. It uses the linear pulse-code modulation (LPCM).
 
 #### Bibliography Data
 
