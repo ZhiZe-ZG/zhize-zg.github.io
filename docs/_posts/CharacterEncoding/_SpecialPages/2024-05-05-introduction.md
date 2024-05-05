@@ -1,5 +1,6 @@
 ---
-title: "Character Encoding and Plain Text File Format"
+title: "Character Encoding Research"
+permalink: /CharacterEncodingResearch/Introduction
 date: 2024-05-05 22:15:03 +0800
 category: CharacterEncodingResearch
 tags:
