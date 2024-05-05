@@ -185,6 +185,7 @@ Read only:
 
 * 🆓📖 `.lrc` [LRC](/fileformatresearch/2024/05/05/lrc): A simple lyric file format.
 * 🆓📖 `.mks` [Matroska Subtitle](/fileformatresearch/2024/05/05/mks): Matroska subtitle. Used to encapsulate complex subtitle files or as components of other Matroska formats.
+* 🆓📖 `.srt` [SubRip](/fileformatresearch/2024/05/05/srt): A plain text-based external subtitle format.
 
 #### Vector Image
 
