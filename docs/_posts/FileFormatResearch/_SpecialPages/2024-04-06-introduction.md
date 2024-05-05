@@ -80,6 +80,10 @@ I also add at least one tag describing the usage of each format. The number of s
 
 ## Recommendations File Format
 
+### Special Topics
+
+* [Character Encoding and Plain Text File Format](/characterencodingresearch/2024/05/05/introduction)
+
 ### Common Use
 
 #### Archive
@@ -96,12 +100,6 @@ Read only:
 
 * 💰📕 `.rar` [RAR](/fileformatresearch/2024/04/10/rar): Archive and compression format.
 * 🆓📖 `.zip` [ZIP](/fileformatresearch/2024/04/10/zip): General archive and compression format, also as the basis for many other file formats.
-
-#### Plain Text
-
-Files without extensions will be treated as plain text files by default.
-
-* 🆓📖 `.txt` [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
 
 #### Universal Markup Data
 
