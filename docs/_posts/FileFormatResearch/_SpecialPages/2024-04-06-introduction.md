@@ -112,7 +112,7 @@ Although these file formats can theoretically replace each other, their differen
 * 🆓📖 `.xml` [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
 * 🆓📖 `.yml` [YAML](/fileformatresearch/2024/04/19/yaml): An easy-to-read data file format.
 
-### Domian-specific
+### Domain-specific
 
 #### .NET Runtime Environment
 
