@@ -126,6 +126,7 @@ Although these file formats can theoretically replace each other, their differen
 
 * 🆓📖 `.aac` [AAC](/fileformatresearch/2024/05/02/aac): Lossy audio sample format, but better than mp3.
 * 🆓📖 `.flac` [FLAC](/fileformatresearch/2024/05/02/flac): Lossless audio sample format.
+* 🆓📖 `.mka` [Matroska Audio](/fileformatresearch/2024/05/05/mka): Matroska audio. Used to encapsulate complex audio files or as components of other Matroska formats.
 
 Read only:
 
@@ -180,13 +181,18 @@ Read only:
 
 * 🆓📖 `.rs` [Rust Programming Language Source File](/fileformatresearch/2024/05/05/rust-source): Source code file format of the Rust programming language.
 
+#### Timed Text
+
+* 🆓📖 `.mks` [Matroska Subtitle](/fileformatresearch/2024/05/05/mks): Matroska subtitle. Used to encapsulate complex subtitle files or as components of other Matroska formats.
+
 #### Vector Image
 
 * 🆓📖 `.svg` [Scalable Vector Graphics](/fileformatresearch/2024/04/09/svg): Vector image format.
 
 #### Video Container
 
-* 🆓📖 `.mp4` [MP4](/fileformatresearch/2024/05/05/mp4): A common audio and video container formats.
+* 🆓📖 `.mkv` [Matroska Video](/fileformatresearch/2024/05/05/mkv): Matroska video. Used to encapsulate complex audiovisual files.
+* 🆓📖 `.mp4` [MP4](/fileformatresearch/2024/05/05/mp4): A common audio and video container formats. Used to encapsulate relatively simple audio and video streams.
 
 Read only:
 
