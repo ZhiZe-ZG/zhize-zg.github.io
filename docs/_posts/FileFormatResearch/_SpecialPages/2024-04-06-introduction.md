@@ -147,6 +147,31 @@ Read only:
 * 🆓📖 `.cpp` [C++ Programming Language Source File](/fileformatresearch/2024/05/05/cpp-source): Source code file format of the C++ programming language.
 * 🆓📖 `.hpp` [C++ Programming Language Header File](/fileformatresearch/2024/05/05/cpp-header): Header file format of the C++ programming language.
 
+#### E-document Release
+
+##### Electronic Display
+
+* 🆓📖 `.epub` [EPUB](/fileformatresearch/2024/04/10/epub): E-book format based on web related technologies.
+
+Read only:
+
+* 🆓📕 `.chm` [Microsoft Compiled HTML Help](/fileformatresearch/2024/04/17/chm): Compiled HTML documents.
+
+##### Imitating Paper
+
+* 🆓📖 `.pdf` [Portable Document Format](/fileformatresearch/2024/04/09/png): Mainly used as document format for both scanned and rendered, sometimes used as vector image format.
+
+Read only:
+
+* 🆓📖 `.djvu` [DjVu](/fileformatresearch/2024/04/10/djvu): Document format or pixel image format for scanned documents.
+
+#### Editable Document Container
+
+* 🆓📖 `.docx` [Office Open XML Document](/fileformatresearch/2024/04/24/docx): Editable document container for Microsoft Office Word etc.
+* 🆓📖 `.pptx` [Office Open XML Presentation](/fileformatresearch/2024/04/28/pptx): An interactive graphic file format.
+* 💰📕 `.vsdx` [Visio XML Format](/fileformatresearch/2024/04/28/vsdx): A diagram file format based on XML and ZIP.
+* 🆓📖 `.xlsx` [Office Open XML Workbook](/fileformatresearch/2024/04/28/xlsx): Spreadsheet file format, used for display tables or simple data tables, with some data processing functions.
+
 #### Font
 
 * 🆓📖 `.otc` [PostScript-flavored OpenType Collection](/fileformatresearch/2024/04/14/opentype-collection): Vector font collection file format. Mainly used for GUI operating systems.
@@ -187,6 +212,11 @@ Read only:
 * 🆓📖 `.mks` [Matroska Subtitle](/fileformatresearch/2024/05/05/mks): Matroska subtitle. Used to encapsulate complex subtitle files or as components of other Matroska formats.
 * 🆓📖 `.srt` [SubRip](/fileformatresearch/2024/05/05/srt): A plain text-based external subtitle format.
 
+#### Typesetting Description
+
+* 🆓📖 `.md` [Markdown](/fileformatresearch/2024/04/10/markdown-format): A simple markup format used to write documents without complex style or structure.
+* 🆓📖 `.tex` [TeX](/fileformatresearch/2024/04/15/tex): Markup language format for TeX typesetting system.
+
 #### Vector Image
 
 * 🆓📖 `.svg` [Scalable Vector Graphics](/fileformatresearch/2024/04/09/svg): Vector image format.
@@ -213,27 +243,6 @@ Read only:
 #### Web Page Typesetting
 
 * 🆓📖 `.html` [HyperText Markup Language](/fileformatresearch/2024/04/19/html): Markup language for Web typesetting.
-
-### Document
-
-#### Document Container
-
-* 🆓📖 `.docx` [Office Open XML Document](/fileformatresearch/2024/04/24/docx): Editable document container for Microsoft Office Word etc.
-* 🆓📖 `.epub` [EPUB](/fileformatresearch/2024/04/10/epub): E-book format based on web related technologies.
-* 🆓📖 `.pdf` [Portable Document Format](/fileformatresearch/2024/04/09/png): Mainly used as document format for both scanned and rendered, sometimes used as vector image format.
-* 🆓📖 `.pptx` [Office Open XML Presentation](/fileformatresearch/2024/04/28/pptx): An interactive graphic file format.
-* 💰📕 `.vsdx` [Visio XML Format](/fileformatresearch/2024/04/28/vsdx): A diagram file format based on XML and ZIP.
-* 🆓📖 `.xlsx` [Office Open XML Workbook](/fileformatresearch/2024/04/28/xlsx): Spreadsheet file format, used for display tables or simple data tables, with some data processing functions.
-
-Read only:
-
-* 🆓📕 `.chm` [Microsoft Compiled HTML Help](/fileformatresearch/2024/04/17/chm): Compiled HTML documents.
-* 🆓📖 `.djvu` [DjVu](/fileformatresearch/2024/04/10/djvu): Document format or pixel image format for scanned documents.
-
-#### Typesetting Description
-
-* 🆓📖 `.md` [Markdown](/fileformatresearch/2024/04/10/markdown-format): A simple markup format used to write documents without complex style or structure.
-* 🆓📖 `.tex` [TeX](/fileformatresearch/2024/04/15/tex): Markup language format for TeX typesetting system.
 
 ## System Compatible File Formats
 
