@@ -80,7 +80,7 @@ I also add at least one tag describing the usage of each format. The number of s
 
 ## Recommendations File Format
 
-### Special Topics
+### Special Topics (Protocols Other than File Formats)
 
 * [Character Encoding and Plain Text File Format](/characterencodingresearch/2024/05/05/introduction)
 
