@@ -101,6 +101,10 @@ Read only:
 * 💰📕 `.rar` [RAR](/fileformatresearch/2024/04/10/rar): Archive and compression format.
 * 🆓📖 `.zip` [ZIP](/fileformatresearch/2024/04/10/zip): General archive and compression format, also as the basis for many other file formats.
 
+#### Plain Text
+
+* 🆓📖 `.txt` [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
+
 #### Universal Markup Data
 
 Although these file formats can theoretically replace each other, their different syntax designs cause them to have different adaptability to different scenarios. Generally, one or more of them are selected according to the needs or framework requirements. So there are multiple alternatives juxtaposed.

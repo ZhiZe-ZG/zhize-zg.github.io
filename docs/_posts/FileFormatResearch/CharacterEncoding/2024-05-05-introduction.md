@@ -30,9 +30,7 @@ The following encoding schemes can be replaced by Unicode or are deprecated:
 
 ## File Format
 
-Files without extensions will be treated as plain text files by default. If you want to add a suffix to a plain text file, use the following suffix:
-
-* 🆓📖 `.txt` [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
+Files without extensions will be treated as plain text files by default. If you want to add a suffix to a plain text file, use the `.txt`.
 
 Plain text files use UTF-8 encoding by default. Other UTF series encodings will add a BOM (Byte Order Mark) at the beginning of the file by default. They can therefore be distinguished from UTF-8.
 
