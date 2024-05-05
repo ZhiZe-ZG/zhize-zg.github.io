@@ -151,11 +151,19 @@ Read only:
 * 🆓📖 `.otf` [PostScript-flavored OpenType](/fileformatresearch/2024/04/14/opentype): Vector font file format. Mainly used for GUI operating systems.
 * 🆓📖 `.woff2` [WOFF2](/fileformatresearch/2024/04/14/woff2): Vector font file for web.
 
+Read only:
+
+* 🆓📖 `.woff` [WOFF](/fileformatresearch/2024/04/14/woff): Vector font file for web.
+
 #### Pixel Image
 
 * 🆓📖 `.apng` [Animated PNG](/fileformatresearch/2024/04/09/apng): Lossless animated pixel image format.
 * 🆓📖 `.jpg` [JPEG Format](/fileformatresearch/2024/04/09/jpeg): Lossy pixel image format.
 * 🆓📖 `.png` [Portable Network Graphics](/fileformatresearch/2024/04/09/pdf): Lossless pixel image format.
+
+Read only:
+
+* 🆓📖 `.gif` [Graphics Interchange Format](/fileformatresearch/2024/04/09/gif): Lossless animated pixel image format.
 
 #### PowerShell Runtime Environment
 
@@ -205,22 +213,15 @@ Read only:
 * 💰📕 `.vsdx` [Visio XML Format](/fileformatresearch/2024/04/28/vsdx): A diagram file format based on XML and ZIP.
 * 🆓📖 `.xlsx` [Office Open XML Workbook](/fileformatresearch/2024/04/28/xlsx): Spreadsheet file format, used for display tables or simple data tables, with some data processing functions.
 
+Read only:
+
+* 🆓📕 `.chm` [Microsoft Compiled HTML Help](/fileformatresearch/2024/04/17/chm): Compiled HTML documents.
+* 🆓📖 `.djvu` [DjVu](/fileformatresearch/2024/04/10/djvu): Document format or pixel image format for scanned documents.
+
 #### Typesetting Description
 
 * 🆓📖 `.md` [Markdown](/fileformatresearch/2024/04/10/markdown-format): A simple markup format used to write documents without complex style or structure.
 * 🆓📖 `.tex` [TeX](/fileformatresearch/2024/04/15/tex): Markup language format for TeX typesetting system.
-
-## Domain Specific File Formats
-
-#### Haskell
-
-#### Ruby
-
-#### JavaScript
-
-#### Java
-
-### Typesetting Development
 
 ## System Compatible File Formats
 
@@ -277,21 +278,6 @@ These are mainly used for systems that don't have good support for `.otf`. Such 
 
 * 🆓📖 `.ttc` [TrueType-flavored OpenType Collection](/fileformatresearch/2024/04/14/truetype-collection): Vector font collection file format.
 * 🆓📖 `.ttf` [TrueType-flavored OpenType](/fileformatresearch/2024/04/14/truetype): Vector font file format.
-
-## Read Only File Format
-
-### Not Recommended Document Container File Format
-
-* 🆓📕 `.chm` [Microsoft Compiled HTML Help](/fileformatresearch/2024/04/17/chm): Compiled HTML documents.
-* 🆓📖 `.djvu` [DjVu](/fileformatresearch/2024/04/10/djvu): Document format or pixel image format for scanned documents.
-
-### Not Recommended Font File Format
-
-* 🆓📖 `.woff` [WOFF](/fileformatresearch/2024/04/14/woff): Vector font file for web.
-
-### Not Recommended Image File Format
-
-* 🆓📖 `.gif` [Graphics Interchange Format](/fileformatresearch/2024/04/09/gif): Lossless animated pixel image format.
 
 ## Trend
 
