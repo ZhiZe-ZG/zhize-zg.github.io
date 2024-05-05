@@ -103,6 +103,8 @@ Read only:
 
 #### Plain Text
 
+Files without extensions will be treated as plain text files by default. But there is still a suffix for plain text files:
+
 * 🆓📖 `.txt` [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
 
 #### Universal Markup Data
