@@ -1,5 +1,6 @@
 ---
 title: "Old Projects"
+permalink: /OldProjects
 date: 2024-05-10 20:10:31 +0800
 category: OldProjects
 tags:
