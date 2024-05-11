@@ -10,3 +10,4 @@ sidebar:
 Some of my old projects:
 
 * [TXBNFLesson](https://github.com/ZhiZe-ZG/TXBNFLesson)
+* [TXLuaLesson](https://github.com/ZhiZe-ZG/TXLuaLesson)
