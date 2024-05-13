@@ -1,6 +1,6 @@
 ---
 title: "My GitHub Repositories"
-permalink: /OldProjects
+permalink: /MyGitHubRepositories
 layout: single
 author_profile: true
 sidebar:
