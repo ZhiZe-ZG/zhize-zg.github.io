@@ -80,6 +80,6 @@ I also add at least one tag describing the usage of each format. The number of s
 
 ## Recommended File Format
 
-Here is a list of file formats that I personally recommended.
+Here is a list of file formats that I personally recommend.
 
 * [Recommended File Format](/FileFormatResearch/RecommendedFileFormat)

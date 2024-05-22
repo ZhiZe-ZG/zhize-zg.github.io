@@ -65,3 +65,9 @@ Here are some tags I would label these articles:
   * TouchGUI: Graphical User Interface. Finger touch is the main mode of operation.
 
 In addition, I will add at least one tag describing the functional positioning of each software. The number of such tags is variable.
+
+## Recommended Softwares
+
+Here are some softwares I recommend personally.
+
+* [Recommended Softwares](/SoftwareResearch/RecommendedSoftwares)
