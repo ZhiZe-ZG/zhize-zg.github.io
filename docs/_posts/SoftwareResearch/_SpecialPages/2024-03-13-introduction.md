@@ -89,6 +89,7 @@ Currently this category mainly includes package managers and GUI environments.
 * 🆓📖-🪟🍎🐧 [PowerShell](/softwareresearch/2024/03/15/powershell): Command line shell. Used both in daily operating and scripting.
 * 🆓📖-🪟🍎🐧 [Python](/softwareresearch/2024/04/21/python): Runtime environment of programming language Python.
   * 🆓📖 [pip](/softwareresearch/python/2024/04/21/pip): pip is the package installer for Python.
+  * 🆓📖 [matplotlib](/softwareresearch/python/2024/05/22/matplotlib): A package for data visualization.
 * 🆓📖-🪟: [Sumatra PDF](/softwareresearch/2024/04/09/sumatra-pdf): Document viewer.
 
 #### Text Editor and Development Environment Front-end
