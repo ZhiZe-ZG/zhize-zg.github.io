@@ -173,20 +173,11 @@ Read only:
 ### Editable Document Container
 
 * 🆓📖 `.docx` [Office Open XML Document](/fileformatresearch/2024/04/24/docx): Editable document container for Microsoft Office Word etc.
-* 🆓📖 `.pptx` [Office Open XML Presentation](/fileformatresearch/2024/04/28/pptx): An interactive graphic file format.
-* 💰📕 `.vsdx` [Visio XML Format](/fileformatresearch/2024/04/28/vsdx): A diagram file format based on XML and ZIP.
-* 🆓📖 `.xlsx` [Office Open XML Workbook](/fileformatresearch/2024/04/28/xlsx): Spreadsheet file format, used for display tables or simple data tables, with some data processing functions.
 
 Read only:
 
 * 💰📖 `.doc` [Microsoft Office Word Binary File Format](/fileformatresearch/2024/04/24/doc): Editable document file format.
-* 💰📖 `.ppt` [Microsoft Office PowerPoint Binary File Format](/fileformatresearch/2024/04/28/ppt): An interactive graphic file.
-* 💰📕 `.vsd` [Microsoft Office Visio Binary File Format](/fileformatresearch/2024/04/28/vsd): A diagram file format.
-* 💰📖 `.xls` [Microsoft Office Excel Binary File Format](/fileformatresearch/2024/04/28/xls): A data sheet file format.
 * 🆓📖 `.odf` [OpenDocument Formula](/fileformatresearch/2024/04/24/odf): A format to save math formula typesetting.
-* 🆓📖 `.odg` [OpenDocument Graphics](/fileformatresearch/2024/04/28/odg): A vector image and diagram file format.
-* 🆓📖 `.odp` [OpenDocument Presentation](/fileformatresearch/2024/04/28/odp): An interactive graphic file format.
-* 🆓📖 `.ods` [OpenDocument Spreadsheet](/fileformatresearch/2024/04/28/ods): A spreadsheet file format.
 * 🆓📖 `.odt` [OpenDocument Text](/fileformatresearch/2024/04/24/odt): An editable document file container format.
 
 ### Pixel Image
@@ -225,6 +216,15 @@ Files without extensions will be treated as plain text files by default. But the
 * 🆓📖 `.mks` [Matroska Subtitle](/fileformatresearch/2024/05/05/mks): Matroska subtitle. Used to encapsulate complex subtitle files or as components of other Matroska formats.
 * 🆓📖 `.srt` [SubRip](/fileformatresearch/2024/05/05/srt): A plain text-based external subtitle format.
 
+### Tabular Data
+
+* 🆓📖 `.xlsx` [Office Open XML Workbook](/fileformatresearch/2024/04/28/xlsx): Spreadsheet file format, used for display tables or simple data tables, with some data processing functions.
+
+Read only:
+
+* 💰📖 `.xls` [Microsoft Office Excel Binary File Format](/fileformatresearch/2024/04/28/xls): A data sheet file format.
+* 🆓📖 `.ods` [OpenDocument Spreadsheet](/fileformatresearch/2024/04/28/ods): A spreadsheet file format.
+
 ### Universal Markup Data
 
 Although these file formats can theoretically replace each other, their different syntax designs cause them to have different adaptability to different scenarios. Generally, one or more of them are selected according to the needs or framework requirements. So there are multiple alternatives juxtaposed.
@@ -261,7 +261,27 @@ Read only:
 
 ### Vector Image
 
+#### Chart Drawing
+
+* 💰📕 `.vsdx` [Visio XML Format](/fileformatresearch/2024/04/28/vsdx): A diagram file format based on XML and ZIP.
+
+Read only:
+
+* 💰📕 `.vsd` [Microsoft Office Visio Binary File Format](/fileformatresearch/2024/04/28/vsd): A diagram file format.
+* 🆓📖 `.odg` [OpenDocument Graphics](/fileformatresearch/2024/04/28/odg): A vector image and diagram file format.
+
+#### Common Vector Image Format
+
 * 🆓📖 `.svg` [Scalable Vector Graphics](/fileformatresearch/2024/04/09/svg): Vector image format.
+
+#### Interactive vector animation
+
+* 🆓📖 `.pptx` [Office Open XML Presentation](/fileformatresearch/2024/04/28/pptx): An interactive graphic file format.
+
+Read only:
+
+* 💰📖 `.ppt` [Microsoft Office PowerPoint Binary File Format](/fileformatresearch/2024/04/28/ppt): An interactive graphic file.
+* 🆓📖 `.odp` [OpenDocument Presentation](/fileformatresearch/2024/04/28/odp): An interactive graphic file format.
 
 ### Video Container
 
