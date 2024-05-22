@@ -111,12 +111,12 @@ Read only:
 
 Read only:
 
-* 💰📕 `.rar` [RAR](/fileformatresearch/2024/04/10/rar): Archive and compression format.
-* 🆓📖 `.zip` [ZIP](/fileformatresearch/2024/04/10/zip): General archive and compression format, also as the basis for many other file formats.
 * 🆓📖 `.bz2` [Bzip2](/fileformatresearch/2024/04/10/bzip2-format): Single file compression format.
 * 🆓📖 `.gz` [Gzip](/fileformatresearch/2024/04/10/gzip): Single file compression format.
+* 💰📕 `.rar` [RAR](/fileformatresearch/2024/04/10/rar): Archive and compression format.
 * 🆓📖 `.tar` [Tar](/fileformatresearch/2024/04/10/tar): Archive file format. One advantage of this format is that Tar can save file permission information on file systems of Unix-like systems. But I personally think it's better to include a shell script with the archive to set the file permissions. This eliminates the need to use a tar archive.
 * 🆓📖 `.xz` [XZ](/fileformatresearch/2024/04/10/xz): Single file compression format.
+* 🆓📖 `.zip` [ZIP](/fileformatresearch/2024/04/10/zip): General archive and compression format, also as the basis for many other file formats.
 
 ### Bibliography Data
 
@@ -222,10 +222,10 @@ Files without extensions will be treated as plain text files by default. But the
 
 Read only:
 
-* 💰📖 `.xls` [Microsoft Office Excel Binary File Format](/fileformatresearch/2024/04/28/xls): A data sheet file format.
-* 🆓📖 `.ods` [OpenDocument Spreadsheet](/fileformatresearch/2024/04/28/ods): A spreadsheet file format.
 * 🆓📖 `.csv` [Comma-Separated values](/fileformatresearch/2024/04/21/csv): A simple markup language for representing tabular data. Use comma as delimiters. There are some variations of it. They are collectively called "Delimiter-seperated". Delimiter-seperated values are not as good as binary files in terms of compression rate, and are not as good as XML, JSON, etc. in terms of scalability and data type richness.
+* 🆓📖 `.ods` [OpenDocument Spreadsheet](/fileformatresearch/2024/04/28/ods): A spreadsheet file format.
 * 🆓📖 `.tsv` [Tab-Separated Values](/fileformatresearch/2024/04/21/tsv): A simple markup language for representing tabular data. Use horizontal tabs as delimiters.
+* 💰📖 `.xls` [Microsoft Office Excel Binary File Format](/fileformatresearch/2024/04/28/xls): A data sheet file format.
 
 ### Universal Markup Data
 
@@ -264,8 +264,8 @@ Read only:
 
 Read only:
 
-* 💰📕 `.vsd` [Microsoft Office Visio Binary File Format](/fileformatresearch/2024/04/28/vsd): A diagram file format.
 * 🆓📖 `.odg` [OpenDocument Graphics](/fileformatresearch/2024/04/28/odg): A vector image and diagram file format.
+* 💰📕 `.vsd` [Microsoft Office Visio Binary File Format](/fileformatresearch/2024/04/28/vsd): A diagram file format.
 
 #### Common Vector Image Format
 
@@ -277,8 +277,8 @@ Read only:
 
 Read only:
 
-* 💰📖 `.ppt` [Microsoft Office PowerPoint Binary File Format](/fileformatresearch/2024/04/28/ppt): An interactive graphic file.
 * 🆓📖 `.odp` [OpenDocument Presentation](/fileformatresearch/2024/04/28/odp): An interactive graphic file format.
+* 💰📖 `.ppt` [Microsoft Office PowerPoint Binary File Format](/fileformatresearch/2024/04/28/ppt): An interactive graphic file.
 
 ### Video Container
 
