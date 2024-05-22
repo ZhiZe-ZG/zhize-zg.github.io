@@ -8,17 +8,6 @@ header:
   teaser: https://upload.wikimedia.org/wikipedia/commons/b/b0/File-dynamic-color.png
 ---
 
-## Audio Sampling
-
-* 🆓📖 `.aac` [AAC](/fileformatresearch/2024/05/02/aac): Lossy audio sample format, but better than mp3.
-* 🆓📖 `.flac` [FLAC](/fileformatresearch/2024/05/02/flac): Lossless audio sample format.
-* 🆓📖 `.mka` [Matroska Audio](/fileformatresearch/2024/05/05/mka): Matroska audio. Used to encapsulate complex audio files or as components of other Matroska formats.
-
-Read only:
-
-* 🆓📖 `.mp3` [MP3](/fileformatresearch/2024/05/02/mp3): Lossy audio sample format.
-* 🆓📖 `.wav` [Waveform Audio File Format](/fileformatresearch/2024/05/05/wav): An audio file format. It uses the linear pulse-code modulation (LPCM).
-
 ## Archive
 
 ### Optical Disc Archive
@@ -37,6 +26,17 @@ Read only:
 * 🆓📖 `.tar` [Tar](/fileformatresearch/2024/04/10/tar): Archive file format. One advantage of this format is that Tar can save file permission information on file systems of Unix-like systems. But I personally think it's better to include a shell script with the archive to set the file permissions. This eliminates the need to use a tar archive.
 * 🆓📖 `.xz` [XZ](/fileformatresearch/2024/04/10/xz): Single file compression format.
 * 🆓📖 `.zip` [ZIP](/fileformatresearch/2024/04/10/zip): General archive and compression format, also as the basis for many other file formats.
+
+## Audio Sampling
+
+* 🆓📖 `.aac` [AAC](/fileformatresearch/2024/05/02/aac): Lossy audio sample format, but better than mp3.
+* 🆓📖 `.flac` [FLAC](/fileformatresearch/2024/05/02/flac): Lossless audio sample format.
+* 🆓📖 `.mka` [Matroska Audio](/fileformatresearch/2024/05/05/mka): Matroska audio. Used to encapsulate complex audio files or as components of other Matroska formats.
+
+Read only:
+
+* 🆓📖 `.mp3` [MP3](/fileformatresearch/2024/05/02/mp3): Lossy audio sample format.
+* 🆓📖 `.wav` [Waveform Audio File Format](/fileformatresearch/2024/05/05/wav): An audio file format. It uses the linear pulse-code modulation (LPCM).
 
 ## Bibliography Data
 
@@ -142,9 +142,12 @@ A type of shell script mainly used on Unix systems (including Bourne Shell). Ove
 
 ## Timed Text
 
-* 🆓📖 `.lrc` [LRC](/fileformatresearch/2024/05/05/lrc): A simple lyric file format. Mainly for music.
 * 🆓📖 `.mks` [Matroska Subtitle](/fileformatresearch/2024/05/05/mks): Matroska subtitle. Used to encapsulate complex subtitle files or as components of other Matroska formats.
 * 🆓📖 `.srt` [SubRip](/fileformatresearch/2024/05/05/srt): A plain text-based external subtitle format.
+
+Read only:
+
+* 🆓📖 `.lrc` [LRC](/fileformatresearch/2024/05/05/lrc): A simple lyric file format. Mainly for music.
 
 ## Tabular Data
 
