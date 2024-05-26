@@ -40,6 +40,10 @@ Mainly use this:
 
 * 🆓📖-🪟🍎🐧 [Visual Studio Code](/softwareresearch/2024/04/07/vs-code): GUI text editor and development environment front-end framework.
 
+#### .NET and C\#
+
+* 🆓📖 [C# Language Basics](/softwareresearch/visualstudiocode/2024/05/26/cs-language-basics): Basic C# language support.
+
 #### Git Support
 
 * 🆓📖 [Git](/softwareresearch/visualstudiocode/2024/04/16/vscode-git): Git support. It provides the ability to manipulate Git in VS Code.
