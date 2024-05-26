@@ -43,12 +43,12 @@ Main used stand alone softwares.
 #### Visual Studio Code Plugins
 
 * 🆓📖 [Black Formatter](/softwareresearch/visualstudiocode/2024/04/22/black-formatter): Python formatter, based on black.
-* 🆓📖 [Insert Date String](/softwareresearch/visualstudiocode/2024/04/11/insert-date-string): Insert format date string.
 * 🆓📖 [Git](/softwareresearch/visualstudiocode/2024/04/16/vscode-git): Git support. It provides the ability to manipulate Git in VS Code.
 * 🆓📖 [Git Base](/softwareresearch/visualstudiocode/2024/04/16/vscode-git-base): Base for git support.
 * 🆓📖 [Git Graph](/softwareresearch/visualstudiocode/2024/04/23/git-graph): Show Git branch relations.
 * 💰📕 [GitHub Copilot](/softwareresearch/visualstudiocode/2024/04/11/github-copilot): GitHub Copilot plugin.
 * 💰📕 [GitHub Copilot Chat](/softwareresearch/visualstudiocode/2024/04/11/github-copilot-chat): GitHub Copilot chat box plugin.
+* 🆓📖 [Insert Date String](/softwareresearch/visualstudiocode/2024/04/11/insert-date-string): Insert format date string.
 * 🆓📖 [LaTeX Workshop](/softwareresearch/visualstudiocode/2024/04/08/latex-workshop): Front-end plugin for TeX-based typesetting softwares.
 * 🆓📖 [Liquid](/softwareresearch/visualstudiocode/2024/04/16/liquid): Liquid language support.
 * 🆓📖 [Markdown All in One](/softwareresearch/visualstudiocode/2024/04/12/markdown-all-in-one): Shortcuts, auto-completion, table formatting etc. for Markdown editing.
@@ -58,9 +58,9 @@ Main used stand alone softwares.
 * 🆓📖 [Markdown Math](/softwareresearch/visualstudiocode/2024/04/12/vscode-markdown-math): Math extension to Markdown preview.
 * 🆓📖 [Markdown Preview Mermaid Support](/softwareresearch/visualstudiocode/2024/04/12/markdown-preview-mermaid): Preview for Mermaid embedded in Markdown.
 * 🆓📖 [Markdownlint](/softwareresearch/visualstudiocode/2024/04/12/markdownlint): Linter for Markdown.
-* 🆓📖 [Mermaid Markdown Syntax Highlighting](/softwareresearch/visualstudiocode/2024/04/12/mermaid-markdown-syntax): Syntax highlighting for Mermaid embedded in Markdown.
 * 🆓📖 [Material Icon Theme](/softwareresearch/visualstudiocode/2024/04/12/material-icon): File icon theme.
 * 🆓📖 [Material Product Icons](/softwareresearch/visualstudiocode/2024/04/12/material-product): UI icon theme.
+* 🆓📖 [Mermaid Markdown Syntax Highlighting](/softwareresearch/visualstudiocode/2024/04/12/mermaid-markdown-syntax): Syntax highlighting for Mermaid embedded in Markdown.
 * 🆓📖 [One Dark Darker](/softwareresearch/visualstudiocode/2024/04/12/one-dark-darker): A color theme.
 * 🆓📖 [PowerShell](/softwareresearch/visualstudiocode/2024/04/20/powershell-vscode): PowerShell language support for VS Code.
 * 🆓📖 [PowerShell Language Basics](/softwareresearch/visualstudiocode/2024/04/21/powershell-basic): Basic PowerShell language support.
