@@ -8,7 +8,6 @@ header:
   teaser: https://upload.wikimedia.org/wikipedia/commons/1/14/Window_%28windowing_system%29.svg
 ---
 
-
 ## System Compositions
 
 Currently this category mainly includes package managers and GUI environments.
