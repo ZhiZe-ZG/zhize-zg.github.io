@@ -79,3 +79,4 @@ Main used stand alone softwares.
 
 * 🆓📖-🪟🍎🐧😈 [GNU Emacs](/softwareresearch/2024/04/07/emacs): A complex system disguised as a text editor.
 * 💰📕-🪟 [Age of Empires II: Definitive Edition](/softwareresearch/2024/04/28/aoe2): A historical RTS game.
+  * 🆓📖 [Zetnus Improved Grid Mod](/softwareresearch/ageofempires2de/2024/05/26/zetnus-improved-grid-mod): Show map grid.
