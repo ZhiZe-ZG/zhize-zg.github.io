@@ -18,8 +18,9 @@ Currently this category mainly includes package managers and GUI environments.
 
 ## Mainstream Applications
 
+* 🆓📖-🪟🍎🐧 [.NET](/softwareresearch/2024/05/26/dotnet): A cross-operating-system development platform.
 * 🆓📖-🪟🍎🐧 [7-Zip](/softwareresearch/2024/04/10/7-zip): Archive compression software.
-* 🆓📖-🪟🍎🐧😈 [Alacritty](/softwareresearch/2024/03/27/alacritty):  Terminal emulator.
+* 🆓📖-🪟🍎🐧😈 [Alacritty](/softwareresearch/2024/03/27/alacritty): Terminal emulator.
 * 🆓📖-🪟🍎🐧 [Git](/softwareresearch/2024/04/09/git): Distributed version control system.
 * 🆓📖-🪟🍎🐧 [Git Large File Storage](/softwareresearch/2024/04/09/git-lfs): Git large file management expansion.
 * 🆓📖-🪟: [ImageGlass](/softwareresearch/2024/04/09/imageglass): Image viewer and gallery browser.
@@ -35,21 +36,18 @@ Currently this category mainly includes package managers and GUI environments.
 
 ### Text Editor and Development Environment Front-end
 
-Main used stand alone softwares.
+Mainly use this:
 
 * 🆓📖-🪟🍎🐧 [Visual Studio Code](/softwareresearch/2024/04/07/vs-code): GUI text editor and development environment front-end framework.
 
-#### Visual Studio Code Plugins
+#### Git Support
 
-* 🆓📖 [Black Formatter](/softwareresearch/visualstudiocode/2024/04/22/black-formatter): Python formatter, based on black.
 * 🆓📖 [Git](/softwareresearch/visualstudiocode/2024/04/16/vscode-git): Git support. It provides the ability to manipulate Git in VS Code.
 * 🆓📖 [Git Base](/softwareresearch/visualstudiocode/2024/04/16/vscode-git-base): Base for git support.
 * 🆓📖 [Git Graph](/softwareresearch/visualstudiocode/2024/04/23/git-graph): Show Git branch relations.
-* 💰📕 [GitHub Copilot](/softwareresearch/visualstudiocode/2024/04/11/github-copilot): GitHub Copilot plugin.
-* 💰📕 [GitHub Copilot Chat](/softwareresearch/visualstudiocode/2024/04/11/github-copilot-chat): GitHub Copilot chat box plugin.
-* 🆓📖 [Insert Date String](/softwareresearch/visualstudiocode/2024/04/11/insert-date-string): Insert format date string.
-* 🆓📖 [LaTeX Workshop](/softwareresearch/visualstudiocode/2024/04/08/latex-workshop): Front-end plugin for TeX-based typesetting softwares.
-* 🆓📖 [Liquid](/softwareresearch/visualstudiocode/2024/04/16/liquid): Liquid language support.
+
+#### Markdown File Support
+
 * 🆓📖 [Markdown All in One](/softwareresearch/visualstudiocode/2024/04/12/markdown-all-in-one): Shortcuts, auto-completion, table formatting etc. for Markdown editing.
 * 🆓📖 [Markdown Extended](/softwareresearch/visualstudiocode/2024/04/12/markdown-extended): More extended syntax for Markdown.
 * 🆓📖 [Markdown Language Basics](/softwareresearch/visualstudiocode/2024/04/12/vscode-markdown): Markdown syntax support.
@@ -57,16 +55,31 @@ Main used stand alone softwares.
 * 🆓📖 [Markdown Math](/softwareresearch/visualstudiocode/2024/04/12/vscode-markdown-math): Math extension to Markdown preview.
 * 🆓📖 [Markdown Preview Mermaid Support](/softwareresearch/visualstudiocode/2024/04/12/markdown-preview-mermaid): Preview for Mermaid embedded in Markdown.
 * 🆓📖 [Markdownlint](/softwareresearch/visualstudiocode/2024/04/12/markdownlint): Linter for Markdown.
-* 🆓📖 [Material Icon Theme](/softwareresearch/visualstudiocode/2024/04/12/material-icon): File icon theme.
-* 🆓📖 [Material Product Icons](/softwareresearch/visualstudiocode/2024/04/12/material-product): UI icon theme.
 * 🆓📖 [Mermaid Markdown Syntax Highlighting](/softwareresearch/visualstudiocode/2024/04/12/mermaid-markdown-syntax): Syntax highlighting for Mermaid embedded in Markdown.
-* 🆓📖 [One Dark Darker](/softwareresearch/visualstudiocode/2024/04/12/one-dark-darker): A color theme.
+
+#### PowerShell Support
+
 * 🆓📖 [PowerShell](/softwareresearch/visualstudiocode/2024/04/20/powershell-vscode): PowerShell language support for VS Code.
 * 🆓📖 [PowerShell Language Basics](/softwareresearch/visualstudiocode/2024/04/21/powershell-basic): Basic PowerShell language support.
+
+#### Python Support
+
+* 🆓📖 [Black Formatter](/softwareresearch/visualstudiocode/2024/04/22/black-formatter): Python formatter, based on black.
 * 🆓📖 [Pylance](/softwareresearch/visualstudiocode/2024/04/21/pylance): Python Intellisense serve.
 * 🆓📖 [Python](/softwareresearch/visualstudiocode/2024/04/21/python-vscode): Python language support.
 * 🆓📖 [Python Debugger](/softwareresearch/visualstudiocode/2024/04/21/python-debugger): Python debuging tool.
 * 🆓📖 [Python Language Basics](/softwareresearch/visualstudiocode/2024/04/21/python-basic): This plugin offer basic support for Python Language.
+
+#### Uncategorized Visual Studio Code Plugins
+
+* 💰📕 [GitHub Copilot](/softwareresearch/visualstudiocode/2024/04/11/github-copilot): GitHub Copilot plugin.
+* 💰📕 [GitHub Copilot Chat](/softwareresearch/visualstudiocode/2024/04/11/github-copilot-chat): GitHub Copilot chat box plugin.
+* 🆓📖 [Insert Date String](/softwareresearch/visualstudiocode/2024/04/11/insert-date-string): Insert format date string.
+* 🆓📖 [LaTeX Workshop](/softwareresearch/visualstudiocode/2024/04/08/latex-workshop): Front-end plugin for TeX-based typesetting softwares.
+* 🆓📖 [Liquid](/softwareresearch/visualstudiocode/2024/04/16/liquid): Liquid language support.
+* 🆓📖 [Material Icon Theme](/softwareresearch/visualstudiocode/2024/04/12/material-icon): File icon theme.
+* 🆓📖 [Material Product Icons](/softwareresearch/visualstudiocode/2024/04/12/material-product): UI icon theme.
+* 🆓📖 [One Dark Darker](/softwareresearch/visualstudiocode/2024/04/12/one-dark-darker): A color theme.
 
 ## Alternative Applications
 
