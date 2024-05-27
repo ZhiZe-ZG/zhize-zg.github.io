@@ -42,6 +42,15 @@ Read only:
 
 * 🆓📖 `.bib` [BibTeX](/fileformatresearch/2024/04/15/bib): A data format for recording citation sources.
 
+## Diagram Drawing
+
+* 💰📕 `.vsdx` [Visio XML Format](/fileformatresearch/2024/04/28/vsdx): A diagram file format based on XML and ZIP.
+
+Read only:
+
+* 🆓📖 `.odg` [OpenDocument Graphics](/fileformatresearch/2024/04/28/odg): A vector image and diagram file format.
+* 💰📕 `.vsd` [Microsoft Office Visio Binary File Format](/fileformatresearch/2024/04/28/vsd): A diagram file format.
+
 ## Document Typesetting Description
 
 ### Common Document Typesetting Description
@@ -192,15 +201,6 @@ Read only:
 * 🆓📖 `.woff` [WOFF](/fileformatresearch/2024/04/14/woff): Vector font file for web.
 
 ## Vector Image
-
-### Chart Drawing
-
-* 💰📕 `.vsdx` [Visio XML Format](/fileformatresearch/2024/04/28/vsdx): A diagram file format based on XML and ZIP.
-
-Read only:
-
-* 🆓📖 `.odg` [OpenDocument Graphics](/fileformatresearch/2024/04/28/odg): A vector image and diagram file format.
-* 💰📕 `.vsd` [Microsoft Office Visio Binary File Format](/fileformatresearch/2024/04/28/vsd): A diagram file format.
 
 ### Common Vector Image Format
 
