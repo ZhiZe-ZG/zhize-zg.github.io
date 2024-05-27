@@ -73,6 +73,7 @@ Mainly use this:
 * 🆓📖 [Python](/softwareresearch/visualstudiocode/2024/04/21/python-vscode): Python language support.
 * 🆓📖 [Python Debugger](/softwareresearch/visualstudiocode/2024/04/21/python-debugger): Python debuging tool.
 * 🆓📖 [Python Language Basics](/softwareresearch/visualstudiocode/2024/04/21/python-basic): This plugin offer basic support for Python Language.
+* 🆓📖 [isort](/softwareresearch/visualstudiocode/2024/05/27/isort/): Sort Python imports.
 
 #### Uncategorized Visual Studio Code Plugins
 
