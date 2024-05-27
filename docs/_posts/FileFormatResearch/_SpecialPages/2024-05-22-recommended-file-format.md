@@ -125,6 +125,17 @@ Files without extensions will be treated as plain text files by default. But the
 
 * 🆓📖 `.txt` [Plain Text File](/fileformatresearch/2024/04/07/text-file): Basic text file format.
 
+## Presentation Document
+
+Presentation documents are still documents consisting of text and images. But they can also contain audios, videos and animations.
+
+* 🆓📖 `.pptx` [Office Open XML Presentation](/fileformatresearch/2024/04/28/pptx): An interactive graphic file format.
+
+Read only:
+
+* 🆓📖 `.odp` [OpenDocument Presentation](/fileformatresearch/2024/04/28/odp): An interactive graphic file format.
+* 💰📖 `.ppt` [Microsoft Office PowerPoint Binary File Format](/fileformatresearch/2024/04/28/ppt): An interactive graphic file.
+
 ## System Shell Script
 
 Different shells are essentially different runtime environments, but are grouped together because they serve the same purpose.
@@ -202,18 +213,7 @@ Read only:
 
 ## Vector Image
 
-### Common Vector Image Format
-
 * 🆓📖 `.svg` [Scalable Vector Graphics](/fileformatresearch/2024/04/09/svg): Vector image format.
-
-### Interactive vector animation
-
-* 🆓📖 `.pptx` [Office Open XML Presentation](/fileformatresearch/2024/04/28/pptx): An interactive graphic file format.
-
-Read only:
-
-* 🆓📖 `.odp` [OpenDocument Presentation](/fileformatresearch/2024/04/28/odp): An interactive graphic file format.
-* 💰📖 `.ppt` [Microsoft Office PowerPoint Binary File Format](/fileformatresearch/2024/04/28/ppt): An interactive graphic file.
 
 ## Video Container
 
