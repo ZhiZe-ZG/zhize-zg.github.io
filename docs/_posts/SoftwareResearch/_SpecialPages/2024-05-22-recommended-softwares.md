@@ -95,7 +95,9 @@ Mainly use this:
 ## For Fun
 
 * 🆓📖-🪟🍎🐧😈 [GNU Emacs](/softwareresearch/2024/04/07/emacs): A complex system disguised as a text editor.
+* 💰📕-🪟 [Age of Empires: Definitive Edition](/softwareresearch/2024/04/28/aoe): A historical RTS game.
 * 💰📕-🪟 [Age of Empires II: Definitive Edition](/softwareresearch/2024/04/28/aoe2): A historical RTS game.
+  * 💰📕 [Return of Rome](/softwareresearch/ageofempires2de/2024/05/29/return-of-rome): An AoE1 remake in AoE2.
   * 🆓📖 [Return Of Rome Main Menu](/softwareresearch/ageofempires2de/2024/05/26/ror-main-menu): A Return of Rome theme main menu wall paper.
   * 🆓📖 [Small Trees](/softwareresearch/ageofempires2de/2024/05/26/small-trees): Show trees smaller.
   * 🆓📖 [Zetnus Improved Grid Mod](/softwareresearch/ageofempires2de/2024/05/26/zetnus-improved-grid-mod): Show map grid.

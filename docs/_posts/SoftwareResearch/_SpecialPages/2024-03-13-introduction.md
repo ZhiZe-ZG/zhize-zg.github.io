@@ -35,6 +35,10 @@ Software that is not used directly used by human and is simply a dependency of o
 
 But the libraries called in the programming environment need to be recorded. Because calling them is equivalent to using them directly.
 
+## About Game DLCs and Mods
+
+Game DLC and Mods are managed by add-on packs for the game. But a mere game track is essentially a record sale, and it doesn't fall into this category. In addition, merely selling virtual items without altering the game's data also does not count.
+
 ## Symbols and Tags
 
 Here are descriptions of the symbols I'll use in the articles:
