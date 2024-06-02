@@ -40,7 +40,7 @@ Mainly use this:
 
 * 🆓📖-🪟🍎🐧 [Visual Studio Code](/softwareresearch/2024/04/07/vs-code): GUI text editor and development environment front-end framework.
 
-#### .NET
+#### .NET Support
 
 * 🆓📖 [C# Language Basics](/softwareresearch/visualstudiocode/2024/05/26/cs-language-basics): Basic C# language support.
 * 🆓📖 [F# Language Basics](/softwareresearch/visualstudiocode/2024/06/03/fs-language-basics): Basic F# language support.
@@ -77,16 +77,22 @@ Mainly use this:
 * 🆓📖 [Python Language Basics](/softwareresearch/visualstudiocode/2024/04/21/python-basic): This plugin offer basic support for Python Language.
 * 🆓📖 [isort](/softwareresearch/visualstudiocode/2024/05/27/isort/): Sort Python imports.
 
+#### TeX Support
+
+* 🆓📖 [LaTeX Workshop](/softwareresearch/visualstudiocode/2024/04/08/latex-workshop): Front-end plugin for TeX-based typesetting softwares.
+
+#### Themes
+
+* 🆓📖 [Material Icon Theme](/softwareresearch/visualstudiocode/2024/04/12/material-icon): File icon theme.
+* 🆓📖 [Material Product Icons](/softwareresearch/visualstudiocode/2024/04/12/material-product): UI icon theme.
+* 🆓📖 [One Dark Darker](/softwareresearch/visualstudiocode/2024/04/12/one-dark-darker): A color theme.
+
 #### Uncategorized Visual Studio Code Plugins
 
 * 💰📕 [GitHub Copilot](/softwareresearch/visualstudiocode/2024/04/11/github-copilot): GitHub Copilot plugin.
 * 💰📕 [GitHub Copilot Chat](/softwareresearch/visualstudiocode/2024/04/11/github-copilot-chat): GitHub Copilot chat box plugin.
 * 🆓📖 [Insert Date String](/softwareresearch/visualstudiocode/2024/04/11/insert-date-string): Insert format date string.
-* 🆓📖 [LaTeX Workshop](/softwareresearch/visualstudiocode/2024/04/08/latex-workshop): Front-end plugin for TeX-based typesetting softwares.
 * 🆓📖 [Liquid](/softwareresearch/visualstudiocode/2024/04/16/liquid): Liquid language support.
-* 🆓📖 [Material Icon Theme](/softwareresearch/visualstudiocode/2024/04/12/material-icon): File icon theme.
-* 🆓📖 [Material Product Icons](/softwareresearch/visualstudiocode/2024/04/12/material-product): UI icon theme.
-* 🆓📖 [One Dark Darker](/softwareresearch/visualstudiocode/2024/04/12/one-dark-darker): A color theme.
 
 ## Alternative Applications
 
