@@ -40,9 +40,11 @@ Mainly use this:
 
 * 🆓📖-🪟🍎🐧 [Visual Studio Code](/softwareresearch/2024/04/07/vs-code): GUI text editor and development environment front-end framework.
 
-#### .NET and C\#
+#### .NET
 
 * 🆓📖 [C# Language Basics](/softwareresearch/visualstudiocode/2024/05/26/cs-language-basics): Basic C# language support.
+* 🆓📖 [F# Language Basics](/softwareresearch/visualstudiocode/2024/06/03/fs-language-basics): Basic F# language support.
+* 🆓📖 [Visual Basic Language Basics](/softwareresearch/visualstudiocode/2024/06/03/vb-language-basics): Basic Visual Basic language support.
 
 #### Git Support
 
