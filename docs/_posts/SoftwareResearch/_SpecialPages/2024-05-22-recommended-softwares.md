@@ -46,6 +46,10 @@ Mainly use this:
 * 🆓📖 [F# Language Basics](/softwareresearch/visualstudiocode/2024/06/03/fs-language-basics): Basic F# language support.
 * 🆓📖 [Visual Basic Language Basics](/softwareresearch/visualstudiocode/2024/06/03/vb-language-basics): Basic Visual Basic language support.
 
+#### Bash Support
+
+* 🆓📖 [Shell Language Basics](/softwareresearch/visualstudiocode/2024/06/03/shell-language-basics): Basic Bash (and other Unix shell) language support.
+
 #### C and C++ Support
 
 * 🆓📖 [C/C++ Language Basics](/softwareresearch/visualstudiocode/2024/06/03/ccpp-language-basics): Basic C and C++ language support.
