@@ -81,6 +81,10 @@ Mainly use this:
 * 🆓📖 [Python Language Basics](/softwareresearch/visualstudiocode/2024/04/21/python-basic): This plugin offer basic support for Python Language.
 * 🆓📖 [isort](/softwareresearch/visualstudiocode/2024/05/27/isort/): Sort Python imports.
 
+#### Rust
+
+* 🆓📖 [Rust Language Basics](/softwareresearch/visualstudiocode/2024/06/03/rust-language-basics): Basic Rust language support.
+
 #### TeX Support
 
 * 🆓📖 [LaTeX Workshop](/softwareresearch/visualstudiocode/2024/04/08/latex-workshop): Front-end plugin for TeX-based typesetting softwares.
