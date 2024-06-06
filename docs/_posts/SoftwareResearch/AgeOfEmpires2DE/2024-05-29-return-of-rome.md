@@ -13,7 +13,8 @@ Openness: 🆓📖
 
 Related Sites:
 
-* [Return of Rome](https://store.steampowered.com/app/2141580/Age_of_Empires_II_Definitive_Edition__Return_of_Rome/?curator_clanid=35210618)
+* [MobyGames: Age of Empires II: Definitive Edition](https://www.mobygames.com/game/203175/age-of-empires-ii-definitive-edition-return-of-rome/)
+* [Steam: Return of Rome](https://store.steampowered.com/app/2141580/Age_of_Empires_II_Definitive_Edition__Return_of_Rome/?curator_clanid=35210618)
 
 ## Introduction
 

@@ -125,6 +125,7 @@ Mainly use this:
   * 🆓📖 [Small Trees](/softwareresearch/ageofempires2de/2024/05/26/small-trees): Show trees smaller.
   * 🆓📖 [Zetnus Improved Grid Mod](/softwareresearch/ageofempires2de/2024/05/26/zetnus-improved-grid-mod): Show map grid.
 * 💰📕-🪟 [Age of Empires III: Definitive Edition](/softwareresearch/2024/06/05/aoe3): A historical RTS game.
+* 💰📕-🪟 [Age of Empires IV](/softwareresearch/2024/06/06/aoe4): A historical RTS game.
 
 Not recommended:
 
