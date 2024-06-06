@@ -133,3 +133,4 @@ Not recommended:
 
 ### XCOM
 
+* 💰📕-🪟 [XCOM Chimera Squad](/softwareresearch/2024/06/06/xcom-chimera-squad): A sci-fi alien war chess game.
