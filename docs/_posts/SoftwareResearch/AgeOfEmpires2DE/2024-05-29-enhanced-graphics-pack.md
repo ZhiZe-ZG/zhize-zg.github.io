@@ -13,8 +13,13 @@ Openness: 🆓📖
 
 Related Sites:
 
-* [Enhanced Graphics Pack](https://store.steampowered.com/app/1039811/Enhanced_Graphics_Pack/)
+* [MobyGames: Age of Empires: Definitive Edition - Enhanced Graphics Pack](https://www.mobygames.com/game/137296/age-of-empires-ii-definitive-edition-enhanced-graphics-pack/)
+* [Steam: Enhanced Graphics Pack](https://store.steampowered.com/app/1039811/Enhanced_Graphics_Pack/)
 
 ## Introduction
 
 Replace the game graphics with high resolution graphics.
+
+Follow the guide to enable this DLC or check if it is enabled:
+
+* [How do I download and enable the Enhanced Graphics Pack DLC?](https://support.ageofempires.com/hc/en-us/articles/360047305452-How-do-I-download-and-enable-the-Enhanced-Graphics-Pack-DLC)

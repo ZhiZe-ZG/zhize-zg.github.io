@@ -129,3 +129,6 @@ Mainly use this:
 Not recommended:
 
 * 💰📕-🪟 [Age of Empires: Definitive Edition](/softwareresearch/2024/04/28/aoe): A historical RTS game.
+
+### XCOM
+
