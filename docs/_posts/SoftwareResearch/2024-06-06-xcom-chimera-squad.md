@@ -18,6 +18,7 @@ Related Sites:
 * [MobyGames: XCOM Chimera Squad](https://www.mobygames.com/game/144869/xcom-chimera-squad/)
 * [Steam: XCOM Chimera Squad](https://store.steampowered.com/app/882100/XCOM_Chimera_Squad/)
 * [XCOM Chimera Squad](https://www.xcom.com/chimera-squad/)
+* [XCOM Wiki](https://xcom.fandom.com/wiki/XCOM_Wiki)
 
 ## Introduction
 
