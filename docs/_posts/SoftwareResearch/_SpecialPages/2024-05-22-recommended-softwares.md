@@ -138,4 +138,7 @@ Not recommended:
 ### Diablo
 
 * 🆓📖-🪟🍎🐧 [DevilutionX](/softwareresearch/2024/06/16/devilutionx/): Diablo build for modern operating systems.
+
+Not recommended:
+
 * 💰📕-🪟 [Diablo + Hellfire](/softwareresearch/2024/06/16/diablo/): The origin of diablo-like games.
