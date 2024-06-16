@@ -18,6 +18,7 @@ Related Sites:
 * [GitHub: DevilutionX](https://github.com/diasurgical/devilutionX)
 * [GOG: Diablo + Hellfire](https://www.gog.com/game/diablo)
 * [Jarulf's Guide to Diablo and Hellfire](http://www.bigd-online.com/JG/JGFrame.html)
+* [Diablo Hellfire Tomb of Knowledge](http://www.ladyofthecake.com/diablo/index.html)
 
 ## Introduction
 
