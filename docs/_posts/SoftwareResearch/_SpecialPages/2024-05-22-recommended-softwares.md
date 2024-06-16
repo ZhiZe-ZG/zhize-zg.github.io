@@ -134,3 +134,7 @@ Not recommended:
 ### XCOM
 
 * 💰📕-🪟 [XCOM Chimera Squad](/softwareresearch/2024/06/06/xcom-chimera-squad): A sci-fi alien war chess game.
+
+### Diablo
+
+* 💰📕-🪟 [Diablo + Hellfire](/softwareresearch/2024/06/16/diablo/): The origin of diablo-like games.
