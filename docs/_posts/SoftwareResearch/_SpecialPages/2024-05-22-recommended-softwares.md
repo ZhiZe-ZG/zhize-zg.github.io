@@ -131,10 +131,6 @@ Not recommended:
 
 * 💰📕-🪟 [Age of Empires: Definitive Edition](/softwareresearch/2024/04/28/aoe): A historical RTS game.
 
-### XCOM
-
-* 💰📕-🪟 [XCOM Chimera Squad](/softwareresearch/2024/06/06/xcom-chimera-squad): A sci-fi alien war chess game.
-
 ### Diablo
 
 * 🆓📖-🪟🍎🐧 [DevilutionX](/softwareresearch/2024/06/16/devilutionx/): Diablo build for modern operating systems.
@@ -143,3 +139,11 @@ Not recommended:
 Not recommended:
 
 * 💰📕-🪟 [Diablo + Hellfire](/softwareresearch/2024/06/16/diablo/): The origin of diablo-like games.
+
+### Stardew Valley
+
+* 💰📕-🪟🍎🐧 [Stardew Valley](/softwareresearch/2024/06/17/stardew-valley/): A farm game.
+
+### XCOM
+
+* 💰📕-🪟 [XCOM Chimera Squad](/softwareresearch/2024/06/06/xcom-chimera-squad): A sci-fi alien war chess game.
