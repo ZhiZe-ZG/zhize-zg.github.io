@@ -134,14 +134,12 @@ Not recommended:
 ### Diablo
 
 * 🆓📖-🪟🍎🐧 [DevilutionX](/softwareresearch/2024/06/16/devilutionx/): Diablo build for modern operating systems.
-* 💰📕-🪟 [Last Epoch](/softwareresearch/2024/06/16/last-epoch/): A good diablo-like game.
-
-Not recommended:
-
 * 💰📕-🪟 [Diablo + Hellfire](/softwareresearch/2024/06/16/diablo/): The origin of diablo-like games.
+* 💰📕-🪟 [Last Epoch](/softwareresearch/2024/06/16/last-epoch/): A good diablo-like game.
 
 ### Stardew Valley
 
+* 🆓📖-🪟🍎🐧 [SMAPI](/softwareresearch/2024/06/18/smapi/): A modding framework for Stardew Valley.
 * 💰📕-🪟🍎🐧 [Stardew Valley](/softwareresearch/2024/06/17/stardew-valley/): A farm game.
 
 ### XCOM
