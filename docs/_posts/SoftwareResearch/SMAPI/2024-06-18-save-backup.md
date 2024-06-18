@@ -18,3 +18,5 @@ Related Sites:
 ## Introduction
 
 Auto backup the saves of Stardew Valley.
+
+This mod comes with SMAPI.

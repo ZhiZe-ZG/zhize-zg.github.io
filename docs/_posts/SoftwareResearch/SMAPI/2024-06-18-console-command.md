@@ -18,3 +18,5 @@ Related Sites:
 ## Introduction
 
 Offer console commands for SMAPI console.
+
+This mod comes with SMAPI.
