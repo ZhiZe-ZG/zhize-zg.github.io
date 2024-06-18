@@ -141,6 +141,7 @@ Not recommended:
 
 * 🆓📖-🪟🍎🐧 [SMAPI](/softwareresearch/2024/06/18/smapi/): A modding framework for Stardew Valley.
 * 💰📕-🪟🍎🐧 [Stardew Valley](/softwareresearch/2024/06/17/stardew-valley/): A farm game.
+* 🆓📖-🪟🍎🐧 [Stardew Valley Mod Manager](/softwareresearch/2024/06/18/stardew-valley-mod-manager/): A mod manager for Stardew Valley.
 
 ### XCOM
 
