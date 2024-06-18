@@ -143,6 +143,7 @@ Not recommended:
   * 🆓📖 [ConsoleCommands](/softwareresearch/smapi/2024/06/18/console-command/): Offer console commands for SMAPI console.
   * 🆓📖 [GenericModConfigMenu](/softwareresearch/smapi/2024/06/18/generic-mod-config-menu/): Add menus for mods to config.
   * 🆓📖 [SaveBackup](/softwareresearch/smapi/2024/06/18/save-backup/): Auto backup the saves of Stardew Valley.
+  * 🆓📖 [UIInfoSuite2](/softwareresearch/smapi/2024/06/18/ui-info-suite2/): Provide more informations on UI.
 * 💰📕-🪟🍎🐧 [Stardew Valley](/softwareresearch/2024/06/17/stardew-valley/): A farm game.
 * 🆓📖-🪟🍎🐧 [Stardew Valley Mod Manager](/softwareresearch/2024/06/18/stardew-valley-mod-manager/): A mod manager for Stardew Valley.
 
