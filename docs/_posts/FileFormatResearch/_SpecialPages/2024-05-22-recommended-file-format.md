@@ -181,7 +181,7 @@ Read only:
 Although these file formats can theoretically replace each other, their different syntax designs cause them to have different adaptability to different scenarios. Generally, one or more of them are selected according to the needs or framework requirements. So there are multiple alternatives juxtaposed.
 
 * 🆓📖 `.json` [JavaScript Object Notation](/fileformatresearch/2024/04/21/json): A lightweight data markup language.
-* 🆓📖 `.toml` [Tom's Obvious Minimal Language](/fileformatresearch/2024/04/21/toml): A simple config file format.
+* 🆓📖 `.toml` [Tom's Obvious Minimal Language](/formallanguageresearch/2024/04/21/toml): A simple config file format.
 * 🆓📖 `.xml` [Extensible Markup Language](/fileformatresearch/2024/04/09/xml): A common data representation format.
 * 🆓📖 `.yml` [YAML](/fileformatresearch/2024/04/19/yaml): An easy-to-read data file format.
 
