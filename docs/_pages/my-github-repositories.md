@@ -56,6 +56,7 @@ These are projects that I care about and love very much. I feel honored that my 
 
 These projects are created in the early years and have been completed. While I think they are still inperfect I have no intention of continuing to update or improve them at this time.
 
+* [TXBashLesson](https://github.com/ZhiZe-ZG/TXBashLesson)
 * [TXBNFLesson](https://github.com/ZhiZe-ZG/TXBNFLesson)
 * [TXLuaLesson](https://github.com/ZhiZe-ZG/TXLuaLesson)
 * [UMLLesson](https://github.com/ZhiZe-ZG/UMLLesson)
