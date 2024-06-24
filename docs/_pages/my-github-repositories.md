@@ -59,4 +59,5 @@ These projects are created in the early years and have been completed. While I t
 * [TXBashLesson](https://github.com/ZhiZe-ZG/TXBashLesson)
 * [TXBNFLesson](https://github.com/ZhiZe-ZG/TXBNFLesson)
 * [TXLuaLesson](https://github.com/ZhiZe-ZG/TXLuaLesson)
+* [TXMathBase](https://github.com/ZhiZe-ZG/TXMathBase)
 * [UMLLesson](https://github.com/ZhiZe-ZG/UMLLesson)
