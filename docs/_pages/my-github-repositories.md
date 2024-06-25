@@ -41,6 +41,7 @@ These projects are created in the early years and have been completed. While I t
 
 These are codes written for personal needs. They may not necessarily have universal applicability, but being open sourced may happen to help some people who have similar needs to mine.
 
+* [devilutionX-ZZMod](https://github.com/ZhiZe-ZG/devilutionX-ZZMod)
 * [FFmpegCompressionScript](https://github.com/ZhiZe-ZG/FFmpegCompressionScript)
 * [Game2048](https://github.com/ZhiZe-ZG/Game2048)
 * [GitMirrorManagement](https://github.com/ZhiZe-ZG/GitMirrorManagement)
