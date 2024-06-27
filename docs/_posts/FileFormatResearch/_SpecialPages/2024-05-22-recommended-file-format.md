@@ -224,6 +224,7 @@ Read only:
 
 * 🆓📖 `.mkv` [Matroska Video](/fileformatresearch/2024/05/05/mkv): Matroska video. Used to encapsulate complex audiovisual files.
 * 🆓📖 `.mp4` [MP4](/fileformatresearch/2024/05/05/mp4): A common audio and video container formats. Used to encapsulate relatively simple audio and video streams.
+* 🆓📖 `.ogg` [Ogg](/fileformatresearch/2024/06/28/ogg): An open source multimedia container. It's also usually used as an audio format.
 
 Read only:
 
