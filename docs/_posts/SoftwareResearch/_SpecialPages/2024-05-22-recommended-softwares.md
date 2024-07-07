@@ -135,6 +135,7 @@ Not recommended:
 
 * 🆓📖-🪟🍎🐧 [DevilutionX](/softwareresearch/2024/06/16/devilutionx/): Diablo build for modern operating systems.
 * 💰📕-🪟 [Diablo + Hellfire](/softwareresearch/2024/06/16/diablo/): The origin of diablo-like games.
+* 💰📕-🪟 [Diablo II: Battle Chest](/softwareresearch/2024/07/07/diablo2/): A famous diablo-like games.
 * 💰📕-🪟 [Last Epoch](/softwareresearch/2024/06/16/last-epoch/): A good diablo-like game.
 
 ### Stardew Valley
