@@ -138,6 +138,11 @@ Not recommended:
 * 💰📕-🪟 [Diablo II: Battle Chest](/softwareresearch/2024/07/07/diablo2/): A famous diablo-like games.
 * 💰📕-🪟 [Last Epoch](/softwareresearch/2024/06/16/last-epoch/): A good diablo-like game.
 
+### Rogue
+
+* 🆓📖-🪟🐧 [Rogue](/softwareresearch/2024/07/08/rogue/): A dungeon crawler game. It's the begin of rogue-like games.
+* 💰📕-🪟 [Rogue (Epyx DOS Edition)](/softwareresearch/2024/07/08/rogue-epyx/): This is a DOS port of Rogue.
+
 ### Stardew Valley
 
 * 🆓📖-🪟🍎🐧 [SMAPI](/softwareresearch/2024/06/18/smapi/): A modding framework for Stardew Valley.
