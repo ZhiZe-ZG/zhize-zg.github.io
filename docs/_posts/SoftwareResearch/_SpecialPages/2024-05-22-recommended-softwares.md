@@ -143,6 +143,7 @@ Not recommended:
 * 🆓📖-🪟🐧 [Rogue](/softwareresearch/2024/07/08/rogue/): A dungeon crawler game. It's the begin of rogue-like games.
 * 💰📕-🪟 [Rogue (Epyx DOS Edition)](/softwareresearch/2024/07/08/rogue-epyx/): This is a DOS port of Rogue.
 * 🆓📖-🪟🍎🐧 [Moria](/softwareresearch/2024/07/09/moria/): The first rogue-like game with a town level.
+* 🆓📖-🐧 [Hack](/softwareresearch/2024/07/09/hack/): The first rogue-like game with a pet dog.
 
 ### Stardew Valley
 
