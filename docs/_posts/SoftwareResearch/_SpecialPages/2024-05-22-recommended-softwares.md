@@ -145,6 +145,7 @@ Not recommended:
 * 🆓📖-🪟🍎🐧 [Moria](/softwareresearch/2024/07/09/moria/): The first rogue-like game with a town level.
 * 🆓📖-🐧 [Hack](/softwareresearch/2024/07/09/hack/): The first rogue-like game with a pet dog.
 * 🆓📖-🐧 [Larn](/softwareresearch/2024/07/10/larn/): The first roguelike with a time limit and multi dungeons.
+* 🆓📖-🐧 [Omega](/softwareresearch/2024/07/10/omega/): A roguelike game that plays more like a DND RPG. You can't just hack and slash at the begin.
 
 ### Stardew Valley
 
