@@ -144,6 +144,7 @@ Not recommended:
 * 💰📕-🪟 [Rogue (Epyx DOS Edition)](/softwareresearch/2024/07/08/rogue-epyx/): This is a DOS port of Rogue.
 * 🆓📖-🪟🍎🐧 [Moria](/softwareresearch/2024/07/09/moria/): The first rogue-like game with a town level.
 * 🆓📖-🐧 [Hack](/softwareresearch/2024/07/09/hack/): The first rogue-like game with a pet dog.
+* 🆓📖-🐧 [Larn](/softwareresearch/2024/07/10/larn/): The first roguelike with a time limit and multi dungeons.
 
 ### Stardew Valley
 
