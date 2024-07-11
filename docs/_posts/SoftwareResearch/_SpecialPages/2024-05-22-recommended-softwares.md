@@ -119,8 +119,6 @@ Mainly use this:
 ### Age of Empires
 
 * 💰📕-🪟 [Age of Empires II: Definitive Edition](/softwareresearch/2024/04/28/aoe2): A historical RTS game.
-  * 💰📕 [Enhanced Graphics Pack](/softwareresearch/ageofempires2de/2024/05/29/enhanced-graphics-pack): Replace the game graphics with high resolution graphics.
-  * 💰📕 [Return of Rome](/softwareresearch/ageofempires2de/2024/05/29/return-of-rome): An AoE1 remake in AoE2.
   * 🆓📖 [Return Of Rome Main Menu](/softwareresearch/ageofempires2de/2024/05/26/ror-main-menu): A Return of Rome theme main menu wall paper.
   * 🆓📖 [Small Trees](/softwareresearch/ageofempires2de/2024/05/26/small-trees): Show trees smaller.
   * 🆓📖 [Zetnus Improved Grid Mod](/softwareresearch/ageofempires2de/2024/05/26/zetnus-improved-grid-mod): Show map grid.
@@ -134,9 +132,12 @@ Not recommended:
 ### Diablo
 
 * 🆓📖-🪟🍎🐧 [DevilutionX](/softwareresearch/2024/06/16/devilutionx/): Diablo build for modern operating systems.
-* 💰📕-🪟 [Diablo + Hellfire](/softwareresearch/2024/06/16/diablo/): The origin of diablo-like games.
 * 💰📕-🪟 [Diablo II: Battle Chest](/softwareresearch/2024/07/07/diablo2/): A famous diablo-like games.
 * 💰📕-🪟 [Last Epoch](/softwareresearch/2024/06/16/last-epoch/): A good diablo-like game.
+
+Not recommended:
+
+* 💰📕-🪟 [Diablo + Hellfire](/softwareresearch/2024/06/16/diablo/): The origin of diablo-like games.
 
 ### Rimworld
 
