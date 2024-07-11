@@ -138,6 +138,10 @@ Not recommended:
 * 💰📕-🪟 [Diablo II: Battle Chest](/softwareresearch/2024/07/07/diablo2/): A famous diablo-like games.
 * 💰📕-🪟 [Last Epoch](/softwareresearch/2024/06/16/last-epoch/): A good diablo-like game.
 
+### Rimworld
+
+* 💰📕-🪟🍎🐧 [RimWorld](/softwareresearch/2024/07/11/rimworld/): A colony management game.
+
 ### Rogue
 
 * 🆓📖-🪟🐧 [Rogue](/softwareresearch/2024/07/08/rogue/): A dungeon crawler game. It's the begin of rogue-like games.
