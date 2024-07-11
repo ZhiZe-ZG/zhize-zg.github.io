@@ -146,6 +146,7 @@ Not recommended:
 ### Rogue-like
 
 * 🆓📖-🪟🍎🐧 [NetHack](/softwareresearch/2024/07/11/nethack/): A dungeon crawler game, the successor of Hack.
+* 🆓📕-🪟🍎🐧 [Pathos: Nethack Codex](/softwareresearch/2024/07/11/pathos/): A modern rogue-like dungeon crawler game.
 
 Not recommended:
 
