@@ -143,7 +143,11 @@ Not recommended:
 
 * 💰📕-🪟🍎🐧 [RimWorld](/softwareresearch/2024/07/11/rimworld/): A colony management game.
 
-### Rogue
+### Rogue-like
+
+* 🆓📖-🪟🍎🐧 [NetHack](/softwareresearch/2024/07/11/nethack/): A dungeon crawler game, the successor of Hack.
+
+Not recommended:
 
 * 🆓📖-🪟🐧 [Rogue](/softwareresearch/2024/07/08/rogue/): A dungeon crawler game. It's the begin of rogue-like games.
 * 💰📕-🪟 [Rogue (Epyx DOS Edition)](/softwareresearch/2024/07/08/rogue-epyx/): This is a DOS port of Rogue.
