@@ -146,10 +146,11 @@ Not recommended:
 ### Rogue-like
 
 * 🆓📖-🪟🍎🐧 [NetHack](/softwareresearch/2024/07/11/nethack/): A dungeon crawler game, the successor of Hack.
-* 🆓📕-🪟🍎🐧 [Pathos: Nethack Codex](/softwareresearch/2024/07/11/pathos/): A modern rogue-like dungeon crawler game.
+* 🆓📕-🪟🍎🐧🍏🤖 [Pathos: Nethack Codex](/softwareresearch/2024/07/11/pathos/): A modern rogue-like dungeon crawler game.
 
 Not recommended:
 
+* 🆓📕-🍏 [1-Bit Rogue: A Dungeon crawler RPG](/2024/07/13/1-bit-rogue/): A very simple rogue-like game, somewhat even not that rogue-like.
 * 🆓📖-🪟🐧 [Rogue](/softwareresearch/2024/07/08/rogue/): A dungeon crawler game. It's the begin of rogue-like games.
 * 💰📕-🪟 [Rogue (Epyx DOS Edition)](/softwareresearch/2024/07/08/rogue-epyx/): This is a DOS port of Rogue.
 * 🆓📖-🪟🍎🐧 [Moria](/softwareresearch/2024/07/09/moria/): The first rogue-like game with a town level.
