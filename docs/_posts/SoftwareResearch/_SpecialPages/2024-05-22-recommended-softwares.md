@@ -129,7 +129,7 @@ Not recommended:
 
 * 💰📕-🪟 [Age of Empires: Definitive Edition](/softwareresearch/2024/04/28/aoe): A historical RTS game.
 
-### Diablo
+### Diablo-like
 
 * 🆓📖-🪟🍎🐧 [DevilutionX](/softwareresearch/2024/06/16/devilutionx/): Diablo build for modern operating systems.
 * 💰📕-🪟 [Diablo II: Battle Chest](/softwareresearch/2024/07/07/diablo2/): A famous diablo-like games.
