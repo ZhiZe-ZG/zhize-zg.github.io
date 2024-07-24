@@ -136,6 +136,10 @@ Not recommended:
 
 * 💰📕-🪟 [Age of Empires: Definitive Edition](/softwareresearch/2024/04/28/aoe): A historical RTS game.
 
+### Bejeweled-like
+
+### BioShock-like
+
 ### Diablo-like
 
 * 🆓📖-🪟🍎🐧 [DevilutionX](/softwareresearch/2024/06/16/devilutionx/): Diablo build for modern operating systems.
@@ -146,9 +150,13 @@ Not recommended:
 
 * 💰📕-🪟 [Diablo + Hellfire](/softwareresearch/2024/06/16/diablo/): The origin of diablo-like games.
 
+### Dwarf-Fortress-like
+
 ### Half-Life-like
 
 * 💰📕-🪟 [Call of Duty 4: Modern Warfare](/softwareresearch/2024/07/24/cod4-mw): A modern military theme FPS game with cinematic experience.
+
+### Minecraft-like
 
 ### Rimworld
 
