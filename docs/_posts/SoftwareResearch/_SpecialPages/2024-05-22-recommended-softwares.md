@@ -116,6 +116,11 @@ Mainly use this:
 
 * 🆓📖-🪟🍎🐧😈 [GNU Emacs](/softwareresearch/2024/04/07/emacs): A complex system disguised as a text editor.
 
+### Irreplaceable Works
+
+* 💰📕-🪟 [Call of Duty 4: Modern Warfare](/softwareresearch/2024/07/24/cod4-mw): A modern military theme FPS game with cinematic experience.
+* 💰📕-🪟🍎🍏🤖[Gorogoa](/softwareresearch/2024/07/24/gorogoa): A jigsaw puzzle game that cleverly uses optical illusions. Its graphics are quite artistic.
+
 ### Age of Empires
 
 * 💰📕-🪟 [Age of Empires II: Definitive Edition](/softwareresearch/2024/04/28/aoe2): A historical RTS game.
