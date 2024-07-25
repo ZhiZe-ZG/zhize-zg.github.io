@@ -153,6 +153,8 @@ Not recommended:
 
 ### Dwarf-Fortress-like
 
+* 💰📕-🪟🍎🐧 [RimWorld](/softwareresearch/2024/07/11/rimworld/): A colony management game.
+
 ### Half-Life-like
 
 * 💰📕-🪟 [Call of Duty: Modern Warfare (2007)](/softwareresearch/2024/07/24/cod4-mw): A modern military theme FPS game with cinematic experience.
@@ -160,10 +162,6 @@ Not recommended:
 * 💰📕-🪟 [Call of Duty: Modern Warfare 3 (2011)](/softwareresearch/2024/07/26/cod8-mw3): A modern military theme FPS game with cinematic experience.
 
 ### Minecraft-like
-
-### Rimworld
-
-* 💰📕-🪟🍎🐧 [RimWorld](/softwareresearch/2024/07/11/rimworld/): A colony management game.
 
 ### Rogue-like
 
