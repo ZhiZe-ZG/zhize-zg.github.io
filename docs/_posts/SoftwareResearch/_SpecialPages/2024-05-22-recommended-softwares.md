@@ -121,7 +121,7 @@ Mainly use this:
 This category focuses more on the game's plot, graphics, music, and level design etc., while other categories focus on mechanics.
 
 * 💰📕-🪟 [Call of Duty 4: Modern Warfare](/softwareresearch/2024/07/24/cod4-mw): A modern military theme FPS game with cinematic experience.
-* 💰📕-🪟 [Call of Duty: Modern Warfare 2](/softwareresearch/2024/07/25/cod5-mw2): A modern military theme FPS game with cinematic experience.
+* 💰📕-🪟 [Call of Duty: Modern Warfare 2](/softwareresearch/2024/07/25/cod6-mw2): A modern military theme FPS game with cinematic experience.
 * 💰📕-🪟🍎🍏🤖[Gorogoa](/softwareresearch/2024/07/24/gorogoa): A jigsaw puzzle game that cleverly uses optical illusions. Its graphics are quite artistic.
 
 ### Age of Empires
@@ -155,8 +155,9 @@ Not recommended:
 
 ### Half-Life-like
 
-* 💰📕-🪟 [Call of Duty 4: Modern Warfare](/softwareresearch/2024/07/24/cod4-mw): A modern military theme FPS game with cinematic experience.
-* 💰📕-🪟 [Call of Duty: Modern Warfare 2](/softwareresearch/2024/07/25/cod5-mw2): A modern military theme FPS game with cinematic experience.
+* 💰📕-🪟 [Call of Duty: Modern Warfare (2007)](/softwareresearch/2024/07/24/cod4-mw): A modern military theme FPS game with cinematic experience.
+* 💰📕-🪟 [Call of Duty: Modern Warfare 2 (2009)](/softwareresearch/2024/07/25/cod6-mw2): A modern military theme FPS game with cinematic experience.
+* 💰📕-🪟 [Call of Duty: Modern Warfare 3 (2011)](/softwareresearch/2024/07/26/cod8-mw3): A modern military theme FPS game with cinematic experience.
 
 ### Minecraft-like
 
