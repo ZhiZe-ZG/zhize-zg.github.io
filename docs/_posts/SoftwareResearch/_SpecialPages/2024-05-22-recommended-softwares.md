@@ -144,12 +144,12 @@ Not recommended:
 ### Diablo-like
 
 * 🆓📖-🪟🍎🐧 [DevilutionX](/softwareresearch/2024/06/16/devilutionx/): Diablo build for modern operating systems.
-* 💰📕-🪟 [Diablo II: Battle Chest](/softwareresearch/2024/07/07/diablo2/): A famous diablo-like games.
+* 💰📕-🪟 [Diablo II](/softwareresearch/2024/07/07/diablo2/): A famous diablo-like games.
 * 💰📕-🪟 [Last Epoch](/softwareresearch/2024/06/16/last-epoch/): A good diablo-like game.
 
 Not recommended:
 
-* 💰📕-🪟 [Diablo + Hellfire](/softwareresearch/2024/06/16/diablo/): The origin of diablo-like games.
+* 💰📕-🪟 [Diablo](/softwareresearch/2024/06/16/diablo/): The origin of diablo-like games.
 
 ### Dwarf-Fortress-like
 
