@@ -12,8 +12,13 @@ header:
 
 Currently this category mainly includes package managers and GUI environments.
 
+### Python Environment Management
+
 * 🆓📖-🪟🍎🐧 [Conda](/softwareresearch/2024/04/21/conda): Development environment manager.
   * 🆓📖 [Conda-Pack](/softwareresearch/conda/2024/04/21/conda-pack): Archive Conda environment.
+
+### Windows Package Management
+
 * 🆓📖-🪟 [WinGet](/softwareresearch/2024/03/27/winget): Windows application softwares manager.
 
 ## Mainstream Applications
