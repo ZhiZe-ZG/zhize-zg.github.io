@@ -8,6 +8,12 @@ header:
   teaser: https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png
 ---
 
+## Uncategorized Visual Studio Code Plugins
+
+* 💰📕 [GitHub Copilot](/softwareresearch/visualstudiocode/2024/04/11/github-copilot): GitHub Copilot plugin.
+* 💰📕 [GitHub Copilot Chat](/softwareresearch/visualstudiocode/2024/04/11/github-copilot-chat): GitHub Copilot chat box plugin.
+* 🆓📖 [Insert Date String](/softwareresearch/visualstudiocode/2024/04/11/insert-date-string): Insert format date string.
+
 ## .NET Support
 
 * 🆓📖 [C# Language Basics](/softwareresearch/visualstudiocode/2024/05/26/cs-language-basics): Basic C# language support.
@@ -28,7 +34,12 @@ header:
 * 🆓📖 [Git Base](/softwareresearch/visualstudiocode/2024/04/16/vscode-git-base): Base for git support.
 * 🆓📖 [Git Graph](/softwareresearch/visualstudiocode/2024/04/23/git-graph): Show Git branch relations.
 
-## Liquid Language Support
+## HTML Support
+
+* [HTML Language Basics](/softwareresearch/visualstudiocode/2024/07/28/html-language-basics): HTML language syntax highlight etc. support.
+* [HTML Language Features](/softwareresearch/visualstudiocode/2024/07/28/html-language-features): HTML support beyond simple syntax highlight etc.
+
+## Liquid Support
 
 * 🆓📖 [Liquid](/softwareresearch/visualstudiocode/2024/04/16/liquid): Liquid language support.
 
@@ -70,9 +81,3 @@ header:
 * 🆓📖 [Material Icon Theme](/softwareresearch/visualstudiocode/2024/04/12/material-icon): File icon theme.
 * 🆓📖 [Material Product Icons](/softwareresearch/visualstudiocode/2024/04/12/material-product): UI icon theme.
 * 🆓📖 [One Dark Darker](/softwareresearch/visualstudiocode/2024/04/12/one-dark-darker): A color theme.
-
-## Uncategorized Visual Studio Code Plugins
-
-* 💰📕 [GitHub Copilot](/softwareresearch/visualstudiocode/2024/04/11/github-copilot): GitHub Copilot plugin.
-* 💰📕 [GitHub Copilot Chat](/softwareresearch/visualstudiocode/2024/04/11/github-copilot-chat): GitHub Copilot chat box plugin.
-* 🆓📖 [Insert Date String](/softwareresearch/visualstudiocode/2024/04/11/insert-date-string): Insert format date string.
