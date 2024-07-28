@@ -28,6 +28,10 @@ header:
 * 🆓📖 [Git Base](/softwareresearch/visualstudiocode/2024/04/16/vscode-git-base): Base for git support.
 * 🆓📖 [Git Graph](/softwareresearch/visualstudiocode/2024/04/23/git-graph): Show Git branch relations.
 
+## Liquid Language Support
+
+* 🆓📖 [Liquid](/softwareresearch/visualstudiocode/2024/04/16/liquid): Liquid language support.
+
 ## Markdown File Support
 
 * 🆓📖 [Markdown All in One](/softwareresearch/visualstudiocode/2024/04/12/markdown-all-in-one): Shortcuts, auto-completion, table formatting etc. for Markdown editing.
@@ -72,4 +76,3 @@ header:
 * 💰📕 [GitHub Copilot](/softwareresearch/visualstudiocode/2024/04/11/github-copilot): GitHub Copilot plugin.
 * 💰📕 [GitHub Copilot Chat](/softwareresearch/visualstudiocode/2024/04/11/github-copilot-chat): GitHub Copilot chat box plugin.
 * 🆓📖 [Insert Date String](/softwareresearch/visualstudiocode/2024/04/11/insert-date-string): Insert format date string.
-* 🆓📖 [Liquid](/softwareresearch/visualstudiocode/2024/04/16/liquid): Liquid language support.
