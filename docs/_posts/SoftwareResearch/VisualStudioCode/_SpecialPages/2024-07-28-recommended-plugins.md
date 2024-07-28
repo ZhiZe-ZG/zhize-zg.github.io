@@ -14,6 +14,8 @@ header:
 * 💰📕 [GitHub Copilot Chat](/softwareresearch/visualstudiocode/2024/04/11/github-copilot-chat): GitHub Copilot chat box plugin.
 * 🆓📖 [Insert Date String](/softwareresearch/visualstudiocode/2024/04/11/insert-date-string): Insert format date string.
 
+### Languages and Frameworks Support
+
 ## .NET Support
 
 * 🆓📖 [C# Language Basics](/softwareresearch/visualstudiocode/2024/05/26/cs-language-basics): Basic C# language support.
@@ -27,12 +29,6 @@ header:
 ## C and C++ Support
 
 * 🆓📖 [C/C++ Language Basics](/softwareresearch/visualstudiocode/2024/06/03/ccpp-language-basics): Basic C and C++ language support.
-
-## Git Support
-
-* 🆓📖 [Git](/softwareresearch/visualstudiocode/2024/04/16/vscode-git): Git support. It provides the ability to manipulate Git in VS Code.
-* 🆓📖 [Git Base](/softwareresearch/visualstudiocode/2024/04/16/vscode-git-base): Base for git support.
-* 🆓📖 [Git Graph](/softwareresearch/visualstudiocode/2024/04/23/git-graph): Show Git branch relations.
 
 ## HTML Support
 
@@ -75,6 +71,14 @@ header:
 ## TeX Support
 
 * 🆓📖 [LaTeX Workshop](/softwareresearch/visualstudiocode/2024/04/08/latex-workshop): Front-end plugin for TeX-based typesetting softwares.
+
+## Version Control System Support
+
+## Git Support
+
+* 🆓📖 [Git](/softwareresearch/visualstudiocode/2024/04/16/vscode-git): Git support. It provides the ability to manipulate Git in VS Code.
+* 🆓📖 [Git Base](/softwareresearch/visualstudiocode/2024/04/16/vscode-git-base): Base for git support.
+* 🆓📖 [Git Graph](/softwareresearch/visualstudiocode/2024/04/23/git-graph): Show Git branch relations.
 
 ## Themes
 
