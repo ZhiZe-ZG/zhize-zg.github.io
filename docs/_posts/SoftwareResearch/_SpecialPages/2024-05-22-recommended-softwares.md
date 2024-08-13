@@ -28,7 +28,6 @@ Currently this category mainly includes package managers and GUI environments.
 * 🆓📖-🪟🍎🐧😈 [Alacritty](/softwareresearch/2024/03/27/alacritty): Terminal emulator.
 * 🆓📖-🪟🍎🐧 [Git](/softwareresearch/2024/04/09/git): Distributed version control system.
 * 🆓📖-🪟🍎🐧 [Git Large File Storage](/softwareresearch/2024/04/09/git-lfs): Git large file management expansion.
-* 🆓📖-🪟: [ImageGlass](/softwareresearch/2024/04/09/imageglass): Image viewer and gallery browser.
 * 🆓📖-🪟🍎🐧 [MiKTeX](/softwareresearch/2024/04/08/miktex): Typesetting tool set for TeX ecosystem.
 * 🆓📖-🪟🍎🐧 [Neovim](/softwareresearch/2024/04/07/neovim): TUI text editor and text editing kernel.
 * 🆓📖-🪟🍎🐧 [OhMyPosh](/softwareresearch/2024/03/15/oh-my-posh): Shell display effect configuration tool.
@@ -44,7 +43,19 @@ Currently this category mainly includes package managers and GUI environments.
 
 Other choice:
 
-* 🆓📖-🪟: [Sumatra PDF](/softwareresearch/2024/04/09/sumatra-pdf): Document viewer.
+* 🆓📖-🪟 [Sumatra PDF](/softwareresearch/2024/04/09/sumatra-pdf): Document viewer.
+
+### Image Viewer
+
+This category mainly includes the softwares that can handle a folder of image instead of show only one image. This is for exclude some other softwares that can view single image (e.g. web page browsers, ebook readers etc.).
+
+* 🆓📖-🪟 [ImageGlass](/softwareresearch/2024/04/09/imageglass): Image viewer and gallery browser.
+
+### Timed Media Player
+
+Audio and video palyer.
+
+* 🆓📖-🪟🍎🐧 [VLC](/softwareresearch/2024/08/13/vlc): An open source video and audio palyer.
 
 ### Web Application Client
 
