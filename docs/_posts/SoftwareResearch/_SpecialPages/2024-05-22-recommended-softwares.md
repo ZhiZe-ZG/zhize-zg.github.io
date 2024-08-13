@@ -26,7 +26,6 @@ Currently this category mainly includes package managers and GUI environments.
 * 🆓📖-🪟🍎🐧 [.NET](/softwareresearch/2024/05/26/dotnet): A cross-operating-system development platform.
 * 🆓📖-🪟🍎🐧 [7-Zip](/softwareresearch/2024/04/10/7-zip): Archive compression software.
 * 🆓📖-🪟🍎🐧😈 [Alacritty](/softwareresearch/2024/03/27/alacritty): Terminal emulator.
-* 🆓📖-🪟🍎🐧 [Firefox](/softwareresearch/2024/08/11/firefox): An open source web page browser.
 * 🆓📖-🪟🍎🐧 [Git](/softwareresearch/2024/04/09/git): Distributed version control system.
 * 🆓📖-🪟🍎🐧 [Git Large File Storage](/softwareresearch/2024/04/09/git-lfs): Git large file management expansion.
 * 🆓📖-🪟: [ImageGlass](/softwareresearch/2024/04/09/imageglass): Image viewer and gallery browser.
@@ -39,7 +38,12 @@ Currently this category mainly includes package managers and GUI environments.
   * 🆓📖 [matplotlib](/softwareresearch/python/2024/05/22/matplotlib): A package for data visualization.
   * 🆓📖 [seaborn](/softwareresearch/python/2024/05/22/seaborn): A package for statistic data visualization based on matplotlib.
 * 🆓📖-🪟: [Sumatra PDF](/softwareresearch/2024/04/09/sumatra-pdf): Document viewer.
+
+### Web Application Client
+
+* 🆓📖-🪟🍎🐧 [Firefox](/softwareresearch/2024/08/11/firefox): An open source web page browser.
 * 🆓📖-🪟🍎🐧 [Thunderbird](/softwareresearch/2024/08/11/thunderbird): An open source e-mail client.
+* 🆓📖-🪟🍎🐧🍏🤖 [Bitwarden](/softwareresearch/2024/08/13/bitwarden-client): An open source password management client.
 
 ### Text Editor and Development Environment Front-end
 

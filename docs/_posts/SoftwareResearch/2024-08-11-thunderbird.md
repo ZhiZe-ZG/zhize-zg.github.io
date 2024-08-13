@@ -19,4 +19,4 @@ Related Sites:
 
 ## Introduction
 
-An open source e-mail client.
+An open source e-mail client. It also can be some other web server's client.
