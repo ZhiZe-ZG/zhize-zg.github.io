@@ -37,6 +37,13 @@ Currently this category mainly includes package managers and GUI environments.
   * 🆓📖 [pip](/softwareresearch/python/2024/04/21/pip): pip is the package installer for Python.
   * 🆓📖 [matplotlib](/softwareresearch/python/2024/05/22/matplotlib): A package for data visualization.
   * 🆓📖 [seaborn](/softwareresearch/python/2024/05/22/seaborn): A package for statistic data visualization based on matplotlib.
+
+### Ebook Reader
+
+* 🆓📖-🪟🐧 [Okular](/softwareresearch/2024/08/13/okular): An open source ebook reader that support PDF, EPUB etc.
+
+Other choice:
+
 * 🆓📖-🪟: [Sumatra PDF](/softwareresearch/2024/04/09/sumatra-pdf): Document viewer.
 
 ### Web Application Client
