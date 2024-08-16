@@ -123,3 +123,21 @@ The old install method is not working well. Follow the Jekyll official install i
 * [Jekyll - Quickstart](https://jekyllrb.com/docs/)
 
 Remamber to install the requirements first.
+
+To avoid path and right error, set the install path for gem like this:
+
+```bash
+# gem
+export PATH=$PATH':$HOME/.gem'
+export GEM_HOME=$HOME/.gem
+export GEM_PATH=$HOME/.gem
+```
+
+or like this in PowerSHell:
+
+```powershell
+# gem
+$env:Path += ";$HOME/.gem"
+$env:GEM_HOME = "$HOME/.gem"
+$env:GEM_PATH = "$HOME/.gem"
+```
