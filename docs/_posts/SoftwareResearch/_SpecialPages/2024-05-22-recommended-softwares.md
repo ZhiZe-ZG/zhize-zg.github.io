@@ -25,7 +25,6 @@ Currently this category mainly includes package managers and GUI environments.
 
 * 🆓📖-🪟🍎🐧 [.NET](/softwareresearch/2024/05/26/dotnet): A cross-operating-system development platform.
 * 🆓📖-🪟🍎🐧 [7-Zip](/softwareresearch/2024/04/10/7-zip): Archive compression software.
-* 🆓📖-🪟🍎🐧😈 [Alacritty](/softwareresearch/2024/03/27/alacritty): Terminal emulator.
 * 🆓📖-🪟🍎🐧 [Git](/softwareresearch/2024/04/09/git): Distributed version control system.
 * 🆓📖-🪟🍎🐧 [Git Large File Storage](/softwareresearch/2024/04/09/git-lfs): Git large file management expansion.
 * 🆓📖-🪟🍎🐧 [MiKTeX](/softwareresearch/2024/04/08/miktex): Typesetting tool set for TeX ecosystem.
@@ -41,7 +40,7 @@ Currently this category mainly includes package managers and GUI environments.
 
 * 🆓📖-🪟🐧 [Okular](/softwareresearch/2024/08/13/okular): An open source ebook reader that support PDF, EPUB etc.
 
-Other choice:
+Other choices:
 
 * 🆓📖-🪟 [Sumatra PDF](/softwareresearch/2024/04/09/sumatra-pdf): Document viewer.
 
@@ -50,6 +49,14 @@ Other choice:
 This category mainly includes the softwares that can handle a folder of image instead of show only one image. This is for exclude some other softwares that can view single image (e.g. web page browsers, ebook readers etc.).
 
 * 🆓📖-🪟 [ImageGlass](/softwareresearch/2024/04/09/imageglass): Image viewer and gallery browser.
+
+### Terminal Emulator
+
+* 🆓📖-🪟🍎🐧😈 [Alacritty](/softwareresearch/2024/03/27/alacritty): Terminal emulator.
+
+Other choices:
+
+* 🆓📖-🪟 [Windows Terminal](/softwareresearch/2024/03/14/windows-terminal): Terminal emulator.
 
 ### Timed Media Player
 
@@ -75,7 +82,6 @@ Mainly use this:
 
 * 🆓📖-🪟🐧 [Nomacs](/softwareresearch/2024/04/09/nomacs): Image viewer, not support APNG for now.
 * 💰📕-🪟🍎🐧 [Typora](/softwareresearch/2024/04/14/typora): Markdown viewer and editor.
-* 🆓📖-🪟 [Windows Terminal](/softwareresearch/2024/03/14/windows-terminal): Terminal emulator.
 
 ## For Fun
 

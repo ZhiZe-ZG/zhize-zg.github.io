@@ -115,3 +115,11 @@ Some tech essays of ZhiZe.
 ```
 
 Remember to replace the title and web page content ("Some tech essays of ZhiZe.") with your own.
+
+## Update 2024-08-16
+
+The old install method is not working well. Follow the Jekyll official install instruction:
+
+* [Jekyll - Quickstart](https://jekyllrb.com/docs/)
+
+Remamber to install the requirements first.
