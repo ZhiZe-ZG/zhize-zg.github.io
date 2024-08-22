@@ -29,12 +29,15 @@ Currently this category mainly includes package managers and GUI environments.
 * 🆓📖-🪟🍎🐧 [Git Large File Storage](/softwareresearch/2024/04/09/git-lfs): Git large file management expansion.
 * 🆓📖-🪟🍎🐧 [MiKTeX](/softwareresearch/2024/04/08/miktex): Typesetting tool set for TeX ecosystem.
 * 🆓📖-🪟🍎🐧 [Neovim](/softwareresearch/2024/04/07/neovim): TUI text editor and text editing kernel.
-* 🆓📖-🪟🍎🐧 [OhMyPosh](/softwareresearch/2024/03/15/oh-my-posh): Shell display effect configuration tool.
-* 🆓📖-🪟🍎🐧 [PowerShell](/softwareresearch/2024/03/15/powershell): Command line shell. Used both in daily operating and scripting.
 * 🆓📖-🪟🍎🐧 [Python](/softwareresearch/2024/04/21/python): Runtime environment of programming language Python.
   * 🆓📖 [pip](/softwareresearch/python/2024/04/21/pip): pip is the package installer for Python.
   * 🆓📖 [matplotlib](/softwareresearch/python/2024/05/22/matplotlib): A package for data visualization.
   * 🆓📖 [seaborn](/softwareresearch/python/2024/05/22/seaborn): A package for statistic data visualization based on matplotlib.
+
+### Commandline Shell
+
+* 🆓📖-🪟🍎🐧 [OhMyPosh](/softwareresearch/2024/03/15/oh-my-posh): Shell display effect configuration tool.
+* 🆓📖-🪟🍎🐧 [PowerShell](/softwareresearch/2024/03/15/powershell): Command line shell. Used both in daily operating and scripting.
 
 ### Ebook Reader
 
@@ -75,8 +78,7 @@ Audio and video palyer.
 Mainly use this:
 
 * 🆓📖-🪟🍎🐧 [Visual Studio Code](/softwareresearch/2024/04/07/vs-code): GUI text editor and development environment front-end framework.
-
-[Recommended Visual Studio Code Plugins](/SoftwareResearch/RecommendedVisualStudioCodePlugins)
+  * [Recommended Visual Studio Code Plugins](/SoftwareResearch/RecommendedVisualStudioCodePlugins)
 
 ## Alternative Applications
 
