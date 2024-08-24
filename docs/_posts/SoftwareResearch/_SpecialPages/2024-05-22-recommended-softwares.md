@@ -61,6 +61,14 @@ Other choices:
 
 * 🆓📖-🪟 [Windows Terminal](/softwareresearch/2024/03/14/windows-terminal): Terminal emulator.
 
+### Terminal Multiplexer
+
+* 🆓📖-🐧 [Tmux](/softwareresearch/2024/08/24/tmux): An open source terminal multiplexer.
+
+Other choices:
+
+* 🆓📖-🐧 [GNU Screen](/softwareresearch/2024/08/24/gnu-screen): An open source terminal multiplexer. For now, it dosen't support true color ANSI escape sequence.
+
 ### Timed Media Player
 
 Audio and video palyer.
