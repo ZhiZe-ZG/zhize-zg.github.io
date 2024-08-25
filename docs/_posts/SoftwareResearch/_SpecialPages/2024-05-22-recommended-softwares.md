@@ -129,9 +129,10 @@ Not recommended:
 
 ### Diablo-like
 
-* 🆓📖-🪟🍎🐧 [DevilutionX](/softwareresearch/2024/06/16/devilutionx/): Diablo build for modern operating systems.
-* 💰📕-🪟 [Diablo II](/softwareresearch/2024/07/07/diablo2/): A famous diablo-like games.
-* 💰📕-🪟 [Last Epoch](/softwareresearch/2024/06/16/last-epoch/): A good diablo-like game.
+* 🆓📖-🪟🍎🐧 [DevilutionX](/softwareresearch/2024/06/16/devilutionx): Diablo build for modern operating systems.
+* 💰📕-🪟 [Diablo II](/softwareresearch/2024/07/07/diablo2): A famous diablo-like games.
+* 💰📕-🪟 [Diablo III](/softwareresearch/2024/08/26/diablo3): A famous diablo-like games.
+* 💰📕-🪟 [Last Epoch](/softwareresearch/2024/06/16/last-epoch): A good diablo-like game.
 
 Not recommended:
 
