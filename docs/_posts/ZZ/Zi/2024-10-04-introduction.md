@@ -13,6 +13,12 @@ Thoughts and artworks.
 
 This is not a history topic but a philosophy viewpoint expressed by tell the history of philosophy.
 
+### Frank Thilly
+
+Born in 1865.
+
+* 西方哲学史：英汉对照:Thilly IAN:978-7-5534-6069-7
+
 ### Feng Youlan
 
 Born in 1895.
