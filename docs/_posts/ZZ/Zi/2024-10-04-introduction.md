@@ -10,6 +10,17 @@ header:
 
 Thoughts and artworks.
 
+## Aristotle
+
+Born in 384 BC.
+
+* The Complete Works of Aristotle::Jonathan Barnes IAN:978-0-691-01650-4.
+
+Others' writings about.
+
+* Aristotle: A Very Short Introduction. IAN:978-0-19-285408-7
+* The Cambridge Companion to Aristotle. IAN:978-0-521-42294-9
+
 ## History of Philosophy
 
 This is not a history topic but a philosophy viewpoint expressed by tell the history of philosophy.
