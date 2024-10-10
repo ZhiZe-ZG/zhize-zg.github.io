@@ -15,6 +15,7 @@ Thoughts and artworks.
 Born in 384 BC.
 
 * The Complete Works of Aristotle::Jonathan Barnes IAN:978-0-691-01650-4.
+* 亚里士多德全集（典藏本） IAN:978-7-300-23232-4
 
 Others' writings about.
 
