@@ -1,6 +1,6 @@
 ---
 title: "LaTeX Language Basics"
-date: 2024-04-08 01:27:35 +0800
+date: 2024-04-08 01:27:35
 category: SoftwareResearch/VisualStudioCode
 tags: Typesetting-Software
 header:

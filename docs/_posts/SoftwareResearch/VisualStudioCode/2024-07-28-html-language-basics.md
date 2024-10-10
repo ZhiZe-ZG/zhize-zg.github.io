@@ -1,6 +1,6 @@
 ---
 title: "HTML Language Basics"
-date: 2024-07-28 17:58:26 +0800
+date: 2024-07-28 17:58:26
 category: SoftwareResearch/VisualStudioCode
 tags: HTML
 header:

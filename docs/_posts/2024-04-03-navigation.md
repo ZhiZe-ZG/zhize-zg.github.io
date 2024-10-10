@@ -1,6 +1,6 @@
 ---
 title: "Navigation Settings in Minimal Mistakes"
-date: 2024-04-03 19:05:51 +0800
+date: 2024-04-03 19:05:51
 category: Tech-Note/Personal-Website
 tags: GitHub-Pages Jekyll Miminal-Mistakes Front-Matter
 header:

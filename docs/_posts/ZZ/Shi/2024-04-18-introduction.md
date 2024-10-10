@@ -1,7 +1,7 @@
 ---
 title: "Histories"
 permalink: /ZZ/Shi/Introduction
-date: 2024-04-18 21:29:15 +0800
+date: 2024-04-18 21:29:15
 category: ZZ/Shi
 tags: History
 header:

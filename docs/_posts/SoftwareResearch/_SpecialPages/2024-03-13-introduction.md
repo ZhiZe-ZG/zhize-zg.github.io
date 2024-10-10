@@ -1,7 +1,7 @@
 ---
 title: "Software Research Introduction"
 permalink: /SoftwareResearch/Introduction
-date: 2024-03-13 18:44:51 +0800
+date: 2024-03-13 18:44:51
 category: SoftwareResearch
 tags:
 header:

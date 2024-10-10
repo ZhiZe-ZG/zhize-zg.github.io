@@ -1,6 +1,6 @@
 ---
 title: "GNU Screen"
-date: 2024-08-24 07:57:01 +0800
+date: 2024-08-24 07:57:01
 category: SoftwareResearch
 tags: Terminal-Multiplexer
 header:

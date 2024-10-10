@@ -1,6 +1,6 @@
 ---
 title: "GenericModConfigMenu"
-date: 2024-06-18 15:26:29 +0800
+date: 2024-06-18 15:26:29
 category: SoftwareResearch/SMAPI
 tags:
 header:

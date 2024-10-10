@@ -1,6 +1,6 @@
 ---
 title: "elsarticle"
-date: 2024-04-09 22:15:52 +0800
+date: 2024-04-09 22:15:52
 category: SoftwareResearch/MiKTeX
 tags: TypographyTemplate
 header:

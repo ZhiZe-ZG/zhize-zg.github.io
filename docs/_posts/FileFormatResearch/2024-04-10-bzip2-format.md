@@ -1,6 +1,6 @@
 ---
 title: "Bzip2 (File Format)"
-date: 2024-04-10 13:05:56 +0800
+date: 2024-04-10 13:05:56
 category: FileFormatResearch
 tags: Archive-Compression-File
 header:

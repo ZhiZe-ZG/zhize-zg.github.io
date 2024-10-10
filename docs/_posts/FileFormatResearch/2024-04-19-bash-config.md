@@ -1,6 +1,6 @@
 ---
 title: "Bash Config"
-date: 2024-04-19 22:10:18 +0800
+date: 2024-04-19 22:10:18
 category: FileFormatResearch
 tags: Text-File Shell-Script
 header:

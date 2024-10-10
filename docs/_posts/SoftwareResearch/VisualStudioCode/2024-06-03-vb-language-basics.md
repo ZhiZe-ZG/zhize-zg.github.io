@@ -1,6 +1,6 @@
 ---
 title: "Visual Basic Language Basics"
-date: 2024-06-03 03:42:58 +0800
+date: 2024-06-03 03:42:58
 category: SoftwareResearch/VisualStudioCode
 tags: VB
 header:

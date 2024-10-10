@@ -1,6 +1,6 @@
 ---
 title: "DevilutionX"
-date: 2024-06-16 11:51:11 +0800
+date: 2024-06-16 11:51:11
 category: SoftwareResearch
 tags: Digital-Game GUI
 header:

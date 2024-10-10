@@ -1,6 +1,6 @@
 ---
 title: "Rogue (Epyx DOS Edition)"
-date: 2024-07-08 23:53:34 +0800
+date: 2024-07-08 23:53:34
 category: SoftwareResearch
 tags: Digital-Game TUI
 header:

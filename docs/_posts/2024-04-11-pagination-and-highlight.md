@@ -1,6 +1,6 @@
 ---
 title: "Pagination and Code Highlight"
-date: 2024-04-11 22:53:59 +0800
+date: 2024-04-11 22:53:59
 category: Tech-Note/Personal-Website
 tags: Jekyll Minimal-Mistakes
 header:

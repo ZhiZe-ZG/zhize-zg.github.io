@@ -1,6 +1,6 @@
 ---
 title: "Stardew Valley Mod Manager"
-date: 2024-06-18 15:07:48 +0800
+date: 2024-06-18 15:07:48
 category: SoftwareResearch
 tags: Digital-Game GUI
 header:

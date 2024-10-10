@@ -1,6 +1,6 @@
 ---
 title: "Last Epoch"
-date: 2024-06-16 12:45:56 +0800
+date: 2024-06-16 12:45:56
 category: SoftwareResearch
 tags: Digital-Game GUI
 header:

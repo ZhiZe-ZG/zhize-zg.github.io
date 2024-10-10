@@ -1,6 +1,6 @@
 ---
 title: "GitHub Copilot Chat"
-date: 2024-04-11 23:52:24 +0800
+date: 2024-04-11 23:52:24
 category: SoftwareResearch/VisualStudioCode
 tags: AI
 header:

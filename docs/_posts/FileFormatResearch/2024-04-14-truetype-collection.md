@@ -1,6 +1,6 @@
 ---
 title: "TrueType-flavored OpenType Collection"
-date: 2024-04-14 10:45:05 +0800
+date: 2024-04-14 10:45:05
 category: FileFormatResearch
 tags: Vector-Font-File
 header:

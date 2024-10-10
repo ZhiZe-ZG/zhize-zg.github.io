@@ -1,6 +1,6 @@
 ---
 title: "Run Command as Administrator in PowerShell on Windows"
-date: 2024-04-01 22:48:10 +0800
+date: 2024-04-01 22:48:10
 category: Tech-Note/Using-Windows
 tags: Windows PowerShell WindowsTerminal
 header:

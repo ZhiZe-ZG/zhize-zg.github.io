@@ -1,6 +1,6 @@
 ---
 title: "Visual Basic Project Description File"
-date: 2024-06-03 03:36:19 +0800
+date: 2024-06-03 03:36:19
 category: FileFormatResearch
 tags: Text-File Project-Description-File
 header:

@@ -1,6 +1,6 @@
 ---
 title: "Rust Language Basics"
-date: 2024-06-03 12:53:28 +0800
+date: 2024-06-03 12:53:28
 category: SoftwareResearch/VisualStudioCode
 tags: Rust
 header:

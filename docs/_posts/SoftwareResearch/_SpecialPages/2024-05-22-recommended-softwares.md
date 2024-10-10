@@ -1,7 +1,7 @@
 ---
 title: "Recommended Softwares"
 permalink: /SoftwareResearch/RecommendedSoftwares
-date: 2024-05-22 20:33:01 +0800
+date: 2024-05-22 20:33:01
 category: SoftwareResearch
 tags:
 header:

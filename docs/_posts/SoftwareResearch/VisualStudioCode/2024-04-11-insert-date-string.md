@@ -1,6 +1,6 @@
 ---
 title: "Insert Date String"
-date: 2024-04-11 23:32:42 +0800
+date: 2024-04-11 23:32:42
 category: SoftwareResearch/VisualStudioCode
 tags:
 header:

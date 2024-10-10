@@ -1,6 +1,6 @@
 ---
 title: "LaTeX Workshop"
-date: 2024-04-08 01:34:36 +0800
+date: 2024-04-08 01:34:36
 category: SoftwareResearch/VisualStudioCode
 tags: Typesetting-Software
 header:

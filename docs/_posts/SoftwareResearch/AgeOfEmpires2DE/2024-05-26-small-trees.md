@@ -1,6 +1,6 @@
 ---
 title: "Small Trees"
-date: 2024-05-26 18:06:25 +0800
+date: 2024-05-26 18:06:25
 category: SoftwareResearch/AgeOfEmpires2DE
 tags: AgeOfEmpires2DE
 header:

@@ -1,7 +1,7 @@
 ---
 title: "Recommended Visual Studio Code Plugins"
 permalink: /SoftwareResearch/RecommendedVisualStudioCodePlugins
-date: 2024-07-28 16:51:25 +0800
+date: 2024-07-28 16:51:25
 category: SoftwareResearch/VisualStudioCode
 tags:
 header:

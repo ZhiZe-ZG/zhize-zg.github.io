@@ -1,6 +1,6 @@
 ---
 title: "Markdown Math"
-date: 2024-04-12 00:45:45 +0800
+date: 2024-04-12 00:45:45
 category: SoftwareResearch/VisualStudioCode
 tags: Markdown KaTeX
 header:

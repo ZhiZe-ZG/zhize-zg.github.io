@@ -1,6 +1,6 @@
 ---
 title: "F# Project Description File"
-date: 2024-05-05 02:20:40 +0800
+date: 2024-05-05 02:20:40
 category: FileFormatResearch
 tags: Text-File Project-Description-File
 header:

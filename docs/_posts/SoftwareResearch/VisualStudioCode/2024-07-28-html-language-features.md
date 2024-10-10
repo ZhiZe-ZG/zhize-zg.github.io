@@ -1,6 +1,6 @@
 ---
 title: "HTML Language Features"
-date: 2024-07-28 18:00:43 +0800
+date: 2024-07-28 18:00:43
 category: SoftwareResearch/VisualStudioCode
 tags: HTML
 header:

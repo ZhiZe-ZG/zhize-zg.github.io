@@ -1,6 +1,6 @@
 ---
 title: "Shell Language Basics"
-date: 2024-06-03 12:58:10 +0800
+date: 2024-06-03 12:58:10
 category: SoftwareResearch/VisualStudioCode
 tags: Bash
 header:

@@ -1,6 +1,6 @@
 ---
 title: "Stardew Valley"
-date: 2024-06-17 22:39:58 +0800
+date: 2024-06-17 22:39:58
 category: SoftwareResearch
 tags: Digital-Game GUI
 header:

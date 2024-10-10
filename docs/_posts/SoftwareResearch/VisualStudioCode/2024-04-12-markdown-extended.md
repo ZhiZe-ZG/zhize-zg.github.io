@@ -1,6 +1,6 @@
 ---
 title: "Markdown Extended"
-date: 2024-04-12 01:09:08 +0800
+date: 2024-04-12 01:09:08
 category: SoftwareResearch/VisualStudioCode
 tags: Markdown
 header:

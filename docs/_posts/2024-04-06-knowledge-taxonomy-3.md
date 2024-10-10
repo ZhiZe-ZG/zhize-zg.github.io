@@ -1,6 +1,6 @@
 ---
 title: "My Exploration of Knowledge Taxonomy 3"
-date: 2024-04-06 17:23:34 +0800
+date: 2024-04-06 17:23:34
 category: ZhiZesStories
 tags: Knowledge-Taxonomy
 header:

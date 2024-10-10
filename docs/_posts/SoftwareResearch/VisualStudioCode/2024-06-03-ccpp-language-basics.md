@@ -1,6 +1,6 @@
 ---
 title: "C/C++ Language Basics"
-date: 2024-06-03 12:45:30 +0800
+date: 2024-06-03 12:45:30
 category: SoftwareResearch/VisualStudioCode
 tags: C C++
 header:

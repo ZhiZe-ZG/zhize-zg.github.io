@@ -1,6 +1,6 @@
 ---
 title:  "Setting Up Jekyll for Develop GitHub Pages"
-date:   2024-03-30 13:42:04 +0800
+date:   2024-03-30 13:42:04
 category: Tech-Note/Personal-Website
 tags: GitHub-Pages Ruby Jekyll Bundler Minimal-Mistakes
 header:

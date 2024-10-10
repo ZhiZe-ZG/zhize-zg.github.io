@@ -1,6 +1,6 @@
 ---
 title: "Functional Pages"
-date: 2024-04-02 23:24:35 +0800
+date: 2024-04-02 23:24:35
 category: Tech-Note/Personal-Website
 tags: GitHub-Pages Jekyll Minimal-Mistakes
 header:

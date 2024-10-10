@@ -1,6 +1,6 @@
 ---
 title: "Zetnus Improved Grid Mod"
-date: 2024-05-26 18:02:48 +0800
+date: 2024-05-26 18:02:48
 category: SoftwareResearch/AgeOfEmpires2DE
 tags: AgeOfEmpires2DE
 header:

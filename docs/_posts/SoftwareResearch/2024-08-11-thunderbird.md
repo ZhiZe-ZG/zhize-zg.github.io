@@ -1,6 +1,6 @@
 ---
 title: "Thunderbird"
-date: 2024-08-11 23:51:19 +0800
+date: 2024-08-11 23:51:19
 category: SoftwareResearch
 tags: E-mail-Client
 header:

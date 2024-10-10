@@ -1,6 +1,6 @@
 ---
 title: "Material Icon Theme"
-date: 2024-04-12 01:36:19 +0800
+date: 2024-04-12 01:36:19
 category: SoftwareResearch/VisualStudioCode
 tags: Icon-Theme
 header:

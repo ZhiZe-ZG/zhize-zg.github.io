@@ -1,6 +1,6 @@
 ---
 title: "UI Info Suite 2"
-date: 2024-06-18 16:18:34 +0800
+date: 2024-06-18 16:18:34
 category: SoftwareResearch/SMAPI
 tags:
 header:

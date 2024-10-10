@@ -1,6 +1,6 @@
 ---
 title: "Mermaid Markdown Syntax Highlighting"
-date: 2024-04-12 01:24:33 +0800
+date: 2024-04-12 01:24:33
 category: SoftwareResearch/VisualStudioCode
 tags: Markdown Mermaid
 header:

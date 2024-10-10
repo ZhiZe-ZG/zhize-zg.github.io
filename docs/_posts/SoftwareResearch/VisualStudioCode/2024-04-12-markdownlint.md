@@ -1,6 +1,6 @@
 ---
 title: "Markdownlint"
-date: 2024-04-12 01:12:26 +0800
+date: 2024-04-12 01:12:26
 category: SoftwareResearch/VisualStudioCode
 tags: Markdown
 header:

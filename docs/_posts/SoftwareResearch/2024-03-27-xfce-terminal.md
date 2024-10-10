@@ -1,6 +1,6 @@
 ---
 title: "Xfce Terminal Emulator"
-date: 2024-03-27 11:31:00 +0800
+date: 2024-03-27 11:31:00
 category: SoftwareResearch
 tags: Terminal-Emulator GUI
 header:

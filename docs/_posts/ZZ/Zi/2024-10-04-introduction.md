@@ -1,7 +1,7 @@
 ---
 title: "Thoughts"
 permalink: /ZZ/Zi/Introduction
-date: 2024-10-04 02:40:22 +0800
+date: 2024-10-04 02:40:22
 category: ZZ/Zi
 tags: Thoughts
 header:

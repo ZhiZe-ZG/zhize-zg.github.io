@@ -1,7 +1,7 @@
 ---
 title: "Character Encoding Research"
 permalink: /CharacterEncodingResearch/Introduction
-date: 2024-05-05 22:15:03 +0800
+date: 2024-05-05 22:15:03
 category: CharacterEncodingResearch
 tags:
 header:

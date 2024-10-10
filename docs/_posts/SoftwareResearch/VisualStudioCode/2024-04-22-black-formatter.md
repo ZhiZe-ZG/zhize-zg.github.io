@@ -1,6 +1,6 @@
 ---
 title: "Black Formatter (VS Code Plugin)"
-date: 2024-04-22 10:43:22 +0800
+date: 2024-04-22 10:43:22
 category: SoftwareResearch/VisualStudioCode
 tags: Python Formatter
 header:

@@ -1,6 +1,6 @@
 ---
 title: "Python (File Format)"
-date: 2024-04-19 14:45:38 +0800
+date: 2024-04-19 14:45:38
 category: FileFormatResearch
 tags: Text-File General-Programming-Language Python
 header:

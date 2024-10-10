@@ -1,6 +1,6 @@
 ---
 title: "One Dark Darker"
-date: 2024-04-12 00:32:52 +0800
+date: 2024-04-12 00:32:52
 category: SoftwareResearch/VisualStudioCode
 tags: Color-Theme
 header:

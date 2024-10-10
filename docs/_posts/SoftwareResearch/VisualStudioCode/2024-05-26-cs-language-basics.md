@@ -1,6 +1,6 @@
 ---
 title: "C# Language Basics"
-date: 2024-05-26 23:49:47 +0800
+date: 2024-05-26 23:49:47
 category: SoftwareResearch/VisualStudioCode
 tags: C#
 header:

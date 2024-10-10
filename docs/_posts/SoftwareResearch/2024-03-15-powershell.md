@@ -1,6 +1,6 @@
 ---
 title: "PowerShell"
-date: 2024-03-15 10:45:00 +0800
+date: 2024-03-15 10:45:00
 category: SoftwareResearch
 tags: Command-Line-Shell CLI PowerShell
 header:

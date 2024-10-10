@@ -1,6 +1,6 @@
 ---
 title: "Color Theme and Header"
-date: 2024-04-04 22:45:40 +0800
+date: 2024-04-04 22:45:40
 category: Tech-Note/Personal-Website
 tags: GitHub-Pages Jekyll SCSS Front-Matter YAML
 header:

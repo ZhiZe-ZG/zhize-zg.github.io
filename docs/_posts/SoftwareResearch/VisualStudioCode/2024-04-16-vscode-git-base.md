@@ -1,6 +1,6 @@
 ---
 title: "Git Base (VS Code Plugin)"
-date: 2024-04-16 10:24:06 +0800
+date: 2024-04-16 10:24:06
 category: SoftwareResearch/VisualStudioCode
 tags: Version-Control-System Git
 header:

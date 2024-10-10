@@ -1,6 +1,6 @@
 ---
 title: "Post Categories and Tags"
-date: 2024-03-31 01:34:29 +0800
+date: 2024-03-31 01:34:29
 category: Tech-Note/Personal-Website
 tags: GitHub-Pages Jekyll Front-Matter Minimal-Mistakes
 header:
@@ -41,7 +41,7 @@ The Front Matter of this post is as follows:
 ```markdown
 ---
 title: "Post Categories and Tags"
-date: 2024-03-31 01:34:29 +0800
+date: 2024-03-31 01:34:29
 category: Tech-Note/Personal-Website
 tags: GitHub-Pages Jekyll Front-Matter Minimal-Mistakes
 ---

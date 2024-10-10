@@ -1,6 +1,6 @@
 ---
 title: "Python Language Basics (VS Code Plugin)"
-date: 2024-04-21 23:33:46 +0800
+date: 2024-04-21 23:33:46
 category: SoftwareResearch/VisualStudioCode
 tags: Python
 header:

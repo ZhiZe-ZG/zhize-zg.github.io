@@ -1,6 +1,6 @@
 ---
 title: "Windows Terminal"
-date: 2024-03-14 16:56:00 +0800
+date: 2024-03-14 16:56:00
 category: SoftwareResearch
 tags: Terminal-Emulator  GUI
 header:

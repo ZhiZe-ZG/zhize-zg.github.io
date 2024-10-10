@@ -1,6 +1,6 @@
 ---
 title: "XCOM Chimera Squad"
-date: 2024-06-06 19:43:51 +0800
+date: 2024-06-06 19:43:51
 category: SoftwareResearch
 tags: Digital-Game GUI
 header:

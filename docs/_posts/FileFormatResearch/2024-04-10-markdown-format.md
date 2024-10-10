@@ -1,6 +1,6 @@
 ---
 title: "Markdown"
-date: 2024-04-10 21:45:57 +0800
+date: 2024-04-10 21:45:57
 category: FileFormatResearch
 tags: Text-File Markdown Mermaid KaTeX
 header:

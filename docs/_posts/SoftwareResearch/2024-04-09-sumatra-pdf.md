@@ -1,6 +1,6 @@
 ---
 title: "Sumatra PDF"
-date: 2024-04-09 12:34:35 +0800
+date: 2024-04-09 12:34:35
 category: SoftwareResearch
 tags: Document-Viewer GUI
 header:

@@ -1,6 +1,6 @@
 ---
 title:  "Pages and Posts of Minimal Mistakes"
-date:   2024-03-30 20:05:14 +0800
+date:   2024-03-30 20:05:14
 category: Tech-Note/Personal-Website
 tags: GitHub-Pages Liquid Jekyll Minimal-Mistakes
 header:

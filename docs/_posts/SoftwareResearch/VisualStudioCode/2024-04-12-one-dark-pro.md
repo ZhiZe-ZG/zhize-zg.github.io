@@ -1,6 +1,6 @@
 ---
 title: "One Dark Pro"
-date: 2024-04-12 00:34:36 +0800
+date: 2024-04-12 00:34:36
 category: SoftwareResearch/VisualStudioCode
 tags: Color-Theme
 header:

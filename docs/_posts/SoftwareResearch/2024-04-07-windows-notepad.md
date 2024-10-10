@@ -1,6 +1,6 @@
 ---
 title: "Windows Notepad"
-date: 2024-04-07 19:06:08 +0800
+date: 2024-04-07 19:06:08
 category: SoftwareResearch
 tags: Text-Editor GUI
 header:

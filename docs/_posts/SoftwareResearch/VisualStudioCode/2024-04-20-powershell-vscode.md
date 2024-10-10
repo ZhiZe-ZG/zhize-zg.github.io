@@ -1,6 +1,6 @@
 ---
 title: "PowerShell (VS Code Plugin)"
-date: 2024-04-20 22:36:47 +0800
+date: 2024-04-20 22:36:47
 category: SoftwareResearch/VisualStudioCode
 tags: PowerShell
 header:

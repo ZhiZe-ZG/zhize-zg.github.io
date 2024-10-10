@@ -1,7 +1,7 @@
 ---
 title: "Typeface Research Introduction"
 permalink: /TypefaceResearch/Introduction
-date: 2024-04-17 12:13:45 +0800
+date: 2024-04-17 12:13:45
 category: TypefaceResearch
 tags:
 header:

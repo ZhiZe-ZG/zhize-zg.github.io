@@ -1,6 +1,6 @@
 ---
 title: "Material Product Icons"
-date: 2024-04-12 01:39:57 +0800
+date: 2024-04-12 01:39:57
 category: SoftwareResearch/VisualStudioCode
 tags: Icon-Theme
 header:

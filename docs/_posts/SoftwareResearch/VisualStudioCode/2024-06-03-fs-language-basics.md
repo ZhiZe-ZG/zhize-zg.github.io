@@ -1,6 +1,6 @@
 ---
 title: "F# Language Basics"
-date: 2024-06-03 03:46:40 +0800
+date: 2024-06-03 03:46:40
 category: SoftwareResearch/VisualStudioCode
 tags: F#
 header:

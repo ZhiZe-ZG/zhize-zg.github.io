@@ -1,6 +1,6 @@
 ---
 title: "C++ Programming Language Source File"
-date: 2024-05-05 01:56:12 +0800
+date: 2024-05-05 01:56:12
 category: FileFormatResearch
 tags: Text-File Programming-Source-File
 header:

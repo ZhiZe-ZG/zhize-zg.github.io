@@ -1,7 +1,7 @@
 ---
 title: "File Format Research Introduction"
 permalink: /FileFormatResearch/Introduction
-date: 2024-04-06 18:41:53 +0800
+date: 2024-04-06 18:41:53
 category: FileFormatResearch
 tags:
 header:

@@ -1,6 +1,6 @@
 ---
 title: "PowerShell (Format)"
-date: 2024-04-19 22:42:03 +0800
+date: 2024-04-19 22:42:03
 category: FileFormatResearch
 tags: Text-File Shell-Script
 header:

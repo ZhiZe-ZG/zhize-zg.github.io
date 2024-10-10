@@ -1,6 +1,6 @@
 ---
 title: "PowerShell Manifest"
-date: 2024-04-20 21:30:05 +0800
+date: 2024-04-20 21:30:05
 category: FileFormatResearch
 tags: Text-File Shell-Script
 header:

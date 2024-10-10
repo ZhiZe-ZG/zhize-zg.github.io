@@ -1,6 +1,6 @@
 ---
 title: "GitHub Copilot"
-date: 2024-04-11 23:38:01 +0800
+date: 2024-04-11 23:38:01
 category: SoftwareResearch/VisualStudioCode
 tags: AI
 header:

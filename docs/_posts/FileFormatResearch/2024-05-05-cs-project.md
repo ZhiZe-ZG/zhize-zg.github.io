@@ -1,6 +1,6 @@
 ---
 title: "C# Project Description File"
-date: 2024-05-05 02:18:48 +0800
+date: 2024-05-05 02:18:48
 category: FileFormatResearch
 tags: Text-File Project-Description-File
 header:

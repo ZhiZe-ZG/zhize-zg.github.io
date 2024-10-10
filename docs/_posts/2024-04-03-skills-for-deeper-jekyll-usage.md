@@ -1,6 +1,6 @@
 ---
 title: "Skills For Deeper Jekyll Usage"
-date: 2024-04-03 01:37:56 +0800
+date: 2024-04-03 01:37:56
 category: Tech-Note/Personal-Website
 tags: GitHub-Pages Jekyll Markdown HTML Liquid Front-Matter YAML CSS SCSS Sass JavaScript CoffeeScript Ruby
 header:

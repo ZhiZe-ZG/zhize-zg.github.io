@@ -1,6 +1,6 @@
 ---
 title: "Show Diagrams and Formulas in GitHub Pages"
-date: 2024-04-16 15:43:45 +0800
+date: 2024-04-16 15:43:45
 category: Tech-Note/Personal-Website
 tags: Jekyll GitHub-Pages Mermaid Front-Matter Minimal-Mistakes Liquid MathJax LaTeX
 header:
@@ -101,7 +101,7 @@ On the post page, add `mermaid=ture` to enable rendering of `<pre class="mermaid
 ```yaml
 ---
 title: "Using Mermaid in GitHub Pages"
-date: 2024-04-16 15:43:45 +0800
+date: 2024-04-16 15:43:45
 category: Tech-Note/Personal-Website
 tags: Jekyll GitHub-Pages Mermaid Front-Matter Minimal-Mistakes Liquid
 header:
@@ -141,7 +141,7 @@ Then, open math formula rendering in the Front Matter of posts that you want to 
 ```yaml
 ---
 title: "Show Diagrams and Formulas in GitHub Pages"
-date: 2024-04-16 15:43:45 +0800
+date: 2024-04-16 15:43:45
 category: Tech-Note/Personal-Website
 tags: Jekyll GitHub-Pages Mermaid Front-Matter Minimal-Mistakes Liquid MathJax
 header:

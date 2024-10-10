@@ -1,6 +1,6 @@
 ---
 title: "PostScript-flavored OpenType Collection"
-date: 2024-04-14 10:46:37 +0800
+date: 2024-04-14 10:46:37
 category: FileFormatResearch
 tags: Vector-Font-File
 header:

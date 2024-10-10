@@ -1,6 +1,6 @@
 ---
 title: "Introduction of Jekyll Front Matter"
-date: 2024-03-30 23:38:53 +0800
+date: 2024-03-30 23:38:53
 category: Tech-Note/Personal-Website
 tags: GitHub-Pages Jekyll Front-Matter Minimal-Mistakes
 header:
@@ -26,7 +26,7 @@ You can customize variable names in Front Matter and then reference them through
 ```yaml
 ---
 title: "Introduction of Jekyll Front Matter"
-date: 2024-03-30 23:38:53 +0800
+date: 2024-03-30 23:38:53
 category: Tech-Note/Personal-Website
 tags: GitHub-Pages Jekyll Front-Matter
 published: false
@@ -47,7 +47,9 @@ Content marked with `#` in Markdown or `h1` in HTML will only be treated as ordi
 
 The variable `date` is one of the variables predefined by Jekyll for posts. It is used to accurately specify the writing time of an article, making it easy to index posts by time. When `date` is set, the writing time specified in the original file name will be ignored by the indexes.
 
-The format of the date value is `YYYY-MM-DD HH:MM:SS ±TTTT`. The letters in front represent the year, month, day, hour, minute and second respectively. It should be explained that `±TTTT` should be replaced by the time zone code. The time zone code consists of a positive or negative sign followed by four digits. A `+` indicates that the time zone is before UTC, and a `-` indicates that it is after UTC. The four-digit number represents the number of hours and minutes from UTC. For example, `+0900` means UTC+09:00.
+The format of the date value is `YYYY-MM-DD HH:MM:SS ±TTTT`. The letters in front represent the year, month, day, hour, minute and second respectively. It should be explained that `±TTTT` should be replaced by the time zone code. The time zone code consists of a positive or negativesign folloedby four digits. A `+` indicates that the time zone is before UTC, and a `-` indicates that it is after UTC. The four-digit number represents the number of hours and minutes from UTC. For example, `+0900` means UTC+09:00.
+
+Setting the `±TTTT` will cause generated url errors sometimes. The reason is that this may generate different dates in different time zones.So, be careful when you use it.
 
 ## permalink
 

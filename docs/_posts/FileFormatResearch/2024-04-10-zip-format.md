@@ -1,6 +1,6 @@
 ---
 title: "ZIP (File Format)"
-date: 2024-04-10 16:22:36 +0800
+date: 2024-04-10 16:22:36
 category: FileFormatResearch
 tags: Archive-Compression-File
 header:

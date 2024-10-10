@@ -1,6 +1,6 @@
 ---
 title: "Lookup Anything"
-date: 2024-06-18 16:24:57 +0800
+date: 2024-06-18 16:24:57
 category: SoftwareResearch/SMAPI
 tags:
 header:

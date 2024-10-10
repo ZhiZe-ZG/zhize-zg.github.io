@@ -1,7 +1,7 @@
 ---
 title: "Recommended File Format"
 permalink: /FileFormatResearch/RecommendedFileFormat
-date: 2024-05-22 13:49:10 +0800
+date: 2024-05-22 13:49:10
 category: FileFormatResearch
 tags:
 header:

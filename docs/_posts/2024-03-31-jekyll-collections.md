@@ -1,6 +1,6 @@
 ---
 title: "Jekyll Collections"
-date: 2024-03-31 13:38:39 +0800
+date: 2024-03-31 13:38:39
 category: Tech-Note/Personal-Website
 tags: GitHub-Pages Jekyll Front-Matter Minimal-Mistakes
 header:

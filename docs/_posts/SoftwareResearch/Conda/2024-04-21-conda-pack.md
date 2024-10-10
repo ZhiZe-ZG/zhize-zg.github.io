@@ -1,6 +1,6 @@
 ---
 title: "Conda-Pack"
-date: 2024-04-21 23:17:19 +0800
+date: 2024-04-21 23:17:19
 category: SoftwareResearch/Conda
 tags: Archive-Tool
 header:

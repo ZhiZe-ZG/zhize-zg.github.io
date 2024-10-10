@@ -1,6 +1,6 @@
 ---
 title: "Markdown Preview Mermaid Support"
-date: 2024-04-12 01:20:59 +0800
+date: 2024-04-12 01:20:59
 category: SoftwareResearch/VisualStudioCode
 tags: Markdown Mermaid
 header:

@@ -1,6 +1,6 @@
 ---
 title: "Markdown Language Features"
-date: 2024-04-12 00:45:06 +0800
+date: 2024-04-12 00:45:06
 category: SoftwareResearch/VisualStudioCode
 tags: Markdown
 header:

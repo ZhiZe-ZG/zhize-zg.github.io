@@ -1,7 +1,7 @@
 ---
 title: "Formal Language Research Introduction"
 permalink: /FormalLanguageResearch/Introduction
-date: 2024-06-23 14:17:06 +0800
+date: 2024-06-23 14:17:06
 category: FormalLanguageResearch
 tags:
 header:

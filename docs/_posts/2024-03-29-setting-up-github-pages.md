@@ -1,6 +1,6 @@
 ---
 title:  "Setting Up GitHub Pages"
-date:   2024-03-29 15:16:36 +0800
+date:   2024-03-29 15:16:36
 category: Tech-Note/Personal-Website
 tags: GitHub-Pages Jekyll Namecheap
 header:

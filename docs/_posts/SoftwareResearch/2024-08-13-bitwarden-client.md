@@ -1,6 +1,6 @@
 ---
 title: "Bitwarden (Client)"
-date: 2024-08-13 15:36:09 +0800
+date: 2024-08-13 15:36:09
 category: SoftwareResearch
 tags: Password-Management
 header:

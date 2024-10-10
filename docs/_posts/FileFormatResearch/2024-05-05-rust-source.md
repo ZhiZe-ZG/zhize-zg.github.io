@@ -1,6 +1,6 @@
 ---
 title: "Rust Programming Language Source File"
-date: 2024-05-05 02:00:07 +0800
+date: 2024-05-05 02:00:07
 category: FileFormatResearch
 tags: Text-File Programming-Source-File
 header:

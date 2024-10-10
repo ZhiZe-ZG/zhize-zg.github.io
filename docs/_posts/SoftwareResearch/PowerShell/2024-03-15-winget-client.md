@@ -1,6 +1,6 @@
 ---
 title: "Microsoft.WinGet.Client"
-date: 2024-03-15 02:17:00 +0800
+date: 2024-03-15 02:17:00
 category: SoftwareResearch/PowerShell
 tags: PowerShell
 header:

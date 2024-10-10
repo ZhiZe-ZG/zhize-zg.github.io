@@ -1,6 +1,6 @@
 ---
 title: "Return Of Rome Main Menu"
-date: 2024-05-26 18:17:25 +0800
+date: 2024-05-26 18:17:25
 category: SoftwareResearch/AgeOfEmpires2DE
 tags: AgeOfEmpires2DE
 header:
